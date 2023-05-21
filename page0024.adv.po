@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Otome Senki\n"
+"Report-Msgid-Bugs-To: Darkc0m\n"
+"POT-Creation-Date: 16/05/23\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "             辺りにヨシツネの断末魔が響く。"
+msgstr ""
+
+msgctxt "1"
+msgid "          既に人の姿を忘れたそれから発せられるのは、"
+msgstr ""
+
+msgctxt "2"
+msgid "          叫びとも、獣の咆哮ともつかないものだった。"
+msgstr ""
+
+msgctxt "3"
+msgid "              「よくぞやった。みごとだ」"
+msgstr ""
+
+msgctxt "4"
+msgid "         突然、どこからということもなく聞こえてきた声。"
+msgstr ""
+
+msgctxt "5"
+msgid "                初めて聞く声だった。"
+msgstr ""
+
+msgctxt "6"
+msgid "          しかし皆、それが誰の物なのかを解していた。"
+msgstr ""
+
+msgctxt "7"
+msgid "               「約束だ、姫は返そう」"
+msgstr ""
+
+msgctxt "8"
+msgid "           その言葉に、一様に歓喜に変わる皆の顔。"
+msgstr ""
+
+msgctxt "9"
+msgid "             しかしそれも、一瞬の事だった。"
+msgstr ""
+
+msgctxt "10"
+msgid "                  からん。"
+msgstr ""
+
+msgctxt "11"
+msgid "              何かが地面に転がり落ちた。"
+msgstr ""
+
+msgctxt "12"
+msgid "     「それを持ちて我を討てば、姫も国も、ぬしらの物となろうぞ」"
+msgstr ""
+
+msgctxt "13"
+msgid "         まるで眠っているかのような姿が、そこにあった。"
+msgstr ""
+
+msgctxt "14"
+msgid "             拳程の大きさの、その珠の中に。"
+msgstr ""
+
+msgctxt "15"
+msgid "          ある者は膝を落とし、地面を力一杯叩いた。"
+msgstr ""
+
+msgctxt "16"
+msgid "            ある者は声をあげながら涙を流し、"
+msgstr ""
+
+msgctxt "17"
+msgid "          またある者は、ただじっと唇をかんでいた。"
+msgstr ""
+
+msgctxt "18"
+msgid "               誰かが珠を拾い上げた。"
+msgstr ""
+
+msgctxt "19"
+msgid "            暫し見つめた後、そっと懐にしまう。"
+msgstr ""
+
+msgctxt "20"
+msgid "            こぼれ落ちそうな涙を、拳で拭った。"
+msgstr ""
+
+msgctxt "21"
+msgid "             まだだ。まだ、終わりではない。"
+msgstr ""
+
+msgctxt "22"
+msgid "          皆、再び牙を砥ぐ。獲物を狙う獣のように。"
+msgstr ""
+
+msgctxt "23"
+msgid "              信長を討つ、その時まで。"
+msgstr ""
+
+msgctxt "24"
+msgid "               ～  乙女戦記  ～"
+msgstr ""
+
+msgctxt "25"
+msgid "                  スタッフ"
+msgstr ""
+
+msgctxt "26"
+msgid "             監督 監修     ＴＡＤＡ"
+msgstr ""
+
+msgctxt "27"
+msgid "             キャラクター設定  ふみゃ"
+msgstr ""
+
+msgctxt "28"
+msgid "             制作        む～みん"
+msgstr ""
+
+msgctxt "29"
+msgid "             プログラム     ＷＡＯ"
+msgstr ""
+
+msgctxt "30"
+msgid "                       かずし"
+msgstr ""
+
+msgctxt "31"
+msgid "             キャラクター    ＭＩＮ－ＮＡＲＡＫＥＮ"
+msgstr ""
+
+msgctxt "32"
+msgid "           （乙女戦記オリジナル）"
+msgstr ""
+
+msgctxt "33"
+msgid "             モンスター     織音"
+msgstr ""
+
+msgctxt "34"
+msgid "           （乙女戦記オリジナル）"
+msgstr ""
+
+msgctxt "35"
+msgid "             ＣＧ＆マップパーツ 織音"
+msgstr ""
+
+msgctxt "36"
+msgid "           （乙女戦記オリジナル） 成田屋"
+msgstr ""
+
+msgctxt "37"
+msgid "                       ふくぽん"
+msgstr ""
+
+msgctxt "38"
+msgid "             マップデザイン   む～みん"
+msgstr ""
+
+msgctxt "39"
+msgid "                       ＴＡＤＡ"
+msgstr ""
+
+msgctxt "40"
+msgid "                       織音"
+msgstr ""
+
+msgctxt "41"
+msgid "             音楽 効果音    Ｓｈａｄｅ"
+msgstr ""
+
+msgctxt "42"
+msgid "             Ｓｐｅｃｉａｌ   アリスネットにて"
+msgstr ""
+
+msgctxt "43"
+msgid "                Ｔｈａｎｋｓ 協力して下さった方々"
+msgstr ""
+
+msgctxt "44"
+msgid "               ～  乙女戦記  ～"
+msgstr ""
+
+msgctxt "45"
+msgid "                   終了"
+msgstr ""

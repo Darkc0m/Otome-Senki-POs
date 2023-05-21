@@ -1,0 +1,1008 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Otome Senki\n"
+"Report-Msgid-Bugs-To: Darkc0m\n"
+"POT-Creation-Date: 16/05/23\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "しかし取っ手はカラカラと、力なく回るだけだ。"
+msgstr ""
+
+msgctxt "1"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "2"
+msgid "真朱"
+msgstr "Masoho"
+
+msgctxt "3"
+msgid "七緒"
+msgstr "Nanao"
+
+msgctxt "4"
+msgid "春菜"
+msgstr "Haruna"
+
+msgctxt "5"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "6"
+msgid "このは"
+msgstr "Konoha"
+
+msgctxt "7"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "8"
+msgid "ミオ"
+msgstr "Mio"
+
+msgctxt "9"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "10"
+msgid "捕まっていた仲間を地上まで送りますか？"
+msgstr ""
+
+msgctxt "11"
+msgid "ＮＯ"
+msgstr "No"
+
+msgctxt "12"
+msgid "ＹＥＳ"
+msgstr "Sí"
+
+msgctxt "13"
+msgid "が捕まっています。"
+msgstr ""
+
+msgctxt "14"
+msgid "消耗がひどいので、そのまま診療所に入院させます。"
+msgstr ""
+
+msgctxt "15"
+msgid "何か強い力でドアは塞がれている。"
+msgstr ""
+
+msgctxt "16"
+msgid "巨木が道を塞いでいる。"
+msgstr ""
+
+msgctxt "17"
+msgid "なんの抵抗もなく扉は開いた。"
+msgstr ""
+
+msgctxt "18"
+msgid "鍵がかかっている様子はないのに、扉はビクともしない。"
+msgstr ""
+
+msgctxt "19"
+msgid "穴から飛び降りる？！"
+msgstr ""
+
+msgctxt "20"
+msgid "普通の人間では、ただではすまないぞ？"
+msgstr ""
+
+msgctxt "21"
+msgid "扉はひらいた。"
+msgstr ""
+
+msgctxt "22"
+msgid "扉には鍵がかかっている。"
+msgstr ""
+
+msgctxt "23"
+msgid "炎をどうにかしなければ、通るのは無理だ。"
+msgstr ""
+
+msgctxt "24"
+msgid "開けない"
+msgstr ""
+
+msgctxt "25"
+msgid "開ける"
+msgstr ""
+
+msgctxt "26"
+msgid "天狗「正しい判断だ。」"
+msgstr ""
+
+msgctxt "27"
+msgid "獰猛そうなイヌが、よだれを垂らしてこちらを見ている。"
+msgstr ""
+
+msgctxt "28"
+msgid "戦うか？"
+msgstr ""
+
+msgctxt "29"
+msgid "イヌに挑む！"
+msgstr ""
+
+msgctxt "30"
+msgid "巨大なサルが、こちらを威嚇するように牙をむいている。"
+msgstr ""
+
+msgctxt "31"
+msgid "戦うか？"
+msgstr ""
+
+msgctxt "32"
+msgid "サルに挑む！"
+msgstr ""
+
+msgctxt "33"
+msgid "キジは警戒するように、くちばしをカチカチとならしている。"
+msgstr ""
+
+msgctxt "34"
+msgid "戦うか？"
+msgstr ""
+
+msgctxt "35"
+msgid "キジに挑む！"
+msgstr ""
+
+msgctxt "36"
+msgid "プラムズゴーストを倒した。"
+msgstr ""
+
+msgctxt "37"
+msgid "戦うか？"
+msgstr ""
+
+msgctxt "38"
+msgid "ブルーハニーに挑む！"
+msgstr ""
+
+msgctxt "39"
+msgid "ハニー「通さないぞ、ふふふん。」"
+msgstr ""
+
+msgctxt "40"
+msgid "戦うか？"
+msgstr ""
+
+msgctxt "41"
+msgid "マーシュに挑む！"
+msgstr ""
+
+msgctxt "42"
+msgid "マーシュ「腰抜けめ。」"
+msgstr ""
+
+msgctxt "43"
+msgid "戦うか？"
+msgstr ""
+
+msgctxt "44"
+msgid "ムサシボウに挑む！"
+msgstr ""
+
+msgctxt "45"
+msgid "すっぽぬけぬけ"
+msgstr ""
+
+msgctxt "46"
+msgid "戦うか？"
+msgstr ""
+
+msgctxt "47"
+msgid "ヨシツネに挑む！"
+msgstr ""
+
+msgctxt "48"
+msgid "ヨシツネ「ははは、追ってこい！ 俺を楽しませろ！」"
+msgstr ""
+
+msgctxt "49"
+msgid "すっぽぬけぬけ"
+msgstr ""
+
+msgctxt "50"
+msgid "戦うか？"
+msgstr ""
+
+msgctxt "51"
+msgid "ヨシツネに挑む！"
+msgstr ""
+
+msgctxt "52"
+msgid "ヨシツネ「ははは、楽しいよ。しかし、次で終わりだ！」"
+msgstr ""
+
+msgctxt "53"
+msgid "すっぽぬけぬけ"
+msgstr ""
+
+msgctxt "54"
+msgid "戦うか？"
+msgstr ""
+
+msgctxt "55"
+msgid "ヨシツネが姿を変えた！"
+msgstr ""
+
+msgctxt "56"
+msgid "すっぽぬけぬけ"
+msgstr ""
+
+msgctxt "57"
+msgid "戦うか？"
+msgstr ""
+
+msgctxt "58"
+msgid "テングに挑む！"
+msgstr ""
+
+msgctxt "59"
+msgid "テング「・・・どうだ、娘。最後に酌でもしてくれんか？」"
+msgstr ""
+
+msgctxt "60"
+msgid "テング「そうか・・・それは残念。」"
+msgstr ""
+
+msgctxt "61"
+msgid "すっぽぬけぬけ"
+msgstr ""
+
+msgctxt "62"
+msgid "テング「・・・なんと愚かな。」"
+msgstr ""
+
+msgctxt "63"
+msgid "テングが現れた！"
+msgstr ""
+
+msgctxt "64"
+msgid "闘うか？"
+msgstr ""
+
+msgctxt "65"
+msgid "トモエに挑む！"
+msgstr ""
+
+msgctxt "66"
+msgid "トモエを倒した。とどめを差すか？"
+msgstr ""
+
+msgctxt "67"
+msgid "ヨシナカ「そうはさせん！ さあ、いまのうちに！」"
+msgstr ""
+
+msgctxt "68"
+msgid "トモエは逃げた。"
+msgstr ""
+
+msgctxt "69"
+msgid "ぬけ"
+msgstr ""
+
+msgctxt "70"
+msgid "闘うか？"
+msgstr ""
+
+msgctxt "71"
+msgid "トモエに挑む！"
+msgstr ""
+
+msgctxt "72"
+msgid "トモエを倒した。とどめを差すか？"
+msgstr ""
+
+msgctxt "73"
+msgid "トモエ「口惜しや・・・ああ、私の赤ん坊・・・」"
+msgstr ""
+
+msgctxt "74"
+msgid "トモエを倒した。"
+msgstr ""
+
+msgctxt "75"
+msgid "ヨシナカ「そうはさせん！ さあ、いまのうちに！」"
+msgstr ""
+
+msgctxt "76"
+msgid "トモエは穴から下へ逃げたようだ。"
+msgstr ""
+
+msgctxt "77"
+msgid "ぬけ"
+msgstr ""
+
+msgctxt "78"
+msgid "闘うか？"
+msgstr ""
+
+msgctxt "79"
+msgid "トモエに挑む！"
+msgstr ""
+
+msgctxt "80"
+msgid "トモエ「口惜しや・・・ああ、私の赤ん坊・・・」"
+msgstr ""
+
+msgctxt "81"
+msgid "トモエを倒した。"
+msgstr ""
+
+msgctxt "82"
+msgid "すっ"
+msgstr ""
+
+msgctxt "83"
+msgid "闘うか？"
+msgstr ""
+
+msgctxt "84"
+msgid "ヨシナカに挑む！"
+msgstr ""
+
+msgctxt "85"
+msgid "ヨシナカを倒した。とどめを差すか？"
+msgstr ""
+
+msgctxt "86"
+msgid "トモエ「妾がただ、眺めておるだけと思うのかえ？」"
+msgstr ""
+
+msgctxt "87"
+msgid "あたりいっぱいにトモエの髪が広がる。"
+msgstr ""
+
+msgctxt "88"
+msgid "ヨシナカの姿は、もうそこにはなかった。"
+msgstr ""
+
+msgctxt "89"
+msgid "ぽぬ"
+msgstr ""
+
+msgctxt "90"
+msgid "闘うか？"
+msgstr ""
+
+msgctxt "91"
+msgid "ヨシナカに挑む！"
+msgstr ""
+
+msgctxt "92"
+msgid "ヨシナカを倒した。とどめを差すか？"
+msgstr ""
+
+msgctxt "93"
+msgid "ヨシナカ「・・・最後に一目、我が子を・・・」"
+msgstr ""
+
+msgctxt "94"
+msgid "ヨシナカを倒しました。"
+msgstr ""
+
+msgctxt "95"
+msgid "トモエ「妾がただ、眺めておるだけと思うのかえ？」"
+msgstr ""
+
+msgctxt "96"
+msgid "あたりいっぱいにトモエの髪が広がる。"
+msgstr ""
+
+msgctxt "97"
+msgid "ヨシナカは穴から下に逃げたようだ。"
+msgstr ""
+
+msgctxt "98"
+msgid "すぬ"
+msgstr ""
+
+msgctxt "99"
+msgid "闘うか？"
+msgstr ""
+
+msgctxt "100"
+msgid "ヨシナカに挑む！"
+msgstr ""
+
+msgctxt "101"
+msgid "ヨシナカ「・・・最後に一目、我が子を・・・」"
+msgstr ""
+
+msgctxt "102"
+msgid "ヨシナカを倒しました。"
+msgstr ""
+
+msgctxt "103"
+msgid "すぬ"
+msgstr ""
+
+msgctxt "104"
+msgid "突然背後から、強い風が吹いて来た。"
+msgstr ""
+
+msgctxt "105"
+msgid "扉から無理矢理、押し出されてしまった。"
+msgstr ""
+
+msgctxt "106"
+msgid "転送されてきた所は、どこかの橋の上だった。"
+msgstr ""
+
+msgctxt "107"
+msgid "前方からは、かすかな笛の音が流れてくる。"
+msgstr ""
+
+msgctxt "108"
+msgid "地下１階"
+msgstr ""
+
+msgctxt "109"
+msgid "地下２階"
+msgstr ""
+
+msgctxt "110"
+msgid "地下３階"
+msgstr ""
+
+msgctxt "111"
+msgid "地下４階"
+msgstr ""
+
+msgctxt "112"
+msgid "地下５階"
+msgstr ""
+
+msgctxt "113"
+msgid "使わない"
+msgstr ""
+
+msgctxt "114"
+msgid "地下１階"
+msgstr ""
+
+msgctxt "115"
+msgid "地下６階"
+msgstr ""
+
+msgctxt "116"
+msgid "地下７階"
+msgstr ""
+
+msgctxt "117"
+msgid "地下８階"
+msgstr ""
+
+msgctxt "118"
+msgid "地下９階"
+msgstr ""
+
+msgctxt "119"
+msgid "地下１０階"
+msgstr ""
+
+msgctxt "120"
+msgid "使わない"
+msgstr ""
+
+msgctxt "121"
+msgid "ＮＯ"
+msgstr "No"
+
+msgctxt "122"
+msgid "ＹＥＳ"
+msgstr "Sí"
+
+msgctxt "123"
+msgid "おや"
+msgstr ""
+
+msgctxt "124"
+msgid "・"
+msgstr ""
+
+msgctxt "125"
+msgid "・"
+msgstr ""
+
+msgctxt "126"
+msgid "・"
+msgstr ""
+
+msgctxt "127"
+msgid "・"
+msgstr ""
+
+msgctxt "128"
+msgid "モンスターだ！"
+msgstr ""
+
+msgctxt "129"
+msgid "ロードしました。"
+msgstr ""
+
+msgctxt "130"
+msgid "宝箱だ！"
+msgstr ""
+
+msgctxt "131"
+msgid "が、いなくなっている？！"
+msgstr ""
+
+msgctxt "132"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "133"
+msgid "真朱"
+msgstr "Masoho"
+
+msgctxt "134"
+msgid "七緒"
+msgstr "Nanao"
+
+msgctxt "135"
+msgid "春菜"
+msgstr "Haruna"
+
+msgctxt "136"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "137"
+msgid "このは"
+msgstr "Konoha"
+
+msgctxt "138"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "139"
+msgid "ミオ"
+msgstr "Mio"
+
+msgctxt "140"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "141"
+msgid "が元気になって退院しているでしょう。"
+msgstr ""
+
+msgctxt "142"
+msgid "そこで橋はとぎれていた。小さな立て札にはこう書かれている。"
+msgstr ""
+
+msgctxt "143"
+msgid "     日の光が恋しければ、闇に身を投じよ"
+msgstr ""
+
+msgctxt "144"
+msgid "飛び降りるか？"
+msgstr ""
+
+msgctxt "145"
+msgid "すっぽぬけぬけ"
+msgstr ""
+
+msgctxt "146"
+msgid "ＹＥＳ"
+msgstr "Sí"
+
+msgctxt "147"
+msgid "ＮＯ"
+msgstr "No"
+
+msgctxt "148"
+msgid "ＹＥＳ"
+msgstr "Sí"
+
+msgctxt "149"
+msgid "ＮＯ"
+msgstr "No"
+
+msgctxt "150"
+msgid "ＹＥＳ"
+msgstr "Sí"
+
+msgctxt "151"
+msgid "ＮＯ"
+msgstr "No"
+
+msgctxt "152"
+msgid "街へ戻ります。"
+msgstr ""
+
+msgctxt "153"
+msgid "下のフロアに向かいます。"
+msgstr ""
+
+msgctxt "154"
+msgid "上のフロアに向かいます。"
+msgstr ""
+
+msgctxt "155"
+msgid "G+EC5FG+EC60"
+msgstr ""
+
+msgctxt "156"
+msgid "G+EC63G+EC64"
+msgstr ""
+
+msgctxt "157"
+msgid "G+EC67G+EC68"
+msgstr ""
+
+msgctxt "158"
+msgid "G+EC6BG+EC6C"
+msgstr ""
+
+msgctxt "159"
+msgid "G+EC61G+EC62"
+msgstr ""
+
+msgctxt "160"
+msgid "G+EC65G+EC66"
+msgstr ""
+
+msgctxt "161"
+msgid "G+EC69G+EC6A"
+msgstr ""
+
+msgctxt "162"
+msgid "G+EC6DG+EC6E"
+msgstr ""
+
+msgctxt "163"
+msgid "G+EC4FG+EC50"
+msgstr ""
+
+msgctxt "164"
+msgid "G+EC53G+EC54"
+msgstr ""
+
+msgctxt "165"
+msgid "G+EC57G+EC58"
+msgstr ""
+
+msgctxt "166"
+msgid "G+EC5BG+EC5C"
+msgstr ""
+
+msgctxt "167"
+msgid "G+EC51G+EC52"
+msgstr ""
+
+msgctxt "168"
+msgid "G+EC55G+EC56"
+msgstr ""
+
+msgctxt "169"
+msgid "G+EC59G+EC5A"
+msgstr ""
+
+msgctxt "170"
+msgid "G+EC5DG+EC5E"
+msgstr ""
+
+msgctxt "171"
+msgid "Ｘ："
+msgstr ""
+
+msgctxt "172"
+msgid "Ｙ："
+msgstr ""
+
+msgctxt "173"
+msgid "G+EBA3G+EBA4"
+msgstr ""
+
+msgctxt "174"
+msgid "G+EBA5G+EBA6"
+msgstr ""
+
+msgctxt "175"
+msgid "G+EB9FG+EBA0"
+msgstr ""
+
+msgctxt "176"
+msgid "G+EBA1G+EBA2"
+msgstr ""
+
+msgctxt "177"
+msgid "・"
+msgstr ""
+
+msgctxt "178"
+msgid "・"
+msgstr ""
+
+msgctxt "179"
+msgid "G+EBAFG+EBB0"
+msgstr ""
+
+msgctxt "180"
+msgid "G+EBB1G+EBB2"
+msgstr ""
+
+msgctxt "181"
+msgid "G+EBABG+EBAC"
+msgstr ""
+
+msgctxt "182"
+msgid "G+EBADG+EBAE"
+msgstr ""
+
+msgctxt "183"
+msgid "G+EBA7G+EBA8"
+msgstr ""
+
+msgctxt "184"
+msgid "G+EBA9G+EBAA"
+msgstr ""
+
+msgctxt "185"
+msgid "G+EBA3G+EBA4"
+msgstr ""
+
+msgctxt "186"
+msgid "G+EBA5G+EBA6"
+msgstr ""
+
+msgctxt "187"
+msgid "G+EB9FG+EBA0"
+msgstr ""
+
+msgctxt "188"
+msgid "G+EBA1G+EBA2"
+msgstr ""
+
+msgctxt "189"
+msgid "G+EBC3G+EBC4"
+msgstr ""
+
+msgctxt "190"
+msgid "G+EBC5G+EBC6"
+msgstr ""
+
+msgctxt "191"
+msgid "G+EB9FG+EBA0"
+msgstr ""
+
+msgctxt "192"
+msgid "G+EBA3G+EBA4"
+msgstr ""
+
+msgctxt "193"
+msgid "G+EBA7G+EBA8"
+msgstr ""
+
+msgctxt "194"
+msgid "G+EBABG+EBAC"
+msgstr ""
+
+msgctxt "195"
+msgid "G+EBAFG+EBB0"
+msgstr ""
+
+msgctxt "196"
+msgid "G+EBB3G+EBB4"
+msgstr ""
+
+msgctxt "197"
+msgid "G+EBB7G+EBB8"
+msgstr ""
+
+msgctxt "198"
+msgid "G+EBBBG+EBBC"
+msgstr ""
+
+msgctxt "199"
+msgid "G+EBBFG+EBC0"
+msgstr ""
+
+msgctxt "200"
+msgid "G+EBC3G+EBC4"
+msgstr ""
+
+msgctxt "201"
+msgid "G+EBA1G+EBA2"
+msgstr ""
+
+msgctxt "202"
+msgid "G+EBA5G+EBA6"
+msgstr ""
+
+msgctxt "203"
+msgid "G+EBA9G+EBAA"
+msgstr ""
+
+msgctxt "204"
+msgid "G+EBADG+EBAE"
+msgstr ""
+
+msgctxt "205"
+msgid "G+EBB1G+EBB2"
+msgstr ""
+
+msgctxt "206"
+msgid "G+EBB5G+EBB6"
+msgstr ""
+
+msgctxt "207"
+msgid "G+EBB9G+EBBA"
+msgstr ""
+
+msgctxt "208"
+msgid "G+EBBDG+EBBE"
+msgstr ""
+
+msgctxt "209"
+msgid "G+EBC1G+EBC2"
+msgstr ""
+
+msgctxt "210"
+msgid "G+EBC5G+EBC6"
+msgstr ""
+
+msgctxt "211"
+msgid "キャンプ"
+msgstr ""
+
+msgctxt "212"
+msgid "システム"
+msgstr ""
+
+msgctxt "213"
+msgid "セーブ"
+msgstr ""
+
+msgctxt "214"
+msgid "バーウェイト"
+msgstr ""
+
+msgctxt "215"
+msgid "セーブして移動画面に戻ります。"
+msgstr ""
+
+msgctxt "216"
+msgid "とてもはやい"
+msgstr ""
+
+msgctxt "217"
+msgid "はやい"
+msgstr ""
+
+msgctxt "218"
+msgid "普通"
+msgstr ""
+
+msgctxt "219"
+msgid "バーの減りがとてもはやくなります"
+msgstr ""
+
+msgctxt "220"
+msgid "バーの減りがはやくなります"
+msgstr ""
+
+msgctxt "221"
+msgid "バーの減りが通常になります"
+msgstr ""
+
+msgctxt "222"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "223"
+msgid "ＨＰ："
+msgstr "PS: "
+
+msgctxt "224"
+msgid "ＭＰ："
+msgstr "PM: "
+
+msgctxt "225"
+msgid "桧垣 真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "226"
+msgid "ＨＰ："
+msgstr "PS: "
+
+msgctxt "227"
+msgid "ＭＰ："
+msgstr "PM: "
+
+msgctxt "228"
+msgid "立湧 七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "229"
+msgid "ＨＰ："
+msgstr "PS: "
+
+msgctxt "230"
+msgid "ＭＰ："
+msgstr "PM: "
+
+msgctxt "231"
+msgid "一条 春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "232"
+msgid "ＨＰ："
+msgstr "PS: "
+
+msgctxt "233"
+msgid "ＭＰ："
+msgstr "PM: "
+
+msgctxt "234"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "235"
+msgid "ＨＰ："
+msgstr "PS: "
+
+msgctxt "236"
+msgid "ＭＰ："
+msgstr "PM: "
+
+msgctxt "237"
+msgid "剣菱 このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "238"
+msgid "ＨＰ："
+msgstr "PS: "
+
+msgctxt "239"
+msgid "ＭＰ："
+msgstr "PM: "
+
+msgctxt "240"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "241"
+msgid "ＨＰ："
+msgstr "PS: "
+
+msgctxt "242"
+msgid "ＭＰ："
+msgstr "PM: "
+
+msgctxt "243"
+msgid "鈴木 ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "244"
+msgid "ＨＰ："
+msgstr "PS: "
+
+msgctxt "245"
+msgid "ＭＰ："
+msgstr "PM: "
+
+msgctxt "246"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "247"
+msgid "ＨＰ："
+msgstr "PS: "
+
+msgctxt "248"
+msgid "ＭＰ："
+msgstr "PM: "

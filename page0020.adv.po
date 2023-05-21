@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Otome Senki\n"
+"Report-Msgid-Bugs-To: Darkc0m\n"
+"POT-Creation-Date: 16/05/23\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "はしごの前を守っていた敵は、他の敵より明らかに強かった。"
+msgstr ""
+
+msgctxt "1"
+msgid "ようやく地下１階は楽に歩けるようになったものの、これより"
+msgstr ""
+
+msgctxt "2"
+msgid "下の階は、さらに敵は強くなっていくのだろう。"
+msgstr ""
+
+msgctxt "3"
+msgid "恐くないといえば嘘になる。たかが最初の階だというのに、"
+msgstr ""
+
+msgctxt "4"
+msgid "一体何度死ぬかもしれないと感じただろうか。"
+msgstr ""
+
+msgctxt "5"
+msgid "しかし、逃げ出すことはできない。"
+msgstr ""
+
+msgctxt "6"
+msgid "姫はまだ、はるか地の底なのだから。"
+msgstr ""
+
+msgctxt "7"
+msgid "地下３階へと降りるための鍵を守っていた敵、ムサシボウ。"
+msgstr ""
+
+msgctxt "8"
+msgid "そう、あの敵は、確かに鍵を「守っていた」。"
+msgstr ""
+
+msgctxt "9"
+msgid "迷宮に作られたさまざまな罠、そしてあちこちに立てられた、"
+msgstr ""
+
+msgctxt "10"
+msgid "時には助言であり、時にはからかいの立て札。"
+msgstr ""
+
+msgctxt "11"
+msgid "「この迷宮は、明らかに誰かの手によって支配されている」"
+msgstr ""
+
+msgctxt "12"
+msgid "皆、そう感じずにはいられなかった。"
+msgstr ""
+
+msgctxt "13"
+msgid "迷宮もすでに地下３階を突破。過去に聞いた噂では、"
+msgstr ""
+
+msgctxt "14"
+msgid "クロウの迷宮は地下９階までだという。"
+msgstr ""
+
+msgctxt "15"
+msgid "全体の三分の一をすでに攻略した。その事実は、皆の"
+msgstr ""
+
+msgctxt "16"
+msgid "心を明るくするに十分だった。"
+msgstr ""
+
+msgctxt "17"
+msgid "このままいけば、姫を助ける日もそう遠くはないだろう。"
+msgstr ""
+
+msgctxt "18"
+msgid "そんな気持ちが心をよぎる。しかしすぐに、それを打ち"
+msgstr ""
+
+msgctxt "19"
+msgid "消した。"
+msgstr ""
+
+msgctxt "20"
+msgid "油断こそが最大の命取りだということを、今までいやと"
+msgstr ""
+
+msgctxt "21"
+msgid "いうほど味わってきたばかりだから！"
+msgstr ""
+
+msgctxt "22"
+msgid "地下迷宮に立つ巨大な城、そしてその主、テング。"
+msgstr ""
+
+msgctxt "23"
+msgid "皆、その最後の言葉を思い出していた。"
+msgstr ""
+
+msgctxt "24"
+msgid "「いずれまた会えよう・・・」"
+msgstr ""
+
+msgctxt "25"
+msgid "そしてテングとの戦いが思い出される。"
+msgstr ""
+
+msgctxt "26"
+msgid "・・・あの時、確かにテングは手加減をしていた。"
+msgstr ""
+
+msgctxt "27"
+msgid "まるでこちらの力量を測るかのように。"
+msgstr ""
+
+msgctxt "28"
+msgid "皆、どこか釈然としない。"
+msgstr ""
+
+msgctxt "29"
+msgid "昇降機はただ静かに、地下５階へと降りていった。"
+msgstr ""
+
+msgctxt "30"
+msgid "新たに出現した敵、トモエとヨシナカ。二人とも、"
+msgstr ""
+
+msgctxt "31"
+msgid "わずかに刀を交えただけで消え去ってしまった。"
+msgstr ""
+
+msgctxt "32"
+msgid "この先、地下６階に彼らはいるのだろう。"
+msgstr ""
+
+msgctxt "33"
+msgid "「汝等が進めば、我と剣を交えることとなろう。」"
+msgstr ""
+
+msgctxt "34"
+msgid "ヨシナカの言葉が耳に残っている。"
+msgstr ""
+
+msgctxt "35"
+msgid "「汝等が進めば」？"
+msgstr ""
+
+msgctxt "36"
+msgid "進むしか、道はない。他の道はすべて捨てた。"
+msgstr ""
+
+msgctxt "37"
+msgid "この迷宮へと続く、あの門をくぐった時に。"
+msgstr ""
+
+msgctxt "38"
+msgid "何者かの命により、皆の進む道に立ちふさがってきた者達。"
+msgstr ""
+
+msgctxt "39"
+msgid "ムサシボウに始まり、テング、トモエ、そしてヨシナカ。"
+msgstr ""
+
+msgctxt "40"
+msgid "しかしその誰もが、どこか様子がおかしかった。"
+msgstr ""
+
+msgctxt "41"
+msgid "ただ素直に命令に従っているという風ではなかった。"
+msgstr ""
+
+msgctxt "42"
+msgid "何か理由があるのかもしれない・・・"
+msgstr ""
+
+msgctxt "43"
+msgid "しかし、それを察している余裕はなかった。"
+msgstr ""
+
+msgctxt "44"
+msgid "倒さなければ、倒される。"
+msgstr ""
+
+msgctxt "45"
+msgid "戦いは、いつも無情なのだから。"
+msgstr ""
+
+msgctxt "46"
+msgid "炎の壁をなんとか静め、ようやく地下７階も突破する"
+msgstr ""
+
+msgctxt "47"
+msgid "ことができた。"
+msgstr ""
+
+msgctxt "48"
+msgid "しかし、今まで抱き続けていた疑問の答えは、まだ"
+msgstr ""
+
+msgctxt "49"
+msgid "見つかっていない。"
+msgstr ""
+
+msgctxt "50"
+msgid "ムサシボウやテング、トモエにヨシナカ・・・"
+msgstr ""
+
+msgctxt "51"
+msgid "彼らを操っていたのは誰？ また、何のために？"
+msgstr ""
+
+msgctxt "52"
+msgid "・・・考えても仕方がない。今は進むだけ。"
+msgstr ""
+
+msgctxt "53"
+msgid "そう、先に進めば全てに答えが出るはずだ。"
+msgstr ""
+
+msgctxt "54"
+msgid "地下９階へと続くはしごを降りる。"
+msgstr ""
+
+msgctxt "55"
+msgid "姫は、もうすぐそこなのだ。"
+msgstr ""
+
+msgctxt "56"
+msgid "襲いかかってくる敵は、確かに強い。しかし、自分達も"
+msgstr ""
+
+msgctxt "57"
+msgid "あの頃の・・・地下１階で苦戦していた頃とは違う。"
+msgstr ""
+
+msgctxt "58"
+msgid "アザや傷がいくつも残っている肌を、指先で軽くなぞった。"
+msgstr ""
+
+msgctxt "59"
+msgid "その指も、年頃の娘の物とは言い難いかもしれない。"
+msgstr ""
+
+msgctxt "60"
+msgid "炊事や裁縫で作る傷とは違う。痛く、生々しい。"
+msgstr ""
+
+msgctxt "61"
+msgid "しかしそれらは姫を救った時、全て勲章になりえるのだ。"
+msgstr ""
+
+msgctxt "62"
+msgid "地下９階に、めざす物はなかった。そして目下にあるのは"
+msgstr ""
+
+msgctxt "63"
+msgid "さらに下へと続くはしご。"
+msgstr ""
+
+msgctxt "64"
+msgid "地下１０階に下り立った。周りの様子は、今までの階と"
+msgstr ""
+
+msgctxt "65"
+msgid "なんらかわりはない。"
+msgstr ""
+
+msgctxt "66"
+msgid "しかし、全身にぴりぴりと伝わってくる「何か」。"
+msgstr ""
+
+msgctxt "67"
+msgid "悪意のような、殺気のような「何か」が、皆に確信させた。"
+msgstr ""
+
+msgctxt "68"
+msgid "「ここが最深層だ」と。"
+msgstr ""
+
+msgctxt "69"
+msgid "「姫は、ここにいる」と！"
+msgstr ""

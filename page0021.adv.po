@@ -1,0 +1,372 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Otome Senki\n"
+"Report-Msgid-Bugs-To: Darkc0m\n"
+"POT-Creation-Date: 16/05/23\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "押しても引いても動かない。"
+msgstr ""
+
+msgctxt "1"
+msgid "どうやら扉には、鍵がかかっているらしい。"
+msgstr ""
+
+msgctxt "2"
+msgid "押しても引いても動かない。"
+msgstr ""
+
+msgctxt "3"
+msgid "どうやら扉には、鍵がかかっているらしい。"
+msgstr ""
+
+msgctxt "4"
+msgid "しかしムサシボウの鍵で、扉は開いた。"
+msgstr ""
+
+msgctxt "5"
+msgid "鍵がかかっている様子はないのに、扉はビクとも"
+msgstr ""
+
+msgctxt "6"
+msgid "しない。どういう仕組みなのか想像もつかない。"
+msgstr ""
+
+msgctxt "7"
+msgid "この扉は、よくみれば壁に張り付けてあるだけの"
+msgstr ""
+
+msgctxt "8"
+msgid "ようだ。もし開けたとしても、壁があるだけだろう。"
+msgstr ""
+
+msgctxt "9"
+msgid "ガッシリとした門は、力強い男が１０人がかりで"
+msgstr ""
+
+msgctxt "10"
+msgid "押したとしても、開きそうにない。"
+msgstr ""
+
+msgctxt "11"
+msgid "天狗「うろうろするのはかまわんが、それより先に進ませる"
+msgstr ""
+
+msgctxt "12"
+msgid "   わけにはいかんな。家主の言葉には素直に従うな？"
+msgstr ""
+
+msgctxt "13"
+msgid "天狗「あまり礼を欠く様なら、少々教育してやらねば"
+msgstr ""
+
+msgctxt "14"
+msgid "   ならんが・・・それでもその扉を開けるかね？"
+msgstr ""
+
+msgctxt "15"
+msgid "ドアに何か、書かれている。血のようだ。"
+msgstr ""
+
+msgctxt "16"
+msgid "『怨の部屋。命持つ者、一瞬でそれを失う。"
+msgstr ""
+
+msgctxt "17"
+msgid " この世に未練が無ければ、御自由に・・・』"
+msgstr ""
+
+msgctxt "18"
+msgid "入るか？"
+msgstr ""
+
+msgctxt "19"
+msgid "扉の向こうでは、ごうごうと風の唸りが聞こえる。"
+msgstr ""
+
+msgctxt "20"
+msgid "その空気の塊に押されているのであろう、ドアは"
+msgstr ""
+
+msgctxt "21"
+msgid "まったく動かない。"
+msgstr ""
+
+msgctxt "22"
+msgid "理不尽なことに、目の前には見えない壁があるらしい。"
+msgstr ""
+
+msgctxt "23"
+msgid "何も無いように見える空間を撫でまわす様子は、はたから"
+msgstr ""
+
+msgctxt "24"
+msgid "見れば、さも滑稽だろう。"
+msgstr ""
+
+msgctxt "25"
+msgid "扉には大きな錠前がついている。"
+msgstr ""
+
+msgctxt "26"
+msgid "特殊な錠らしく、専用の鍵でなければ開けられそうにない。"
+msgstr ""
+
+msgctxt "27"
+msgid "目の前には、背中に無数の武器を背負った大男が立っている。"
+msgstr ""
+
+msgctxt "28"
+msgid "ムサシボウ「ここより下へ進みたくば、"
+msgstr ""
+
+msgctxt "29"
+msgid "      我の屍、乗り越えてゆけい。」"
+msgstr ""
+
+msgctxt "30"
+msgid "断末魔と共に、ムサシボウは跡形もなく消え去った。"
+msgstr ""
+
+msgctxt "31"
+msgid "いや、一つだけ残っている。小さな鍵だ。"
+msgstr ""
+
+msgctxt "32"
+msgid "ムサシボウの鍵を手に入れた。"
+msgstr ""
+
+msgctxt "33"
+msgid "４階の城にいたテングがいる。"
+msgstr ""
+
+msgctxt "34"
+msgid "テングは満足げに大きくうなずいた。"
+msgstr ""
+
+msgctxt "35"
+msgid "テング「・・・ふむ。ついに来よったか。"
+msgstr ""
+
+msgctxt "36"
+msgid "    さてさて、どこまで強くなった？ わしに見せい。」"
+msgstr ""
+
+msgctxt "37"
+msgid "テング「見事だ！ 女の身で、わしより一本とるとはな・・・」"
+msgstr ""
+
+msgctxt "38"
+msgid "テング「この先に、あやつがおるよ・・・おぬしらの他に"
+msgstr ""
+
+msgctxt "39"
+msgid "    わしより一本とったのは、後にも先にもあやつ"
+msgstr ""
+
+msgctxt "40"
+msgid "    だけ。」"
+msgstr ""
+
+msgctxt "41"
+msgid "テング「しかし、もう・・・」"
+msgstr ""
+
+msgctxt "42"
+msgid "幡桃酒を盃に注ぐ。そしてそれを、テングへと差し出した。"
+msgstr ""
+
+msgctxt "43"
+msgid "テング「ふう・・・よい香りだ。"
+msgstr ""
+
+msgctxt "44"
+msgid "    すまんが飲ませてもらえんか。」"
+msgstr ""
+
+msgctxt "45"
+msgid "見ればもう、テングは自らの手で盃を受け取ることもできない"
+msgstr ""
+
+msgctxt "46"
+msgid "ようだ。テングの口に盃をあててやった。"
+msgstr ""
+
+msgctxt "47"
+msgid "テング「・・・ふむ、うまい。」"
+msgstr ""
+
+msgctxt "48"
+msgid "そこまでいうと、テングはこときれた。テングの体は"
+msgstr ""
+
+msgctxt "49"
+msgid "サラサラと塵にかわり、どこからともなく吹いてきた"
+msgstr ""
+
+msgctxt "50"
+msgid "風にとばされた。"
+msgstr ""
+
+msgctxt "51"
+msgid "残されたのは、テングが手にしていた蓮の葉のような"
+msgstr ""
+
+msgctxt "52"
+msgid "扇子だけだった。"
+msgstr ""
+
+msgctxt "53"
+msgid "テング扇を手に入れた。"
+msgstr ""
+
+msgctxt "54"
+msgid "天狗「・・・よい太刀筋だ。いずれまた会えよう・・・"
+msgstr ""
+
+msgctxt "55"
+msgid "かろうじてその言葉だけは聞き取れたが、天狗はすでに"
+msgstr ""
+
+msgctxt "56"
+msgid "かき消すようにいなくなっていた。"
+msgstr ""
+
+msgctxt "57"
+msgid "それと同じくして、扉を塞いでいた力も消え失せたらしい。"
+msgstr ""
+
+msgctxt "58"
+msgid "台座に扇子をおさめた途端、あたりは闇に包まれた。"
+msgstr ""
+
+msgctxt "59"
+msgid "なにか、糸のように細い物が、まとわりついてくる・・・"
+msgstr ""
+
+msgctxt "60"
+msgid "否！ 糸ではない、これは髪だ！"
+msgstr ""
+
+msgctxt "61"
+msgid "トモエ「ほほほ、ようぞ参った・・・。"
+msgstr ""
+
+msgctxt "62"
+msgid "    しかしまだ、歓迎の用意が整うておらぬ・・・」"
+msgstr ""
+
+msgctxt "63"
+msgid "トモエ「戯れは終わりじゃ。我を追ってくるがよい。"
+msgstr ""
+
+msgctxt "64"
+msgid "    地獄へといざなおうぞ。」"
+msgstr ""
+
+msgctxt "65"
+msgid "髪が一層広がった。それがおさまったとき、すでに"
+msgstr ""
+
+msgctxt "66"
+msgid "トモエの姿はそこになかった。"
+msgstr ""
+
+msgctxt "67"
+msgid "台座に半頬をおさめた途端、あたりは闇に包まれた。"
+msgstr ""
+
+msgctxt "68"
+msgid "いや、闇の中に半頬だけ浮かんでいる・・・"
+msgstr ""
+
+msgctxt "69"
+msgid "ヨシナカ「・・・ここまで降りてこられるとは、"
+msgstr ""
+
+msgctxt "70"
+msgid "     ムサシボウは討たれたということか・・・。"
+msgstr ""
+
+msgctxt "71"
+msgid "     仕方あるまい、それもまた運命。」"
+msgstr ""
+
+msgctxt "72"
+msgid "ヨシナカ「進むも退くも、汝等の自由。"
+msgstr ""
+
+msgctxt "73"
+msgid "     しかし、我に自由はない。」"
+msgstr ""
+
+msgctxt "74"
+msgid "ヨシナカ「汝等を阻むことが、我に与えられし命。"
+msgstr ""
+
+msgctxt "75"
+msgid "     汝等が進めば、我と剣を交えることとなろう。」"
+msgstr ""
+
+msgctxt "76"
+msgid "イヌの骸から、封印のされたひょうたんが出てきた。"
+msgstr ""
+
+msgctxt "77"
+msgid "ひょうたんを手に入れた。"
+msgstr ""
+
+msgctxt "78"
+msgid "サルの骸から、封印のされたひょうたんが出てきた。"
+msgstr ""
+
+msgctxt "79"
+msgid "ひょうたんを手に入れた。"
+msgstr ""
+
+msgctxt "80"
+msgid "キジの骸から、封印のされたひょうたんが出てきた。"
+msgstr ""
+
+msgctxt "81"
+msgid "ひょうたんを手に入れた。"
+msgstr ""
+
+msgctxt "82"
+msgid "時はいつも、無情である。"
+msgstr ""
+
+msgctxt "83"
+msgid "時間は既に残されてはいなかった。"
+msgstr ""
+
+msgctxt "84"
+msgid "京姫がどうなったのか。"
+msgstr ""
+
+msgctxt "85"
+msgid "９人の娘達がどうなったのか。"
+msgstr ""
+
+msgctxt "86"
+msgid "それを知る者は、だれもいない。"
+msgstr ""
+
+msgctxt "87"
+msgid "    ＧＡＭＥ ＯＶＥＲ"
+msgstr ""
+
+msgctxt "88"
+msgid "炎の道の奥にあったカギは、どうやらここの"
+msgstr ""
+
+msgctxt "89"
+msgid "ものだったらしい。扉はひらいた。"
+msgstr ""

@@ -1,0 +1,1756 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Otome Senki\n"
+"Report-Msgid-Bugs-To: Darkc0m\n"
+"POT-Creation-Date: 16/05/23\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "グリーンハニー"
+msgstr ""
+
+msgctxt "1"
+msgid "パンチ"
+msgstr ""
+
+msgctxt "2"
+msgid "ハニーフラッシュ"
+msgstr ""
+
+msgctxt "3"
+msgid "トライデンで攻撃"
+msgstr ""
+
+msgctxt "4"
+msgid "ぬぼぼ"
+msgstr ""
+
+msgctxt "5"
+msgid "パンチ"
+msgstr ""
+
+msgctxt "6"
+msgid "キック"
+msgstr ""
+
+msgctxt "7"
+msgid "巻き付き攻撃"
+msgstr ""
+
+msgctxt "8"
+msgid "金魚"
+msgstr ""
+
+msgctxt "9"
+msgid "体当たり"
+msgstr ""
+
+msgctxt "10"
+msgid "噛付いてきた"
+msgstr ""
+
+msgctxt "11"
+msgid "一斉攻撃"
+msgstr ""
+
+msgctxt "12"
+msgid "こんにちわ"
+msgstr ""
+
+msgctxt "13"
+msgid "体当たり"
+msgstr ""
+
+msgctxt "14"
+msgid "パンチ"
+msgstr ""
+
+msgctxt "15"
+msgid "あいさつ攻撃"
+msgstr ""
+
+msgctxt "16"
+msgid "きゃんきゃん"
+msgstr ""
+
+msgctxt "17"
+msgid "おねだり"
+msgstr ""
+
+msgctxt "18"
+msgid "あいさつ"
+msgstr ""
+
+msgctxt "19"
+msgid "じゃれている"
+msgstr ""
+
+msgctxt "20"
+msgid "ラルカット"
+msgstr ""
+
+msgctxt "21"
+msgid "チョップ"
+msgstr ""
+
+msgctxt "22"
+msgid "キック"
+msgstr ""
+
+msgctxt "23"
+msgid "引っ掻き攻撃"
+msgstr ""
+
+msgctxt "24"
+msgid "やもりん"
+msgstr ""
+
+msgctxt "25"
+msgid "キック"
+msgstr ""
+
+msgctxt "26"
+msgid "５０連キック"
+msgstr ""
+
+msgctxt "27"
+msgid "１００連キック"
+msgstr ""
+
+msgctxt "28"
+msgid "マジ・スコ"
+msgstr ""
+
+msgctxt "29"
+msgid "炎の矢を放った"
+msgstr ""
+
+msgctxt "30"
+msgid "パンチ"
+msgstr ""
+
+msgctxt "31"
+msgid "尻尾で攻撃"
+msgstr ""
+
+msgctxt "32"
+msgid "きゃんきゃλ"
+msgstr ""
+
+msgctxt "33"
+msgid "おねだり"
+msgstr ""
+
+msgctxt "34"
+msgid "あいさつ"
+msgstr ""
+
+msgctxt "35"
+msgid "じゃれている"
+msgstr ""
+
+msgctxt "36"
+msgid "ブルーハニー"
+msgstr ""
+
+msgctxt "37"
+msgid "パンチ"
+msgstr ""
+
+msgctxt "38"
+msgid "ハニーフラッシュ"
+msgstr ""
+
+msgctxt "39"
+msgid "トライデンで攻撃"
+msgstr ""
+
+msgctxt "40"
+msgid "るろんた"
+msgstr ""
+
+msgctxt "41"
+msgid "パンチ"
+msgstr ""
+
+msgctxt "42"
+msgid "抱き付いてきた"
+msgstr ""
+
+msgctxt "43"
+msgid "体当たり"
+msgstr ""
+
+msgctxt "44"
+msgid "ちゃつみ"
+msgstr ""
+
+msgctxt "45"
+msgid "抱きついてきた"
+msgstr ""
+
+msgctxt "46"
+msgid "でんぐりがえり"
+msgstr ""
+
+msgctxt "47"
+msgid "でんぐりだっこ"
+msgstr ""
+
+msgctxt "48"
+msgid "めいどさん"
+msgstr ""
+
+msgctxt "49"
+msgid "はたきで攻撃"
+msgstr ""
+
+msgctxt "50"
+msgid "ビンタ"
+msgstr ""
+
+msgctxt "51"
+msgid "料理爆弾を投げた"
+msgstr ""
+
+msgctxt "52"
+msgid "おかし女"
+msgstr ""
+
+msgctxt "53"
+msgid "お菓子を投げた"
+msgstr ""
+
+msgctxt "54"
+msgid "お菓子を食べた"
+msgstr ""
+
+msgctxt "55"
+msgid "小麦粉をばらまいた"
+msgstr ""
+
+msgctxt "56"
+msgid "うし使い"
+msgstr ""
+
+msgctxt "57"
+msgid "剣で攻撃"
+msgstr ""
+
+msgctxt "58"
+msgid "うしを突進させた"
+msgstr ""
+
+msgctxt "59"
+msgid "うしを抱きしめた"
+msgstr ""
+
+msgctxt "60"
+msgid "てんてん"
+msgstr ""
+
+msgctxt "61"
+msgid "てんてんパーンチ"
+msgstr ""
+
+msgctxt "62"
+msgid "てんてんキーック"
+msgstr ""
+
+msgctxt "63"
+msgid "雷撃を放つ"
+msgstr ""
+
+msgctxt "64"
+msgid "にょ◎に◎ろ"
+msgstr ""
+
+msgctxt "65"
+msgid "にょろん"
+msgstr ""
+
+msgctxt "66"
+msgid "にょろろん"
+msgstr ""
+
+msgctxt "67"
+msgid "にょろにょろん"
+msgstr ""
+
+msgctxt "68"
+msgid "ぷりょ"
+msgstr ""
+
+msgctxt "69"
+msgid "牙で攻撃"
+msgstr ""
+
+msgctxt "70"
+msgid "増殖した"
+msgstr ""
+
+msgctxt "71"
+msgid "噛付いてきた"
+msgstr ""
+
+msgctxt "72"
+msgid "マグボール"
+msgstr ""
+
+msgctxt "73"
+msgid "引っ掻いてきた"
+msgstr ""
+
+msgctxt "74"
+msgid "目から怪光線を放つ"
+msgstr ""
+
+msgctxt "75"
+msgid "怪電波を放射した"
+msgstr ""
+
+msgctxt "76"
+msgid "うっぴー"
+msgstr ""
+
+msgctxt "77"
+msgid "噛付いてきた"
+msgstr ""
+
+msgctxt "78"
+msgid "火を吹いた"
+msgstr ""
+
+msgctxt "79"
+msgid "火炎放射"
+msgstr ""
+
+msgctxt "80"
+msgid "ぶたバンバラ"
+msgstr ""
+
+msgctxt "81"
+msgid "剣を振り回す"
+msgstr ""
+
+msgctxt "82"
+msgid "体当たり"
+msgstr ""
+
+msgctxt "83"
+msgid "大暴れ"
+msgstr ""
+
+msgctxt "84"
+msgid "金魚使い"
+msgstr ""
+
+msgctxt "85"
+msgid "自力パンチ"
+msgstr ""
+
+msgctxt "86"
+msgid "金魚を召喚した"
+msgstr ""
+
+msgctxt "87"
+msgid "自力チョップ"
+msgstr ""
+
+msgctxt "88"
+msgid "ライカンスロープ"
+msgstr ""
+
+msgctxt "89"
+msgid "引っ掻いてきた"
+msgstr ""
+
+msgctxt "90"
+msgid "キック"
+msgstr ""
+
+msgctxt "91"
+msgid "噛付いてきた"
+msgstr ""
+
+msgctxt "92"
+msgid "うしうしバンバン"
+msgstr ""
+
+msgctxt "93"
+msgid "うしうしパンチ"
+msgstr ""
+
+msgctxt "94"
+msgid "うしうし連続パンチ"
+msgstr ""
+
+msgctxt "95"
+msgid "スーパーパンチ"
+msgstr ""
+
+msgctxt "96"
+msgid "キ◎ガイへむれん"
+msgstr ""
+
+msgctxt "97"
+msgid "網を振り回した"
+msgstr ""
+
+msgctxt "98"
+msgid "よだれを垂らしている"
+msgstr ""
+
+msgctxt "99"
+msgid "かみついてきた"
+msgstr ""
+
+msgctxt "100"
+msgid "盗賊"
+msgstr ""
+
+msgctxt "101"
+msgid "短剣を振りおろす"
+msgstr ""
+
+msgctxt "102"
+msgid "短剣で突いてきた"
+msgstr ""
+
+msgctxt "103"
+msgid "短剣でなぎ払う"
+msgstr ""
+
+msgctxt "104"
+msgid "レッドハニー"
+msgstr ""
+
+msgctxt "105"
+msgid "パンチ"
+msgstr ""
+
+msgctxt "106"
+msgid "ハニーフラッシュ"
+msgstr ""
+
+msgctxt "107"
+msgid "トライデンで攻撃"
+msgstr ""
+
+msgctxt "108"
+msgid "いもむしＤＸ"
+msgstr ""
+
+msgctxt "109"
+msgid "体当たり"
+msgstr ""
+
+msgctxt "110"
+msgid "噛付いてきた"
+msgstr ""
+
+msgctxt "111"
+msgid "巻き付いてきた"
+msgstr ""
+
+msgctxt "112"
+msgid "ちゃそば"
+msgstr ""
+
+msgctxt "113"
+msgid "パンチ"
+msgstr ""
+
+msgctxt "114"
+msgid "体当たり"
+msgstr ""
+
+msgctxt "115"
+msgid "スーパー体当たり"
+msgstr ""
+
+msgctxt "116"
+msgid "ハチ女"
+msgstr ""
+
+msgctxt "117"
+msgid "ヤリで攻撃"
+msgstr ""
+
+msgctxt "118"
+msgid "ヤリで突撃"
+msgstr ""
+
+msgctxt "119"
+msgid "ヤリで乱れ突き"
+msgstr ""
+
+msgctxt "120"
+msgid "カエル魔女"
+msgstr ""
+
+msgctxt "121"
+msgid "パンチ"
+msgstr ""
+
+msgctxt "122"
+msgid "炎の矢を放つ"
+msgstr ""
+
+msgctxt "123"
+msgid "火爆破を唱えた"
+msgstr ""
+
+msgctxt "124"
+msgid "やぎさん"
+msgstr ""
+
+msgctxt "125"
+msgid "パンチ"
+msgstr ""
+
+msgctxt "126"
+msgid "キック"
+msgstr ""
+
+msgctxt "127"
+msgid "角笛を吹いた"
+msgstr ""
+
+msgctxt "128"
+msgid "すな◎きん"
+msgstr ""
+
+msgctxt "129"
+msgid "ギターを弾いた"
+msgstr ""
+
+msgctxt "130"
+msgid "帽子を投げた"
+msgstr ""
+
+msgctxt "131"
+msgid "説教をたれた"
+msgstr ""
+
+msgctxt "132"
+msgid "三つ目トカゲ"
+msgstr ""
+
+msgctxt "133"
+msgid "噛付いてきた"
+msgstr ""
+
+msgctxt "134"
+msgid "尻尾で攻撃"
+msgstr ""
+
+msgctxt "135"
+msgid "毒ガスを吐いた"
+msgstr ""
+
+msgctxt "136"
+msgid "オッズ"
+msgstr ""
+
+msgctxt "137"
+msgid "パンチ"
+msgstr ""
+
+msgctxt "138"
+msgid "体当たり"
+msgstr ""
+
+msgctxt "139"
+msgid "ワンツーパンチ"
+msgstr ""
+
+msgctxt "140"
+msgid "ルスト"
+msgstr ""
+
+msgctxt "141"
+msgid "呪文を唱えた"
+msgstr ""
+
+msgctxt "142"
+msgid "呪文を唱えた"
+msgstr ""
+
+msgctxt "143"
+msgid "呪文を唱えた"
+msgstr ""
+
+msgctxt "144"
+msgid "凶悪ハニー"
+msgstr ""
+
+msgctxt "145"
+msgid "ドスで切りかかる"
+msgstr ""
+
+msgctxt "146"
+msgid "白い粉を使った"
+msgstr ""
+
+msgctxt "147"
+msgid "ハニーフラッシュ"
+msgstr ""
+
+msgctxt "148"
+msgid "ざしきわらし"
+msgstr ""
+
+msgctxt "149"
+msgid "たぬきパンチ"
+msgstr ""
+
+msgctxt "150"
+msgid "きつねパンチ"
+msgstr ""
+
+msgctxt "151"
+msgid "ダブルパンチ"
+msgstr ""
+
+msgctxt "152"
+msgid "とっこーちゃん"
+msgstr ""
+
+msgctxt "153"
+msgid "ナギナタで突いてきた"
+msgstr ""
+
+msgctxt "154"
+msgid "ナギナタを振り下ろす"
+msgstr ""
+
+msgctxt "155"
+msgid "ナギナタを振り回した"
+msgstr ""
+
+msgctxt "156"
+msgid "ワーチアガール"
+msgstr ""
+
+msgctxt "157"
+msgid "ポンポンでパンチ"
+msgstr ""
+
+msgctxt "158"
+msgid "キック"
+msgstr ""
+
+msgctxt "159"
+msgid "自分を応援した"
+msgstr ""
+
+msgctxt "160"
+msgid "ワーチアガール"
+msgstr ""
+
+msgctxt "161"
+msgid "ポンポンでパンチ"
+msgstr ""
+
+msgctxt "162"
+msgid "キック"
+msgstr ""
+
+msgctxt "163"
+msgid "自分を応援した"
+msgstr ""
+
+msgctxt "164"
+msgid "こんばんわ"
+msgstr ""
+
+msgctxt "165"
+msgid "体当たり"
+msgstr ""
+
+msgctxt "166"
+msgid "あいさつ"
+msgstr ""
+
+msgctxt "167"
+msgid "パンチ"
+msgstr ""
+
+msgctxt "168"
+msgid "マーシュ"
+msgstr ""
+
+msgctxt "169"
+msgid "パンチ"
+msgstr ""
+
+msgctxt "170"
+msgid "体当たり"
+msgstr ""
+
+msgctxt "171"
+msgid "火爆破を唱えた"
+msgstr ""
+
+msgctxt "172"
+msgid "ロンメル"
+msgstr ""
+
+msgctxt "173"
+msgid "呪文を唱えた"
+msgstr ""
+
+msgctxt "174"
+msgid "呪文を唱えた"
+msgstr ""
+
+msgctxt "175"
+msgid "呪文を唱えた"
+msgstr ""
+
+msgctxt "176"
+msgid "叫び男"
+msgstr ""
+
+msgctxt "177"
+msgid "叫んだ"
+msgstr ""
+
+msgctxt "178"
+msgid "噛付いてきた"
+msgstr ""
+
+msgctxt "179"
+msgid "暗黒吐息を放つ"
+msgstr ""
+
+msgctxt "180"
+msgid "スモッグシルフ"
+msgstr ""
+
+msgctxt "181"
+msgid "冷たい手で触った"
+msgstr ""
+
+msgctxt "182"
+msgid "暗黒吐息を放つ"
+msgstr ""
+
+msgctxt "183"
+msgid "超暗黒吐息を放つ"
+msgstr ""
+
+msgctxt "184"
+msgid "フローズン"
+msgstr ""
+
+msgctxt "185"
+msgid "冷たい手で触った"
+msgstr ""
+
+msgctxt "186"
+msgid "氷雪吹雪を唱えた"
+msgstr ""
+
+msgctxt "187"
+msgid "スノーレーザーを放つ"
+msgstr ""
+
+msgctxt "188"
+msgid "ちょ～ちん"
+msgstr ""
+
+msgctxt "189"
+msgid "噛付いてきた"
+msgstr ""
+
+msgctxt "190"
+msgid "強い光を放った"
+msgstr ""
+
+msgctxt "191"
+msgid "強い光を放った"
+msgstr ""
+
+msgctxt "192"
+msgid "ちょーちん"
+msgstr ""
+
+msgctxt "193"
+msgid "噛付いてきた"
+msgstr ""
+
+msgctxt "194"
+msgid "強い光を放った"
+msgstr ""
+
+msgctxt "195"
+msgid "強い光を放った"
+msgstr ""
+
+msgctxt "196"
+msgid "ブラックハニー"
+msgstr ""
+
+msgctxt "197"
+msgid "花火を振り回す"
+msgstr ""
+
+msgctxt "198"
+msgid "ハニーフラッシュ"
+msgstr ""
+
+msgctxt "199"
+msgid "パンチ"
+msgstr ""
+
+msgctxt "200"
+msgid "女殺し"
+msgstr ""
+
+msgctxt "201"
+msgid "包丁を振り回す"
+msgstr ""
+
+msgctxt "202"
+msgid "包丁を振りかざす"
+msgstr ""
+
+msgctxt "203"
+msgid "包丁をなめた"
+msgstr ""
+
+msgctxt "204"
+msgid "おかゆフィーバー"
+msgstr ""
+
+msgctxt "205"
+msgid "パンチ"
+msgstr ""
+
+msgctxt "206"
+msgid "頭突きをしてきた"
+msgstr ""
+
+msgctxt "207"
+msgid "おかゆダンス"
+msgstr ""
+
+msgctxt "208"
+msgid "マーダー"
+msgstr ""
+
+msgctxt "209"
+msgid "呪文を唱えた"
+msgstr ""
+
+msgctxt "210"
+msgid "体当たりで攻撃"
+msgstr ""
+
+msgctxt "211"
+msgid "呪文を唱えた"
+msgstr ""
+
+msgctxt "212"
+msgid "プールポニー"
+msgstr ""
+
+msgctxt "213"
+msgid "引っ掻いた"
+msgstr ""
+
+msgctxt "214"
+msgid "噛付いた"
+msgstr ""
+
+msgctxt "215"
+msgid "キック"
+msgstr ""
+
+msgctxt "216"
+msgid "ワーＯＬ"
+msgstr ""
+
+msgctxt "217"
+msgid "パンプスでキック"
+msgstr ""
+
+msgctxt "218"
+msgid "書類の角で攻撃"
+msgstr ""
+
+msgctxt "219"
+msgid "ボールペンを投げた"
+msgstr ""
+
+msgctxt "220"
+msgid "ワー消防士"
+msgstr ""
+
+msgctxt "221"
+msgid "放水攻撃"
+msgstr ""
+
+msgctxt "222"
+msgid "ハンマーで攻撃"
+msgstr ""
+
+msgctxt "223"
+msgid "大放水"
+msgstr ""
+
+msgctxt "224"
+msgid "ワー消防士"
+msgstr ""
+
+msgctxt "225"
+msgid "放水攻撃"
+msgstr ""
+
+msgctxt "226"
+msgid "ハンマーで攻撃"
+msgstr ""
+
+msgctxt "227"
+msgid "大放水"
+msgstr ""
+
+msgctxt "228"
+msgid "ゲーリング"
+msgstr ""
+
+msgctxt "229"
+msgid "呪文を唱えた"
+msgstr ""
+
+msgctxt "230"
+msgid "呪文を唱えた"
+msgstr ""
+
+msgctxt "231"
+msgid "呪文を唱えた"
+msgstr ""
+
+msgctxt "232"
+msgid "はっぴー"
+msgstr ""
+
+msgctxt "233"
+msgid "噛付いた"
+msgstr ""
+
+msgctxt "234"
+msgid "冷たい息を吐いた"
+msgstr ""
+
+msgctxt "235"
+msgid "冷凍光線を発した"
+msgstr ""
+
+msgctxt "236"
+msgid "くらげＭｋ２"
+msgstr ""
+
+msgctxt "237"
+msgid "足をふりまわした"
+msgstr ""
+
+msgctxt "238"
+msgid "ふわふわと体当り"
+msgstr ""
+
+msgctxt "239"
+msgid "放電した"
+msgstr ""
+
+msgctxt "240"
+msgid "ダブルハニー"
+msgstr ""
+
+msgctxt "241"
+msgid "ダブルパンチ"
+msgstr ""
+
+msgctxt "242"
+msgid "ハニーフラッシュ"
+msgstr ""
+
+msgctxt "243"
+msgid "トライデンで攻撃"
+msgstr ""
+
+msgctxt "244"
+msgid "海の幸"
+msgstr ""
+
+msgctxt "245"
+msgid "必殺パンチ"
+msgstr ""
+
+msgctxt "246"
+msgid "必殺キック"
+msgstr ""
+
+msgctxt "247"
+msgid "お魚スレイヤーで攻撃"
+msgstr ""
+
+msgctxt "248"
+msgid "山の幸"
+msgstr ""
+
+msgctxt "249"
+msgid "必殺パンチ"
+msgstr ""
+
+msgctxt "250"
+msgid "必殺キック"
+msgstr ""
+
+msgctxt "251"
+msgid "爪で引っ掻いた"
+msgstr ""
+
+msgctxt "252"
+msgid "キャプテンばにら"
+msgstr ""
+
+msgctxt "253"
+msgid "まぐろアッパー"
+msgstr ""
+
+msgctxt "254"
+msgid "ヒーリングを唱えた"
+msgstr ""
+
+msgctxt "255"
+msgid "海賊シップを放った"
+msgstr ""
+
+msgctxt "256"
+msgid "勇者"
+msgstr ""
+
+msgctxt "257"
+msgid "あわてている"
+msgstr ""
+
+msgctxt "258"
+msgid "あわてている"
+msgstr ""
+
+msgctxt "259"
+msgid "あわてている"
+msgstr ""
+
+msgctxt "260"
+msgid "キューニチョーキ"
+msgstr ""
+
+msgctxt "261"
+msgid "プロペラではたく"
+msgstr ""
+
+msgctxt "262"
+msgid "前足ではたく"
+msgstr ""
+
+msgctxt "263"
+msgid "横をすり抜けた"
+msgstr ""
+
+msgctxt "264"
+msgid "クレッチマー"
+msgstr ""
+
+msgctxt "265"
+msgid "呪文を唱えた"
+msgstr ""
+
+msgctxt "266"
+msgid "呪文を唱えた"
+msgstr ""
+
+msgctxt "267"
+msgid "呪文を唱えた"
+msgstr ""
+
+msgctxt "268"
+msgid "ドラゴンナイト"
+msgstr ""
+
+msgctxt "269"
+msgid "剣で攻撃"
+msgstr ""
+
+msgctxt "270"
+msgid "噛付いてきた"
+msgstr ""
+
+msgctxt "271"
+msgid "火を吹いた"
+msgstr ""
+
+msgctxt "272"
+msgid "忍者"
+msgstr "Ninja"
+
+msgctxt "273"
+msgid "忍者刀を振るう"
+msgstr ""
+
+msgctxt "274"
+msgid "手裏剣を放つ"
+msgstr ""
+
+msgctxt "275"
+msgid "火遁の術"
+msgstr ""
+
+msgctxt "276"
+msgid "アカメ"
+msgstr ""
+
+msgctxt "277"
+msgid "火爆破を唱えた"
+msgstr ""
+
+msgctxt "278"
+msgid "雷撃を放つ"
+msgstr ""
+
+msgctxt "279"
+msgid "炎の矢を撃った"
+msgstr ""
+
+msgctxt "280"
+msgid "ねこまたまた"
+msgstr ""
+
+msgctxt "281"
+msgid "引っ掻いた"
+msgstr ""
+
+msgctxt "282"
+msgid "噛付いた"
+msgstr ""
+
+msgctxt "283"
+msgid "キック"
+msgstr ""
+
+msgctxt "284"
+msgid "ヘビさん"
+msgstr ""
+
+msgctxt "285"
+msgid "ヘビが噛付いた"
+msgstr ""
+
+msgctxt "286"
+msgid "パンチ"
+msgstr ""
+
+msgctxt "287"
+msgid "ヘビが巻き付いた"
+msgstr ""
+
+msgctxt "288"
+msgid "ワーボクサー"
+msgstr ""
+
+msgctxt "289"
+msgid "ジャブで牽制"
+msgstr ""
+
+msgctxt "290"
+msgid "ストレートを放った"
+msgstr ""
+
+msgctxt "291"
+msgid "力石アッパー！"
+msgstr ""
+
+msgctxt "292"
+msgid "ユリイカ"
+msgstr ""
+
+msgctxt "293"
+msgid "歩き出した"
+msgstr ""
+
+msgctxt "294"
+msgid "動かない・・・"
+msgstr ""
+
+msgctxt "295"
+msgid "光合成を始めた"
+msgstr ""
+
+msgctxt "296"
+msgid "アノマロカリス"
+msgstr ""
+
+msgctxt "297"
+msgid "前歯で噛んだ"
+msgstr ""
+
+msgctxt "298"
+msgid "三葉虫を捕まえた"
+msgstr ""
+
+msgctxt "299"
+msgid "優雅に泳いでいる"
+msgstr ""
+
+msgctxt "300"
+msgid "カイトクローン"
+msgstr ""
+
+msgctxt "301"
+msgid "パンチ"
+msgstr ""
+
+msgctxt "302"
+msgid "キック"
+msgstr ""
+
+msgctxt "303"
+msgid "奥義を繰り出した"
+msgstr ""
+
+msgctxt "304"
+msgid "バウ"
+msgstr ""
+
+msgctxt "305"
+msgid "パンチ"
+msgstr ""
+
+msgctxt "306"
+msgid "キック"
+msgstr ""
+
+msgctxt "307"
+msgid "チョップ"
+msgstr ""
+
+msgctxt "308"
+msgid "ストーンゴーレム"
+msgstr ""
+
+msgctxt "309"
+msgid "パンチ"
+msgstr ""
+
+msgctxt "310"
+msgid "踏みつけてきた"
+msgstr ""
+
+msgctxt "311"
+msgid "体当り"
+msgstr ""
+
+msgctxt "312"
+msgid "微笑み男"
+msgstr ""
+
+msgctxt "313"
+msgid "微笑んだ"
+msgstr ""
+
+msgctxt "314"
+msgid "ニヤリと笑った"
+msgstr ""
+
+msgctxt "315"
+msgid "ニヒルに笑った"
+msgstr ""
+
+msgctxt "316"
+msgid "ハニーナイト"
+msgstr ""
+
+msgctxt "317"
+msgid "ハルバーで攻撃"
+msgstr ""
+
+msgctxt "318"
+msgid "ハニーフラッシュ"
+msgstr ""
+
+msgctxt "319"
+msgid "盾をかまえた"
+msgstr ""
+
+msgctxt "320"
+msgid "ガーランド"
+msgstr ""
+
+msgctxt "321"
+msgid "呪文を唱えた"
+msgstr ""
+
+msgctxt "322"
+msgid "呪文を唱えた"
+msgstr ""
+
+msgctxt "323"
+msgid "呪文を唱えた"
+msgstr ""
+
+msgctxt "324"
+msgid "ナースホルン"
+msgstr ""
+
+msgctxt "325"
+msgid "呪文を唱えた"
+msgstr ""
+
+msgctxt "326"
+msgid "体当たり"
+msgstr ""
+
+msgctxt "327"
+msgid "呪文を唱えた"
+msgstr ""
+
+msgctxt "328"
+msgid "赤忍者"
+msgstr ""
+
+msgctxt "329"
+msgid "くないで攻撃"
+msgstr ""
+
+msgctxt "330"
+msgid "手裏剣をとばした"
+msgstr ""
+
+msgctxt "331"
+msgid "火遁の術"
+msgstr ""
+
+msgctxt "332"
+msgid "源氏"
+msgstr ""
+
+msgctxt "333"
+msgid "斬りかかってきた"
+msgstr ""
+
+msgctxt "334"
+msgid "地力を吸収した"
+msgstr ""
+
+msgctxt "335"
+msgid "急所を狙ってきた"
+msgstr ""
+
+msgctxt "336"
+msgid "真・源氏"
+msgstr ""
+
+msgctxt "337"
+msgid "斬りかかってきた"
+msgstr ""
+
+msgctxt "338"
+msgid "地力を吸収した"
+msgstr ""
+
+msgctxt "339"
+msgid "乱れ斬り"
+msgstr ""
+
+msgctxt "340"
+msgid "パタパタ"
+msgstr ""
+
+msgctxt "341"
+msgid "ヤリで突いて来た"
+msgstr ""
+
+msgctxt "342"
+msgid "キック"
+msgstr ""
+
+msgctxt "343"
+msgid "後ろを向いた"
+msgstr ""
+
+msgctxt "344"
+msgid "まじしゃん"
+msgstr ""
+
+msgctxt "345"
+msgid "火爆破を唱えた"
+msgstr ""
+
+msgctxt "346"
+msgid "ファイヤーレーザー"
+msgstr ""
+
+msgctxt "347"
+msgid "白色破壊光線を放った"
+msgstr ""
+
+msgctxt "348"
+msgid "ハミング"
+msgstr ""
+
+msgctxt "349"
+msgid "歌を歌い始めた"
+msgstr ""
+
+msgctxt "350"
+msgid "歌を歌い始めた"
+msgstr ""
+
+msgctxt "351"
+msgid "歌を歌い始めた"
+msgstr ""
+
+msgctxt "352"
+msgid "ワー花嫁"
+msgstr ""
+
+msgctxt "353"
+msgid "ブーケで攻撃"
+msgstr ""
+
+msgctxt "354"
+msgid "ひっぱたいてきた"
+msgstr ""
+
+msgctxt "355"
+msgid "微笑んでいる"
+msgstr ""
+
+msgctxt "356"
+msgid "髪長姫"
+msgstr ""
+
+msgctxt "357"
+msgid "髪で攻撃"
+msgstr ""
+
+msgctxt "358"
+msgid "ライトニングレーザー"
+msgstr ""
+
+msgctxt "359"
+msgid "髪をふりまわした"
+msgstr ""
+
+msgctxt "360"
+msgid "神風"
+msgstr ""
+
+msgctxt "361"
+msgid "矢を射った"
+msgstr ""
+
+msgctxt "362"
+msgid "闇の矢を射った"
+msgstr ""
+
+msgctxt "363"
+msgid "光の矢を射った"
+msgstr ""
+
+msgctxt "364"
+msgid "ちゃぷちゃぷ"
+msgstr ""
+
+msgctxt "365"
+msgid "水をかけてきた"
+msgstr ""
+
+msgctxt "366"
+msgid "硫酸をかけてきた"
+msgstr ""
+
+msgctxt "367"
+msgid "硫酸をぶちまけた"
+msgstr ""
+
+msgctxt "368"
+msgid "ヨシツネ"
+msgstr ""
+
+msgctxt "369"
+msgid "兜割り"
+msgstr ""
+
+msgctxt "370"
+msgid "居合斬り"
+msgstr ""
+
+msgctxt "371"
+msgid "ツバメ返し"
+msgstr ""
+
+msgctxt "372"
+msgid "ヨシツネ"
+msgstr ""
+
+msgctxt "373"
+msgid "兜割り"
+msgstr ""
+
+msgctxt "374"
+msgid "居合斬り"
+msgstr ""
+
+msgctxt "375"
+msgid "ツバメ返し"
+msgstr ""
+
+msgctxt "376"
+msgid "ヨシツネ"
+msgstr ""
+
+msgctxt "377"
+msgid "腕を叩きつけた"
+msgstr ""
+
+msgctxt "378"
+msgid "酸を吐いた"
+msgstr ""
+
+msgctxt "379"
+msgid "再生を始めた"
+msgstr ""
+
+msgctxt "380"
+msgid "ムサシボウ"
+msgstr ""
+
+msgctxt "381"
+msgid "尺杖で突いてきた"
+msgstr ""
+
+msgctxt "382"
+msgid "ナギナタを振りおろす"
+msgstr ""
+
+msgctxt "383"
+msgid "千の武器を振るった"
+msgstr ""
+
+msgctxt "384"
+msgid "テング"
+msgstr ""
+
+msgctxt "385"
+msgid "かまいたちを起こした"
+msgstr ""
+
+msgctxt "386"
+msgid "高足ゲタで蹴りつけた"
+msgstr ""
+
+msgctxt "387"
+msgid "竜巻を起こした"
+msgstr ""
+
+msgctxt "388"
+msgid "テング"
+msgstr ""
+
+msgctxt "389"
+msgid "かまいたちを起こした"
+msgstr ""
+
+msgctxt "390"
+msgid "高足ゲタで蹴りつけた"
+msgstr ""
+
+msgctxt "391"
+msgid "竜巻を起こした"
+msgstr ""
+
+msgctxt "392"
+msgid "トモエ"
+msgstr ""
+
+msgctxt "393"
+msgid "微笑んでいる・・・"
+msgstr ""
+
+msgctxt "394"
+msgid "見つめている・・・"
+msgstr ""
+
+msgctxt "395"
+msgid "見つめている・・・"
+msgstr ""
+
+msgctxt "396"
+msgid "トモエ"
+msgstr ""
+
+msgctxt "397"
+msgid "扇子で打ちつけた"
+msgstr ""
+
+msgctxt "398"
+msgid "流れる髪で攻撃"
+msgstr ""
+
+msgctxt "399"
+msgid "荒ぶる髪で攻撃"
+msgstr ""
+
+msgctxt "400"
+msgid "トモエ"
+msgstr ""
+
+msgctxt "401"
+msgid "扇子で打ちつけた"
+msgstr ""
+
+msgctxt "402"
+msgid "流れる髪で攻撃"
+msgstr ""
+
+msgctxt "403"
+msgid "荒ぶる髪で攻撃"
+msgstr ""
+
+msgctxt "404"
+msgid "ヨシナカ"
+msgstr ""
+
+msgctxt "405"
+msgid "じっとしている・・・"
+msgstr ""
+
+msgctxt "406"
+msgid "じっとしている・・・"
+msgstr ""
+
+msgctxt "407"
+msgid "ギラリと睨んだ"
+msgstr ""
+
+msgctxt "408"
+msgid "ヨシナカ"
+msgstr ""
+
+msgctxt "409"
+msgid "刀で斬りつける"
+msgstr ""
+
+msgctxt "410"
+msgid "居合抜き"
+msgstr ""
+
+msgctxt "411"
+msgid "乱れ打ち"
+msgstr ""
+
+msgctxt "412"
+msgid "ヨシナカ"
+msgstr ""
+
+msgctxt "413"
+msgid "刀で斬りつける"
+msgstr ""
+
+msgctxt "414"
+msgid "居合抜き"
+msgstr ""
+
+msgctxt "415"
+msgid "乱れ打ち"
+msgstr ""
+
+msgctxt "416"
+msgid "イヌ"
+msgstr ""
+
+msgctxt "417"
+msgid "噛付いてきた"
+msgstr ""
+
+msgctxt "418"
+msgid "飛び掛かってきた"
+msgstr ""
+
+msgctxt "419"
+msgid "体当たり"
+msgstr ""
+
+msgctxt "420"
+msgid "サル"
+msgstr ""
+
+msgctxt "421"
+msgid "引っ掻いてきた"
+msgstr ""
+
+msgctxt "422"
+msgid "噛付いてきた"
+msgstr ""
+
+msgctxt "423"
+msgid "体当たり"
+msgstr ""
+
+msgctxt "424"
+msgid "キジ"
+msgstr ""
+
+msgctxt "425"
+msgid "爪でつかみ掛かる"
+msgstr ""
+
+msgctxt "426"
+msgid "くちばしで突く"
+msgstr ""
+
+msgctxt "427"
+msgid "突風を巻き起こす"
+msgstr ""
+
+msgctxt "428"
+msgid "キラトーキ"
+msgstr ""
+
+msgctxt "429"
+msgid "軽くパンチ"
+msgstr ""
+
+msgctxt "430"
+msgid "全員にパンチ"
+msgstr ""
+
+msgctxt "431"
+msgid "全力でパンチ"
+msgstr ""
+
+msgctxt "432"
+msgid "プラムズゴースト"
+msgstr ""
+
+msgctxt "433"
+msgid "いえーい爆弾を投げた"
+msgstr ""
+
+msgctxt "434"
+msgid "なにやら説明しだした"
+msgstr ""
+
+msgctxt "435"
+msgid "デバッグレーザー"
+msgstr ""

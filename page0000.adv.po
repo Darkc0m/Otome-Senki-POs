@@ -1,0 +1,1288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Otome Senki\n"
+"Report-Msgid-Bugs-To: Darkc0m\n"
+"POT-Creation-Date: 16/05/23\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "音源の設定をして下さい。"
+msgstr ""
+
+msgctxt "1"
+msgid "注意！「謳」←Ｗｉｎｄｏｗ使用でこのカッコ内に漢字が"
+msgstr ""
+
+msgctxt "2"
+msgid "表示されていなければ、［設定］でフォントの変更を行った"
+msgstr ""
+
+msgctxt "3"
+msgid "後、選択肢の所で右クリックして下さい。"
+msgstr ""
+
+msgctxt "4"
+msgid "ＦＭ音源"
+msgstr ""
+
+msgctxt "5"
+msgid "ＣＤ－ＤＡ"
+msgstr ""
+
+msgctxt "6"
+msgid "対応音源無し"
+msgstr ""
+
+msgctxt "7"
+msgid "ＦＭ音源の使用は、ＰＣ－９８０１シリーズ、"
+msgstr ""
+
+msgctxt "8"
+msgid "またはその互換マシンで、ＭＳ－ＤＯＳからの"
+msgstr ""
+
+msgctxt "9"
+msgid "起動の時のみ、使用可能です。"
+msgstr ""
+
+msgctxt "10"
+msgid "ＰＣ－９８０１－２６Ｋ、もしくはその互換ボードか、"
+msgstr ""
+
+msgctxt "11"
+msgid "８６ボード、１１８ボード接続の必要があります。"
+msgstr ""
+
+msgctxt "12"
+msgid "サウンドブラスター等の対応はしていませんので"
+msgstr ""
+
+msgctxt "13"
+msgid "注意して下さい。"
+msgstr ""
+
+msgctxt "14"
+msgid "ＦＭ音源でＢＧＭ演奏をします。"
+msgstr ""
+
+msgctxt "15"
+msgid "ＣＤ－ＤＡの使用は、Ｗｉｎｄｏｗｓ，ＰＣ－９８０１"
+msgstr ""
+
+msgctxt "16"
+msgid "シリーズまたはその互換機のＭＳ－ＤＯＳモードで、"
+msgstr ""
+
+msgctxt "17"
+msgid "ＣＤドライブを使用可能な状態にする必要があります。"
+msgstr ""
+
+msgctxt "18"
+msgid "ただし、このゲームのＢＧＭが収録されたＣＤ、"
+msgstr ""
+
+msgctxt "19"
+msgid "「ランス４，１（４，２）ヒントディスク ＣＤ版」"
+msgstr ""
+
+msgctxt "20"
+msgid "を持っている必要があります。"
+msgstr ""
+
+msgctxt "21"
+msgid "ＣＤ－ＤＡでＢＧＭを演奏します。"
+msgstr ""
+
+msgctxt "22"
+msgid "ただし、このゲームのＢＧＭが収録されたＣＤ、"
+msgstr ""
+
+msgctxt "23"
+msgid "「ランス４，１（４，２）ヒントディスク ＣＤ版」"
+msgstr ""
+
+msgctxt "24"
+msgid "をお持ちでない方は、無音でのプレイとなります。"
+msgstr ""
+
+msgctxt "25"
+msgid "お持ちの方は、ＣＤをセットして下さい。"
+msgstr ""
+
+msgctxt "26"
+msgid "乙女戦記  Ｖｅｒ １．０２"
+msgstr ""
+
+msgctxt "27"
+msgid "（Ｃ）ＡＬＩＣＥ ＳＯＦＴ"
+msgstr ""
+
+msgctxt "28"
+msgid "        時はＬＰ２年６月 戦乱の嵐吹くＪＡＰＡＮ・・・"
+msgstr ""
+
+msgctxt "29"
+msgid "     魔神と謳われた武将、信長によってまた一つの国が制圧された。"
+msgstr ""
+
+msgctxt "30"
+msgid "             その名を「原家」という。"
+msgstr ""
+
+msgctxt "31"
+msgid "                     あかね"
+msgstr ""
+
+msgctxt "32"
+msgid "                     ＝Ａｋａｎｅ＝"
+msgstr ""
+
+msgctxt "33"
+msgid "                      年齢：１７歳"
+msgstr ""
+
+msgctxt "34"
+msgid "                      職業：足軽"
+msgstr ""
+
+msgctxt "35"
+msgid "                      趣味：弟妹と遊ぶこと"
+msgstr ""
+
+msgctxt "36"
+msgid "                      大切なもの：家族"
+msgstr ""
+
+msgctxt "37"
+msgid "                      「がんばるっ。"
+msgstr ""
+
+msgctxt "38"
+msgid "                       信長軍のやつらなんか、とっとと"
+msgstr ""
+
+msgctxt "39"
+msgid "                       追い出してやりたいもんねっ！」"
+msgstr ""
+
+msgctxt "40"
+msgid "                翌月ＬＰ２年７月"
+msgstr ""
+
+msgctxt "41"
+msgid "         生き残ったわずかな領民達に、触れが出される。"
+msgstr ""
+
+msgctxt "42"
+msgid " 桧垣 真朱"
+msgstr ""
+
+msgctxt "43"
+msgid " ＝Ｍａｓｏｈｏ Ｈｉｇａｋｉ＝"
+msgstr ""
+
+msgctxt "44"
+msgid "  年齢：１８歳"
+msgstr ""
+
+msgctxt "45"
+msgid "  職業：侍"
+msgstr ""
+
+msgctxt "46"
+msgid "  趣味：武術の訓練"
+msgstr ""
+
+msgctxt "47"
+msgid "  大切なもの：父の形見の鎧"
+msgstr ""
+
+msgctxt "48"
+msgid "  「父の無念は私が晴らすわ、"
+msgstr ""
+
+msgctxt "49"
+msgid "   必ず・・・！」"
+msgstr ""
+
+msgctxt "50"
+msgid "「       罪人の流刑地であるクロウの迷宮に、京姫を幽閉した。"
+msgstr ""
+
+msgctxt "51"
+msgid "     何者であろうと見事助け出した暁には、お家再興の機会を与えよう。   」"
+msgstr ""
+
+msgctxt "52"
+msgid "                     立湧 七緒"
+msgstr ""
+
+msgctxt "53"
+msgid "                     ＝Ｎａｎａｏ Ｔａｔｅｗａｋｉ＝"
+msgstr ""
+
+msgctxt "54"
+msgid "                      年齢：１７歳"
+msgstr ""
+
+msgctxt "55"
+msgid "                      職業：侍"
+msgstr ""
+
+msgctxt "56"
+msgid "                      趣味：写経"
+msgstr ""
+
+msgctxt "57"
+msgid "                      大切なもの：集まってくれた仲間たち"
+msgstr ""
+
+msgctxt "58"
+msgid "                      「姫がお気の毒です。"
+msgstr ""
+
+msgctxt "59"
+msgid "                       早くお助けしなくては・・・"
+msgstr ""
+
+msgctxt "60"
+msgid "                       城下の皆さんが苦しんでいるのも、"
+msgstr ""
+
+msgctxt "61"
+msgid "                       見てはいられません」"
+msgstr ""
+
+msgctxt "62"
+msgid "              人々は、喜び、うかれた。"
+msgstr ""
+
+msgctxt "63"
+msgid "        原家のお侍なら、すぐに助け出してくれるだろうと。"
+msgstr ""
+
+msgctxt "64"
+msgid " 一条 春菜"
+msgstr ""
+
+msgctxt "65"
+msgid " ＝Ｈａｒｕｎａ Ｉｃｈｉｊｏｈ＝"
+msgstr ""
+
+msgctxt "66"
+msgid "  年齢：１６歳"
+msgstr ""
+
+msgctxt "67"
+msgid "  職業：柔術士"
+msgstr ""
+
+msgctxt "68"
+msgid "  趣味：洗濯、掃除"
+msgstr ""
+
+msgctxt "69"
+msgid "  大切なもの：こころ"
+msgstr ""
+
+msgctxt "70"
+msgid "  「私、柔術の腕はまだまだだけど・・・"
+msgstr ""
+
+msgctxt "71"
+msgid "   心は武道家のつもりです。"
+msgstr ""
+
+msgctxt "72"
+msgid "   だから、皆さんのお家再興を"
+msgstr ""
+
+msgctxt "73"
+msgid "   手伝わせて下さい」"
+msgstr ""
+
+msgctxt "74"
+msgid "                 しかし誰が？"
+msgstr ""
+
+msgctxt "75"
+msgid "     先の戦で侍はおろか、無事な男は一人も残っていないというのに。"
+msgstr ""
+
+msgctxt "76"
+msgid "                     このは（剣菱 このは）"
+msgstr ""
+
+msgctxt "77"
+msgid "                     ＝Ｋｏｎｏｈａ Ｋｅｎｂｉｓｈｉ＝"
+msgstr ""
+
+msgctxt "78"
+msgid "                      年齢：１９歳"
+msgstr ""
+
+msgctxt "79"
+msgid "                      職業：忍者"
+msgstr ""
+
+msgctxt "80"
+msgid "                      趣味：趣味に興じる暇はない"
+msgstr ""
+
+msgctxt "81"
+msgid "                      大切なもの：使命を果たすこと"
+msgstr ""
+
+msgctxt "82"
+msgid "                      「必ず、姫をお助けするわ。"
+msgstr ""
+
+msgctxt "83"
+msgid "                       たとえ自分が死んでもね」"
+msgstr ""
+
+msgctxt "84"
+msgid "          今、クロウの迷宮の前に、立つ影が９人。"
+msgstr ""
+
+msgctxt "85"
+msgid "       男が戦えないのならば・・・と、立ち上がった少女達。"
+msgstr ""
+
+msgctxt "86"
+msgid " 愛"
+msgstr ""
+
+msgctxt "87"
+msgid " ＝Ａｉ＝"
+msgstr ""
+
+msgctxt "88"
+msgid "  年齢：２２歳"
+msgstr ""
+
+msgctxt "89"
+msgid "  職業：クノイチ"
+msgstr ""
+
+msgctxt "90"
+msgid "  趣味：飲酒"
+msgstr ""
+
+msgctxt "91"
+msgid "  大切なもの：秘密"
+msgstr ""
+
+msgctxt "92"
+msgid "      （「自分」だと思われる）"
+msgstr ""
+
+msgctxt "93"
+msgid "  「うふふ、わたくしなどがお役に"
+msgstr ""
+
+msgctxt "94"
+msgid "   たてれば良いのですが・・・」"
+msgstr ""
+
+msgctxt "95"
+msgid "         重い鎧に身をつつみ、歩みすらもおぼつかない。"
+msgstr ""
+
+msgctxt "96"
+msgid "         刀や槍を握る手も、決して手慣れた様子はない。"
+msgstr ""
+
+msgctxt "97"
+msgid "                     美鈴"
+msgstr ""
+
+msgctxt "98"
+msgid "                     ＝Ｍｉｓｕｚｕ＝"
+msgstr ""
+
+msgctxt "99"
+msgid "                      年齢：１６歳"
+msgstr ""
+
+msgctxt "100"
+msgid "                      職業：呪術士"
+msgstr ""
+
+msgctxt "101"
+msgid "                      趣味：お花を摘むこと・・・？"
+msgstr ""
+
+msgctxt "102"
+msgid "                      大切なもの：ふかふかのおふとん"
+msgstr ""
+
+msgctxt "103"
+msgid "                      「あのぉ、師匠が行方不明なんです"
+msgstr ""
+
+msgctxt "104"
+msgid "                       ・・・たぶん死んでらっしゃるん"
+msgstr ""
+
+msgctxt "105"
+msgid "                       でしょうけど・・・修行しなくちゃ」"
+msgstr ""
+
+msgctxt "106"
+msgid "          しかし彼女達に、脅えや恐怖の色はなかった。"
+msgstr ""
+
+msgctxt "107"
+msgid "           今、クロウの迷宮へと続く門をくぐる。"
+msgstr ""
+
+msgctxt "108"
+msgid " ミオ（鈴木 ミオ）"
+msgstr ""
+
+msgctxt "109"
+msgid " ＝Ｍｉｏ Ｓｕｚｕｋｉ＝"
+msgstr ""
+
+msgctxt "110"
+msgid "  年齢：１６歳"
+msgstr ""
+
+msgctxt "111"
+msgid "  職業：天志僧"
+msgstr ""
+
+msgctxt "112"
+msgid "  趣味：座禅"
+msgstr ""
+
+msgctxt "113"
+msgid "  大切なもの：天志様の教え"
+msgstr ""
+
+msgctxt "114"
+msgid "  「若輩ながら、拙僧が助太刀いたす」"
+msgstr ""
+
+msgctxt "115"
+msgid "             背後で、錠がおろされる・・・"
+msgstr ""
+
+msgctxt "116"
+msgid "                かまいはしない。"
+msgstr ""
+
+msgctxt "117"
+msgid "                     篭目"
+msgstr ""
+
+msgctxt "118"
+msgid "                     ＝Ｋａｇｏｍｅ＝"
+msgstr ""
+
+msgctxt "119"
+msgid "                      年齢：１０歳（生後４年）"
+msgstr ""
+
+msgctxt "120"
+msgid "                      職業：ぬへ"
+msgstr ""
+
+msgctxt "121"
+msgid "                      趣味：なし"
+msgstr ""
+
+msgctxt "122"
+msgid "                      大切なもの：なし"
+msgstr ""
+
+msgctxt "123"
+msgid "                      「・・・・・・」"
+msgstr ""
+
+msgctxt "124"
+msgid "        次にこの門をくぐる時は、姫を助けた時なのだから。"
+msgstr ""
+
+msgctxt "125"
+msgid "        時はＬＰ２年６月 戦乱の嵐吹くＪＡＰＡＮ・・・"
+msgstr ""
+
+msgctxt "126"
+msgid "     魔神と謳われた武将、信長によってまた一つの国が制圧された。"
+msgstr ""
+
+msgctxt "127"
+msgid "             その名を「原家」という。"
+msgstr ""
+
+msgctxt "128"
+msgid "                     あかね"
+msgstr ""
+
+msgctxt "129"
+msgid "                     ＝Ａｋａｎｅ＝"
+msgstr ""
+
+msgctxt "130"
+msgid "                      年齢：１７歳"
+msgstr ""
+
+msgctxt "131"
+msgid "                      職業：足軽"
+msgstr ""
+
+msgctxt "132"
+msgid "                      趣味：弟妹と遊ぶこと"
+msgstr ""
+
+msgctxt "133"
+msgid "                      大切なもの：家族"
+msgstr ""
+
+msgctxt "134"
+msgid "                      「がんばるっ。"
+msgstr ""
+
+msgctxt "135"
+msgid "                       信長軍のやつらなんか、とっとと"
+msgstr ""
+
+msgctxt "136"
+msgid "                       追い出してやりたいもんねっ！」"
+msgstr ""
+
+msgctxt "137"
+msgid "                翌月ＬＰ２年７月"
+msgstr ""
+
+msgctxt "138"
+msgid "         生き残ったわずかな領民達に、触れが出される。"
+msgstr ""
+
+msgctxt "139"
+msgid " 桧垣 真朱"
+msgstr ""
+
+msgctxt "140"
+msgid " ＝Ｍａｓｏｈｏ Ｈｉｇａｋｉ＝"
+msgstr ""
+
+msgctxt "141"
+msgid "  年齢：１８歳"
+msgstr ""
+
+msgctxt "142"
+msgid "  職業：侍"
+msgstr ""
+
+msgctxt "143"
+msgid "  趣味：武術の訓練"
+msgstr ""
+
+msgctxt "144"
+msgid "  大切なもの：父の形見の鎧"
+msgstr ""
+
+msgctxt "145"
+msgid "  「父の無念は私が晴らすわ、"
+msgstr ""
+
+msgctxt "146"
+msgid "   必ず・・・！」"
+msgstr ""
+
+msgctxt "147"
+msgid "「       罪人の流刑地であるクロウの迷宮に、京姫を幽閉した。"
+msgstr ""
+
+msgctxt "148"
+msgid "     何者であろうと見事助け出した暁には、お家再興の機会を与えよう。   」"
+msgstr ""
+
+msgctxt "149"
+msgid "                     立湧 七緒"
+msgstr ""
+
+msgctxt "150"
+msgid "                     ＝Ｎａｎａｏ Ｔａｔｅｗａｋｉ＝"
+msgstr ""
+
+msgctxt "151"
+msgid "                      年齢：１７歳"
+msgstr ""
+
+msgctxt "152"
+msgid "                      職業：侍"
+msgstr ""
+
+msgctxt "153"
+msgid "                      趣味：写経"
+msgstr ""
+
+msgctxt "154"
+msgid "                      大切なもの：集まってくれた仲間たち"
+msgstr ""
+
+msgctxt "155"
+msgid "                      「姫がお気の毒です。"
+msgstr ""
+
+msgctxt "156"
+msgid "                       早くお助けしなくては・・・"
+msgstr ""
+
+msgctxt "157"
+msgid "                       城下の皆さんが苦しんでいるのも、"
+msgstr ""
+
+msgctxt "158"
+msgid "                       見てはいられません」"
+msgstr ""
+
+msgctxt "159"
+msgid "              人々は、喜び、うかれた。"
+msgstr ""
+
+msgctxt "160"
+msgid "        原家のお侍なら、すぐに助け出してくれるだろうと。"
+msgstr ""
+
+msgctxt "161"
+msgid " 一条 春菜"
+msgstr ""
+
+msgctxt "162"
+msgid " ＝Ｈａｒｕｎａ Ｉｃｈｉｊｏｈ＝"
+msgstr ""
+
+msgctxt "163"
+msgid "  年齢：１６歳"
+msgstr ""
+
+msgctxt "164"
+msgid "  職業：柔術士"
+msgstr ""
+
+msgctxt "165"
+msgid "  趣味：洗濯、掃除"
+msgstr ""
+
+msgctxt "166"
+msgid "  大切なもの：こころ"
+msgstr ""
+
+msgctxt "167"
+msgid "  「私、柔術の腕はまだまだだけど・・・"
+msgstr ""
+
+msgctxt "168"
+msgid "   心は武道家のつもりです。"
+msgstr ""
+
+msgctxt "169"
+msgid "   だから、皆さんのお家再興を"
+msgstr ""
+
+msgctxt "170"
+msgid "   手伝わせて下さい」"
+msgstr ""
+
+msgctxt "171"
+msgid "                 しかし誰が？"
+msgstr ""
+
+msgctxt "172"
+msgid "     先の戦で侍はおろか、無事な男は一人も残っていないというのに。"
+msgstr ""
+
+msgctxt "173"
+msgid "                     このは（剣菱 このは）"
+msgstr ""
+
+msgctxt "174"
+msgid "                     ＝Ｋｏｎｏｈａ Ｋｅｎｂｉｓｈｉ＝"
+msgstr ""
+
+msgctxt "175"
+msgid "                      年齢：１９歳"
+msgstr ""
+
+msgctxt "176"
+msgid "                      職業：忍者"
+msgstr ""
+
+msgctxt "177"
+msgid "                      趣味：趣味に興じる暇はない"
+msgstr ""
+
+msgctxt "178"
+msgid "                      大切なもの：使命を果たすこと"
+msgstr ""
+
+msgctxt "179"
+msgid "                      「必ず、姫をお助けするわ。"
+msgstr ""
+
+msgctxt "180"
+msgid "                       たとえ自分が死んでもね」"
+msgstr ""
+
+msgctxt "181"
+msgid "          今、クロウの迷宮の前に、立つ影が９人。"
+msgstr ""
+
+msgctxt "182"
+msgid "       男が戦えないのならば・・・と、立ち上がった少女達。"
+msgstr ""
+
+msgctxt "183"
+msgid " 愛"
+msgstr ""
+
+msgctxt "184"
+msgid " ＝Ａｉ＝"
+msgstr ""
+
+msgctxt "185"
+msgid "  年齢：２２歳"
+msgstr ""
+
+msgctxt "186"
+msgid "  職業：クノイチ"
+msgstr ""
+
+msgctxt "187"
+msgid "  趣味：飲酒"
+msgstr ""
+
+msgctxt "188"
+msgid "  大切なもの：秘密"
+msgstr ""
+
+msgctxt "189"
+msgid "      （「自分」だと思われる）"
+msgstr ""
+
+msgctxt "190"
+msgid "  「うふふ、わたくしなどがお役に"
+msgstr ""
+
+msgctxt "191"
+msgid "   たてれば良いのですが・・・」"
+msgstr ""
+
+msgctxt "192"
+msgid "         重い鎧に身をつつみ、歩みすらもおぼつかない。"
+msgstr ""
+
+msgctxt "193"
+msgid "         刀や槍を握る手も、決して手慣れた様子はない。"
+msgstr ""
+
+msgctxt "194"
+msgid "                     美鈴"
+msgstr ""
+
+msgctxt "195"
+msgid "                     ＝Ｍｉｓｕｚｕ＝"
+msgstr ""
+
+msgctxt "196"
+msgid "                      年齢：１６歳"
+msgstr ""
+
+msgctxt "197"
+msgid "                      職業：呪術士"
+msgstr ""
+
+msgctxt "198"
+msgid "                      趣味：お花を摘むこと・・・？"
+msgstr ""
+
+msgctxt "199"
+msgid "                      大切なもの：ふかふかのおふとん"
+msgstr ""
+
+msgctxt "200"
+msgid "                      「あのぉ、師匠が行方不明なんです"
+msgstr ""
+
+msgctxt "201"
+msgid "                       ・・・たぶん死んでらっしゃるん"
+msgstr ""
+
+msgctxt "202"
+msgid "                       でしょうけど・・・修行しなくちゃ」"
+msgstr ""
+
+msgctxt "203"
+msgid "          しかし彼女達に、脅えや恐怖の色はなかった。"
+msgstr ""
+
+msgctxt "204"
+msgid "           今、クロウの迷宮へと続く門をくぐる。"
+msgstr ""
+
+msgctxt "205"
+msgid " ミオ（鈴木 ミオ）"
+msgstr ""
+
+msgctxt "206"
+msgid " ＝Ｍｉｏ Ｓｕｚｕｋｉ＝"
+msgstr ""
+
+msgctxt "207"
+msgid "  年齢：１６歳"
+msgstr ""
+
+msgctxt "208"
+msgid "  職業：天志僧"
+msgstr ""
+
+msgctxt "209"
+msgid "  趣味：座禅"
+msgstr ""
+
+msgctxt "210"
+msgid "  大切なもの：天志様の教え"
+msgstr ""
+
+msgctxt "211"
+msgid "  「若輩ながら、拙僧が助太刀いたす」"
+msgstr ""
+
+msgctxt "212"
+msgid "             背後で、錠がおろされる・・・"
+msgstr ""
+
+msgctxt "213"
+msgid "                かまいはしない。"
+msgstr ""
+
+msgctxt "214"
+msgid "                     篭目"
+msgstr ""
+
+msgctxt "215"
+msgid "                     ＝Ｋａｇｏｍｅ＝"
+msgstr ""
+
+msgctxt "216"
+msgid "                      年齢：１０歳（生後４年）"
+msgstr ""
+
+msgctxt "217"
+msgid "                      職業：ぬへ"
+msgstr ""
+
+msgctxt "218"
+msgid "                      趣味：なし"
+msgstr ""
+
+msgctxt "219"
+msgid "                      大切なもの：なし"
+msgstr ""
+
+msgctxt "220"
+msgid "                      「・・・・・・」"
+msgstr ""
+
+msgctxt "221"
+msgid "        次にこの門をくぐる時は、姫を助けた時なのだから。"
+msgstr ""
+
+msgctxt "222"
+msgid "        時はＬＰ２年６月 戦乱の嵐吹くＪＡＰＡＮ・・・"
+msgstr ""
+
+msgctxt "223"
+msgid "     魔神と謳われた武将、信長によってまた一つの国が制圧された。"
+msgstr ""
+
+msgctxt "224"
+msgid "             その名を「原家」という。"
+msgstr ""
+
+msgctxt "225"
+msgid "                     あかね"
+msgstr ""
+
+msgctxt "226"
+msgid "                     ＝Ａｋａｎｅ＝"
+msgstr ""
+
+msgctxt "227"
+msgid "                      年齢：１７歳"
+msgstr ""
+
+msgctxt "228"
+msgid "                      職業：足軽"
+msgstr ""
+
+msgctxt "229"
+msgid "                      趣味：弟妹と遊ぶこと"
+msgstr ""
+
+msgctxt "230"
+msgid "                      大切なもの：家族"
+msgstr ""
+
+msgctxt "231"
+msgid "                      「がんばるっ。"
+msgstr ""
+
+msgctxt "232"
+msgid "                       信長軍のやつらなんか、とっとと"
+msgstr ""
+
+msgctxt "233"
+msgid "                       追い出してやりたいもんねっ！」"
+msgstr ""
+
+msgctxt "234"
+msgid "                翌月ＬＰ２年７月"
+msgstr ""
+
+msgctxt "235"
+msgid "         生き残ったわずかな領民達に、触れが出される。"
+msgstr ""
+
+msgctxt "236"
+msgid " 桧垣 真朱"
+msgstr ""
+
+msgctxt "237"
+msgid " ＝Ｍａｓｏｈｏ Ｈｉｇａｋｉ＝"
+msgstr ""
+
+msgctxt "238"
+msgid "  年齢：１８歳"
+msgstr ""
+
+msgctxt "239"
+msgid "  職業：侍"
+msgstr ""
+
+msgctxt "240"
+msgid "  趣味：武術の訓練"
+msgstr ""
+
+msgctxt "241"
+msgid "  大切なもの：父の形見の鎧"
+msgstr ""
+
+msgctxt "242"
+msgid "  「父の無念は私が晴らすわ、"
+msgstr ""
+
+msgctxt "243"
+msgid "   必ず・・・！」"
+msgstr ""
+
+msgctxt "244"
+msgid "「       罪人の流刑地であるクロウの迷宮に、京姫を幽閉した。"
+msgstr ""
+
+msgctxt "245"
+msgid "     何者であろうと見事助け出した暁には、お家再興の機会を与えよう。   」"
+msgstr ""
+
+msgctxt "246"
+msgid "                     立湧 七緒"
+msgstr ""
+
+msgctxt "247"
+msgid "                     ＝Ｎａｎａｏ Ｔａｔｅｗａｋｉ＝"
+msgstr ""
+
+msgctxt "248"
+msgid "                      年齢：１７歳"
+msgstr ""
+
+msgctxt "249"
+msgid "                      職業：侍"
+msgstr ""
+
+msgctxt "250"
+msgid "                      趣味：写経"
+msgstr ""
+
+msgctxt "251"
+msgid "                      大切なもの：集まってくれた仲間たち"
+msgstr ""
+
+msgctxt "252"
+msgid "                      「姫がお気の毒です。"
+msgstr ""
+
+msgctxt "253"
+msgid "                       早くお助けしなくては・・・"
+msgstr ""
+
+msgctxt "254"
+msgid "                       城下の皆さんが苦しんでいるのも、"
+msgstr ""
+
+msgctxt "255"
+msgid "                       見てはいられません」"
+msgstr ""
+
+msgctxt "256"
+msgid "              人々は、喜び、うかれた。"
+msgstr ""
+
+msgctxt "257"
+msgid "        原家のお侍なら、すぐに助け出してくれるだろうと。"
+msgstr ""
+
+msgctxt "258"
+msgid " 一条 春菜"
+msgstr ""
+
+msgctxt "259"
+msgid " ＝Ｈａｒｕｎａ Ｉｃｈｉｊｏｈ＝"
+msgstr ""
+
+msgctxt "260"
+msgid "  年齢：１６歳"
+msgstr ""
+
+msgctxt "261"
+msgid "  職業：柔術士"
+msgstr ""
+
+msgctxt "262"
+msgid "  趣味：洗濯、掃除"
+msgstr ""
+
+msgctxt "263"
+msgid "  大切なもの：こころ"
+msgstr ""
+
+msgctxt "264"
+msgid "  「私、柔術の腕はまだまだだけど・・・"
+msgstr ""
+
+msgctxt "265"
+msgid "   心は武道家のつもりです。"
+msgstr ""
+
+msgctxt "266"
+msgid "   だから、皆さんのお家再興を"
+msgstr ""
+
+msgctxt "267"
+msgid "   手伝わせて下さい」"
+msgstr ""
+
+msgctxt "268"
+msgid "                 しかし誰が？"
+msgstr ""
+
+msgctxt "269"
+msgid "     先の戦で侍はおろか、無事な男は一人も残っていないというのに。"
+msgstr ""
+
+msgctxt "270"
+msgid "                     このは（剣菱 このは）"
+msgstr ""
+
+msgctxt "271"
+msgid "                     ＝Ｋｏｎｏｈａ Ｋｅｎｂｉｓｈｉ＝"
+msgstr ""
+
+msgctxt "272"
+msgid "                      年齢：１９歳"
+msgstr ""
+
+msgctxt "273"
+msgid "                      職業：忍者"
+msgstr ""
+
+msgctxt "274"
+msgid "                      趣味：趣味に興じる暇はない"
+msgstr ""
+
+msgctxt "275"
+msgid "                      大切なもの：使命を果たすこと"
+msgstr ""
+
+msgctxt "276"
+msgid "                      「必ず、姫をお助けするわ。"
+msgstr ""
+
+msgctxt "277"
+msgid "                       たとえ自分が死んでもね」"
+msgstr ""
+
+msgctxt "278"
+msgid "          今、クロウの迷宮の前に、立つ影が９人。"
+msgstr ""
+
+msgctxt "279"
+msgid "       男が戦えないのならば・・・と、立ち上がった少女達。"
+msgstr ""
+
+msgctxt "280"
+msgid " 愛"
+msgstr ""
+
+msgctxt "281"
+msgid " ＝Ａｉ＝"
+msgstr ""
+
+msgctxt "282"
+msgid "  年齢：２２歳"
+msgstr ""
+
+msgctxt "283"
+msgid "  職業：クノイチ"
+msgstr ""
+
+msgctxt "284"
+msgid "  趣味：飲酒"
+msgstr ""
+
+msgctxt "285"
+msgid "  大切なもの：秘密"
+msgstr ""
+
+msgctxt "286"
+msgid "      （「自分」だと思われる）"
+msgstr ""
+
+msgctxt "287"
+msgid "  「うふふ、わたくしなどがお役に"
+msgstr ""
+
+msgctxt "288"
+msgid "   たてれば良いのですが・・・」"
+msgstr ""
+
+msgctxt "289"
+msgid "         重い鎧に身をつつみ、歩みすらもおぼつかない。"
+msgstr ""
+
+msgctxt "290"
+msgid "         刀や槍を握る手も、決して手慣れた様子はない。"
+msgstr ""
+
+msgctxt "291"
+msgid "                     美鈴"
+msgstr ""
+
+msgctxt "292"
+msgid "                     ＝Ｍｉｓｕｚｕ＝"
+msgstr ""
+
+msgctxt "293"
+msgid "                      年齢：１６歳"
+msgstr ""
+
+msgctxt "294"
+msgid "                      職業：呪術士"
+msgstr ""
+
+msgctxt "295"
+msgid "                      趣味：お花を摘むこと・・・？"
+msgstr ""
+
+msgctxt "296"
+msgid "                      大切なもの：ふかふかのおふとん"
+msgstr ""
+
+msgctxt "297"
+msgid "                      「あのぉ、師匠が行方不明なんです"
+msgstr ""
+
+msgctxt "298"
+msgid "                       ・・・たぶん死んでらっしゃるん"
+msgstr ""
+
+msgctxt "299"
+msgid "                       でしょうけど・・・修行しなくちゃ」"
+msgstr ""
+
+msgctxt "300"
+msgid "          しかし彼女達に、脅えや恐怖の色はなかった。"
+msgstr ""
+
+msgctxt "301"
+msgid "           今、クロウの迷宮へと続く門をくぐる。"
+msgstr ""
+
+msgctxt "302"
+msgid " ミオ（鈴木 ミオ）"
+msgstr ""
+
+msgctxt "303"
+msgid " ＝Ｍｉｏ Ｓｕｚｕｋｉ＝"
+msgstr ""
+
+msgctxt "304"
+msgid "  年齢：１６歳"
+msgstr ""
+
+msgctxt "305"
+msgid "  職業：天志僧"
+msgstr ""
+
+msgctxt "306"
+msgid "  趣味：座禅"
+msgstr ""
+
+msgctxt "307"
+msgid "  大切なもの：天志様の教え"
+msgstr ""
+
+msgctxt "308"
+msgid "  「若輩ながら、拙僧が助太刀いたす」"
+msgstr ""
+
+msgctxt "309"
+msgid "             背後で、錠がおろされる・・・"
+msgstr ""
+
+msgctxt "310"
+msgid "                かまいはしない。"
+msgstr ""
+
+msgctxt "311"
+msgid "                     篭目"
+msgstr ""
+
+msgctxt "312"
+msgid "                     ＝Ｋａｇｏｍｅ＝"
+msgstr ""
+
+msgctxt "313"
+msgid "                      年齢：１０歳（生後４年）"
+msgstr ""
+
+msgctxt "314"
+msgid "                      職業：ぬへ"
+msgstr ""
+
+msgctxt "315"
+msgid "                      趣味：なし"
+msgstr ""
+
+msgctxt "316"
+msgid "                      大切なもの：なし"
+msgstr ""
+
+msgctxt "317"
+msgid "                      「・・・・・・」"
+msgstr ""
+
+msgctxt "318"
+msgid "        次にこの門をくぐる時は、姫を助けた時なのだから。"
+msgstr ""

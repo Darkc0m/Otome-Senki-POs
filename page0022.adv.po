@@ -1,0 +1,2284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Otome Senki\n"
+"Report-Msgid-Bugs-To: Darkc0m\n"
+"POT-Creation-Date: 16/05/23\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "未定"
+msgstr ""
+
+msgctxt "1"
+msgid "未定"
+msgstr ""
+
+msgctxt "2"
+msgid "未定"
+msgstr ""
+
+msgctxt "3"
+msgid "未定"
+msgstr ""
+
+msgctxt "4"
+msgid "使うキャラクターを選んでください"
+msgstr ""
+
+msgctxt "5"
+msgid "あかね 足 Ｌ／経："
+msgstr ""
+
+msgctxt "6"
+msgid "／"
+msgstr ""
+
+msgctxt "7"
+msgid " 疲："
+msgstr ""
+
+msgctxt "8"
+msgid " 状態：入院×"
+msgstr ""
+
+msgctxt "9"
+msgid "あかね 足 Ｌ／経："
+msgstr ""
+
+msgctxt "10"
+msgid "／"
+msgstr ""
+
+msgctxt "11"
+msgid " 疲："
+msgstr ""
+
+msgctxt "12"
+msgid " 状態：不明×"
+msgstr ""
+
+msgctxt "13"
+msgid "あかね 足 Ｌ／経："
+msgstr ""
+
+msgctxt "14"
+msgid "／"
+msgstr ""
+
+msgctxt "15"
+msgid " 疲："
+msgstr ""
+
+msgctxt "16"
+msgid " 状態：休息×"
+msgstr ""
+
+msgctxt "17"
+msgid "あかね 足 Ｌ／経："
+msgstr ""
+
+msgctxt "18"
+msgid "／"
+msgstr ""
+
+msgctxt "19"
+msgid " 疲："
+msgstr ""
+
+msgctxt "20"
+msgid " 状態：疲労○"
+msgstr ""
+
+msgctxt "21"
+msgid "あかね 足 Ｌ／経："
+msgstr ""
+
+msgctxt "22"
+msgid "／"
+msgstr ""
+
+msgctxt "23"
+msgid " 疲："
+msgstr ""
+
+msgctxt "24"
+msgid " 状態：全快◎"
+msgstr ""
+
+msgctxt "25"
+msgid "真朱  侍 Ｌ／経："
+msgstr ""
+
+msgctxt "26"
+msgid "／"
+msgstr ""
+
+msgctxt "27"
+msgid " 疲："
+msgstr ""
+
+msgctxt "28"
+msgid " 状態：入院×"
+msgstr ""
+
+msgctxt "29"
+msgid "真朱  侍 Ｌ／経："
+msgstr ""
+
+msgctxt "30"
+msgid "／"
+msgstr ""
+
+msgctxt "31"
+msgid " 疲："
+msgstr ""
+
+msgctxt "32"
+msgid " 状態：不明×"
+msgstr ""
+
+msgctxt "33"
+msgid "真朱  侍 Ｌ／経："
+msgstr ""
+
+msgctxt "34"
+msgid "／"
+msgstr ""
+
+msgctxt "35"
+msgid " 疲："
+msgstr ""
+
+msgctxt "36"
+msgid " 状態：休息×"
+msgstr ""
+
+msgctxt "37"
+msgid "真朱  侍 Ｌ／経："
+msgstr ""
+
+msgctxt "38"
+msgid "／"
+msgstr ""
+
+msgctxt "39"
+msgid " 疲："
+msgstr ""
+
+msgctxt "40"
+msgid " 状態：疲労○"
+msgstr ""
+
+msgctxt "41"
+msgid "真朱  侍 Ｌ／経："
+msgstr ""
+
+msgctxt "42"
+msgid "／"
+msgstr ""
+
+msgctxt "43"
+msgid " 疲："
+msgstr ""
+
+msgctxt "44"
+msgid " 状態：全快◎"
+msgstr ""
+
+msgctxt "45"
+msgid "七緒  侍 Ｌ／経："
+msgstr ""
+
+msgctxt "46"
+msgid "／"
+msgstr ""
+
+msgctxt "47"
+msgid " 疲："
+msgstr ""
+
+msgctxt "48"
+msgid " 状態：入院×"
+msgstr ""
+
+msgctxt "49"
+msgid "七緒  侍 Ｌ／経："
+msgstr ""
+
+msgctxt "50"
+msgid "／"
+msgstr ""
+
+msgctxt "51"
+msgid " 疲："
+msgstr ""
+
+msgctxt "52"
+msgid " 状態：不明×"
+msgstr ""
+
+msgctxt "53"
+msgid "七緒  侍 Ｌ／経："
+msgstr ""
+
+msgctxt "54"
+msgid "／"
+msgstr ""
+
+msgctxt "55"
+msgid " 疲："
+msgstr ""
+
+msgctxt "56"
+msgid " 状態：休息×"
+msgstr ""
+
+msgctxt "57"
+msgid "七緒  侍 Ｌ／経："
+msgstr ""
+
+msgctxt "58"
+msgid "／"
+msgstr ""
+
+msgctxt "59"
+msgid " 疲："
+msgstr ""
+
+msgctxt "60"
+msgid " 状態：疲労○"
+msgstr ""
+
+msgctxt "61"
+msgid "七緒  侍 Ｌ／経："
+msgstr ""
+
+msgctxt "62"
+msgid "／"
+msgstr ""
+
+msgctxt "63"
+msgid " 疲："
+msgstr ""
+
+msgctxt "64"
+msgid " 状態：全快◎"
+msgstr ""
+
+msgctxt "65"
+msgid "春菜  柔 Ｌ／経："
+msgstr ""
+
+msgctxt "66"
+msgid "／"
+msgstr ""
+
+msgctxt "67"
+msgid " 疲："
+msgstr ""
+
+msgctxt "68"
+msgid " 状態：入院×"
+msgstr ""
+
+msgctxt "69"
+msgid "春菜  柔 Ｌ／経："
+msgstr ""
+
+msgctxt "70"
+msgid "／"
+msgstr ""
+
+msgctxt "71"
+msgid " 疲："
+msgstr ""
+
+msgctxt "72"
+msgid " 状態：不明×"
+msgstr ""
+
+msgctxt "73"
+msgid "春菜  柔 Ｌ／経："
+msgstr ""
+
+msgctxt "74"
+msgid "／"
+msgstr ""
+
+msgctxt "75"
+msgid " 疲："
+msgstr ""
+
+msgctxt "76"
+msgid " 状態：休息×"
+msgstr ""
+
+msgctxt "77"
+msgid "春菜  柔 Ｌ／経："
+msgstr ""
+
+msgctxt "78"
+msgid "／"
+msgstr ""
+
+msgctxt "79"
+msgid " 疲："
+msgstr ""
+
+msgctxt "80"
+msgid " 状態：疲労○"
+msgstr ""
+
+msgctxt "81"
+msgid "春菜  柔 Ｌ／経："
+msgstr ""
+
+msgctxt "82"
+msgid "／"
+msgstr ""
+
+msgctxt "83"
+msgid " 疲："
+msgstr ""
+
+msgctxt "84"
+msgid " 状態：全快◎"
+msgstr ""
+
+msgctxt "85"
+msgid "このは 忍 Ｌ／経："
+msgstr ""
+
+msgctxt "86"
+msgid "／"
+msgstr ""
+
+msgctxt "87"
+msgid " 疲："
+msgstr ""
+
+msgctxt "88"
+msgid " 状態：入院×"
+msgstr ""
+
+msgctxt "89"
+msgid "このは 忍 Ｌ／経："
+msgstr ""
+
+msgctxt "90"
+msgid "／"
+msgstr ""
+
+msgctxt "91"
+msgid " 疲："
+msgstr ""
+
+msgctxt "92"
+msgid " 状態：不明×"
+msgstr ""
+
+msgctxt "93"
+msgid "このは 忍 Ｌ／経："
+msgstr ""
+
+msgctxt "94"
+msgid "／"
+msgstr ""
+
+msgctxt "95"
+msgid " 疲："
+msgstr ""
+
+msgctxt "96"
+msgid " 状態：休息×"
+msgstr ""
+
+msgctxt "97"
+msgid "このは 忍 Ｌ／経："
+msgstr ""
+
+msgctxt "98"
+msgid "／"
+msgstr ""
+
+msgctxt "99"
+msgid " 疲："
+msgstr ""
+
+msgctxt "100"
+msgid " 状態：疲労○"
+msgstr ""
+
+msgctxt "101"
+msgid "このは 忍 Ｌ／経："
+msgstr ""
+
+msgctxt "102"
+msgid "／"
+msgstr ""
+
+msgctxt "103"
+msgid " 疲："
+msgstr ""
+
+msgctxt "104"
+msgid " 状態：全快◎"
+msgstr ""
+
+msgctxt "105"
+msgid "愛   く Ｌ／経："
+msgstr ""
+
+msgctxt "106"
+msgid "／"
+msgstr ""
+
+msgctxt "107"
+msgid " 疲："
+msgstr ""
+
+msgctxt "108"
+msgid " 状態：入院×"
+msgstr ""
+
+msgctxt "109"
+msgid "愛   く Ｌ／経："
+msgstr ""
+
+msgctxt "110"
+msgid "／"
+msgstr ""
+
+msgctxt "111"
+msgid " 疲："
+msgstr ""
+
+msgctxt "112"
+msgid " 状態：不明×"
+msgstr ""
+
+msgctxt "113"
+msgid "愛   く Ｌ／経："
+msgstr ""
+
+msgctxt "114"
+msgid "／"
+msgstr ""
+
+msgctxt "115"
+msgid " 疲："
+msgstr ""
+
+msgctxt "116"
+msgid " 状態：休息×"
+msgstr ""
+
+msgctxt "117"
+msgid "愛   く Ｌ／経："
+msgstr ""
+
+msgctxt "118"
+msgid "／"
+msgstr ""
+
+msgctxt "119"
+msgid " 疲："
+msgstr ""
+
+msgctxt "120"
+msgid " 状態：疲労○"
+msgstr ""
+
+msgctxt "121"
+msgid "愛   く Ｌ／経："
+msgstr ""
+
+msgctxt "122"
+msgid "／"
+msgstr ""
+
+msgctxt "123"
+msgid " 疲："
+msgstr ""
+
+msgctxt "124"
+msgid " 状態：全快◎"
+msgstr ""
+
+msgctxt "125"
+msgid "美鈴  呪 Ｌ／経："
+msgstr ""
+
+msgctxt "126"
+msgid "／"
+msgstr ""
+
+msgctxt "127"
+msgid " 疲："
+msgstr ""
+
+msgctxt "128"
+msgid " 状態：入院×"
+msgstr ""
+
+msgctxt "129"
+msgid "美鈴  呪 Ｌ／経："
+msgstr ""
+
+msgctxt "130"
+msgid "／"
+msgstr ""
+
+msgctxt "131"
+msgid " 疲："
+msgstr ""
+
+msgctxt "132"
+msgid " 状態：不明×"
+msgstr ""
+
+msgctxt "133"
+msgid "美鈴  呪 Ｌ／経："
+msgstr ""
+
+msgctxt "134"
+msgid "／"
+msgstr ""
+
+msgctxt "135"
+msgid " 疲："
+msgstr ""
+
+msgctxt "136"
+msgid " 状態：休息×"
+msgstr ""
+
+msgctxt "137"
+msgid "美鈴  呪 Ｌ／経："
+msgstr ""
+
+msgctxt "138"
+msgid "／"
+msgstr ""
+
+msgctxt "139"
+msgid " 疲："
+msgstr ""
+
+msgctxt "140"
+msgid " 状態：疲労○"
+msgstr ""
+
+msgctxt "141"
+msgid "美鈴  呪 Ｌ／経："
+msgstr ""
+
+msgctxt "142"
+msgid "／"
+msgstr ""
+
+msgctxt "143"
+msgid " 疲："
+msgstr ""
+
+msgctxt "144"
+msgid " 状態：全快◎"
+msgstr ""
+
+msgctxt "145"
+msgid "ミオ  天 Ｌ／経："
+msgstr ""
+
+msgctxt "146"
+msgid "／"
+msgstr ""
+
+msgctxt "147"
+msgid " 疲："
+msgstr ""
+
+msgctxt "148"
+msgid " 状態：入院×"
+msgstr ""
+
+msgctxt "149"
+msgid "ミオ  天 Ｌ／経："
+msgstr ""
+
+msgctxt "150"
+msgid "／"
+msgstr ""
+
+msgctxt "151"
+msgid " 疲："
+msgstr ""
+
+msgctxt "152"
+msgid " 状態：不明×"
+msgstr ""
+
+msgctxt "153"
+msgid "ミオ  天 Ｌ／経："
+msgstr ""
+
+msgctxt "154"
+msgid "／"
+msgstr ""
+
+msgctxt "155"
+msgid " 疲："
+msgstr ""
+
+msgctxt "156"
+msgid " 状態：休息×"
+msgstr ""
+
+msgctxt "157"
+msgid "ミオ  天 Ｌ／経："
+msgstr ""
+
+msgctxt "158"
+msgid "／"
+msgstr ""
+
+msgctxt "159"
+msgid " 疲："
+msgstr ""
+
+msgctxt "160"
+msgid " 状態：疲労○"
+msgstr ""
+
+msgctxt "161"
+msgid "ミオ  天 Ｌ／経："
+msgstr ""
+
+msgctxt "162"
+msgid "／"
+msgstr ""
+
+msgctxt "163"
+msgid " 疲："
+msgstr ""
+
+msgctxt "164"
+msgid " 状態：全快◎"
+msgstr ""
+
+msgctxt "165"
+msgid "篭目  ぬ Ｌ／経："
+msgstr ""
+
+msgctxt "166"
+msgid "／"
+msgstr ""
+
+msgctxt "167"
+msgid " 疲："
+msgstr ""
+
+msgctxt "168"
+msgid " 状態：入院×"
+msgstr ""
+
+msgctxt "169"
+msgid "篭目  ぬ Ｌ／経："
+msgstr ""
+
+msgctxt "170"
+msgid "／"
+msgstr ""
+
+msgctxt "171"
+msgid " 疲："
+msgstr ""
+
+msgctxt "172"
+msgid " 状態：不明×"
+msgstr ""
+
+msgctxt "173"
+msgid "篭目  ぬ Ｌ／経："
+msgstr ""
+
+msgctxt "174"
+msgid "／"
+msgstr ""
+
+msgctxt "175"
+msgid " 疲："
+msgstr ""
+
+msgctxt "176"
+msgid " 状態：休息×"
+msgstr ""
+
+msgctxt "177"
+msgid "篭目  ぬ Ｌ／経："
+msgstr ""
+
+msgctxt "178"
+msgid "／"
+msgstr ""
+
+msgctxt "179"
+msgid " 疲："
+msgstr ""
+
+msgctxt "180"
+msgid " 状態：疲労○"
+msgstr ""
+
+msgctxt "181"
+msgid "篭目  ぬ Ｌ／経："
+msgstr ""
+
+msgctxt "182"
+msgid "／"
+msgstr ""
+
+msgctxt "183"
+msgid " 疲："
+msgstr ""
+
+msgctxt "184"
+msgid " 状態：全快◎"
+msgstr ""
+
+msgctxt "185"
+msgid "このメンバーで出陣する"
+msgstr ""
+
+msgctxt "186"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "187"
+msgid "足軽"
+msgstr ""
+
+msgctxt "188"
+msgid "桧垣　真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "189"
+msgid "侍"
+msgstr "Samurái"
+
+msgctxt "190"
+msgid "立湧　七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "191"
+msgid "侍"
+msgstr "Samurái"
+
+msgctxt "192"
+msgid "一条　春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "193"
+msgid "柔術士"
+msgstr ""
+
+msgctxt "194"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "195"
+msgid "呪術士"
+msgstr ""
+
+msgctxt "196"
+msgid "剣菱　このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "197"
+msgid "忍者"
+msgstr "Ninja"
+
+msgctxt "198"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "199"
+msgid "クノイチ"
+msgstr "Kunoichi"
+
+msgctxt "200"
+msgid "鈴木　ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "201"
+msgid "天志僧"
+msgstr "Monje"
+
+msgctxt "202"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "203"
+msgid "ぬへ"
+msgstr "Nuhe"
+
+msgctxt "204"
+msgid "    迷宮のどこかに囚われているようです。"
+msgstr ""
+
+msgctxt "205"
+msgid "     絶対安静です。無理はいけません。"
+msgstr ""
+
+msgctxt "206"
+msgid "疲れがひどい様です。もう少し眠らせてあげましょう。"
+msgstr ""
+
+msgctxt "207"
+msgid "これでいい"
+msgstr ""
+
+msgctxt "208"
+msgid "選びなおす"
+msgstr ""
+
+msgctxt "209"
+msgid "過去を振り返る"
+msgstr ""
+
+msgctxt "210"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "211"
+msgid "桧垣　真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "212"
+msgid "立湧　七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "213"
+msgid "一条　春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "214"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "215"
+msgid "剣菱　このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "216"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "217"
+msgid "鈴木　ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "218"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "219"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "220"
+msgid "桧垣　真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "221"
+msgid "立湧　七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "222"
+msgid "一条　春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "223"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "224"
+msgid "剣菱　このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "225"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "226"
+msgid "鈴木　ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "227"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "228"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "229"
+msgid "桧垣　真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "230"
+msgid "立湧　七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "231"
+msgid "一条　春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "232"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "233"
+msgid "剣菱　このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "234"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "235"
+msgid "鈴木　ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "236"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "237"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "238"
+msgid "桧垣　真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "239"
+msgid "立湧　七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "240"
+msgid "一条　春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "241"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "242"
+msgid "剣菱　このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "243"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "244"
+msgid "鈴木　ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "245"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "246"
+msgid "パーティ"
+msgstr ""
+
+msgctxt "247"
+msgid "このパーティでいいですか？"
+msgstr ""
+
+msgctxt "248"
+msgid "出陣"
+msgstr ""
+
+msgctxt "249"
+msgid "解散"
+msgstr ""
+
+msgctxt "250"
+msgid "今のキャラを外す"
+msgstr ""
+
+msgctxt "251"
+msgid "未定"
+msgstr ""
+
+msgctxt "252"
+msgid "未定"
+msgstr ""
+
+msgctxt "253"
+msgid "未定"
+msgstr ""
+
+msgctxt "254"
+msgid "未定"
+msgstr ""
+
+msgctxt "255"
+msgid "「そっちからぶつかってきたんじゃないか、"
+msgstr ""
+
+msgctxt "256"
+msgid " 昼間っから千鳥足で歩いてる方が悪いよっ！」"
+msgstr ""
+
+msgctxt "257"
+msgid "少ないながらも人々が行きかう、焼け跡の小さな市場。"
+msgstr ""
+
+msgctxt "258"
+msgid "その晴れわたった空の下に、威勢のいい声が響いた。"
+msgstr ""
+
+msgctxt "259"
+msgid "あかねが背中に弟をかばって、赤ら顔の兵士と向きあっている。"
+msgstr ""
+
+msgctxt "260"
+msgid "「んだとぉ・・？ 小娘が、信長公の衛兵さまに逆らうってのか」"
+msgstr ""
+
+msgctxt "261"
+msgid "集落の見張りの兵士は、大半が鎧をつけただけのチンピラだ。"
+msgstr ""
+
+msgctxt "262"
+msgid "あかねにむかって凄味をきかせるこの男も、明らかにそのクチだ。"
+msgstr ""
+
+msgctxt "263"
+msgid "「べーっだ、信長の足の小指の爪の垢だって見たことないくせに！"
+msgstr ""
+
+msgctxt "264"
+msgid " どうせ出世の望みもない、ひょっとこ足軽頭の部下なんでしょ？"
+msgstr ""
+
+msgctxt "265"
+msgid " ひょっとこがうつるわよ、やーいひょっとこひょっとこ！」"
+msgstr ""
+
+msgctxt "266"
+msgid "「このアマがぁッ、斬りすてるぞッ！！」"
+msgstr ""
+
+msgctxt "267"
+msgid "「小太郎、逃げなッ！」"
+msgstr ""
+
+msgctxt "268"
+msgid "兵士が鯉口を切り、あかねが弟を逃がし、観衆が肝を冷やした"
+msgstr ""
+
+msgctxt "269"
+msgid "その瞬間－－"
+msgstr ""
+
+msgctxt "270"
+msgid "「その喧嘩を、わたしに売って下さいませんか？」"
+msgstr ""
+
+msgctxt "271"
+msgid "一人の、侍の姿をした娘が二人の間に割って入った。"
+msgstr ""
+
+msgctxt "272"
+msgid "「んだと、このアマ・・・てめぇから死にてぇか！」"
+msgstr ""
+
+msgctxt "273"
+msgid "「いかにもわたしは女です。それに剣技も未熟です。"
+msgstr ""
+
+msgctxt "274"
+msgid " ですが・・・酔っぱらいの方ぐらいは、斬れるのですよ？」"
+msgstr ""
+
+msgctxt "275"
+msgid "娘の静かな微笑みは、それが嘘ではないことを物語っていた。"
+msgstr ""
+
+msgctxt "276"
+msgid "兵士を追い払うと、娘は立湧七緒と名乗った。"
+msgstr ""
+
+msgctxt "277"
+msgid "「はぁ、怖かったよぉ・・・。あたしあかね、どうもありがとう」"
+msgstr ""
+
+msgctxt "278"
+msgid "「あかねさんは勇気があるのですね」"
+msgstr ""
+
+msgctxt "279"
+msgid "「そんなことないよぉ。見てほら、手、震えてる」"
+msgstr ""
+
+msgctxt "280"
+msgid "「くすっ・・・震える手で弟さんをかばえることが、勇気ですよ」"
+msgstr ""
+
+msgctxt "281"
+msgid "「そ、そぉ？ 照れるなぁ・・・」"
+msgstr ""
+
+msgctxt "282"
+msgid "屈託なくあかねは笑う。ふと、見守る七緒の顔から笑みが消えた。"
+msgstr ""
+
+msgctxt "283"
+msgid "「あかねさん・・・ご家族のある方にこんなお願いをしては"
+msgstr ""
+
+msgctxt "284"
+msgid " いけないのでしょうが・・・」"
+msgstr ""
+
+msgctxt "285"
+msgid "翌日、あかねは集会場に現れた。"
+msgstr ""
+
+msgctxt "286"
+msgid "「本当によろしいのですか、あかねさん。戦に巻き込んで・・・」"
+msgstr ""
+
+msgctxt "287"
+msgid "案ずる七緒に、あかねは元気一杯で答えた。"
+msgstr ""
+
+msgctxt "288"
+msgid "「へーきへーき。あたしけっこう強いんだ、子供の頃は"
+msgstr ""
+
+msgctxt "289"
+msgid " ガキ大将だったんだよっ！」"
+msgstr ""
+
+msgctxt "290"
+msgid "厳格な父は、真朱の二人の兄を厳しく育てていた。"
+msgstr ""
+
+msgctxt "291"
+msgid "真朱は幼いうちから、武家に生まれた以上、娘もまた武士で"
+msgstr ""
+
+msgctxt "292"
+msgid "あらねばと考え、自分も訓練してほしいと父にせがんだ。"
+msgstr ""
+
+msgctxt "293"
+msgid "しかし父は「女は家を守るべき」と答え、真朱に武術を禁じた。"
+msgstr ""
+
+msgctxt "294"
+msgid "やがて戦が始まり、十年が過ぎる・・・"
+msgstr ""
+
+msgctxt "295"
+msgid "「父上、どうか私に武術の手ほどきをして下さい。そして－－」"
+msgstr ""
+
+msgctxt "296"
+msgid "「そして、どうせよと言うつもりだ」"
+msgstr ""
+
+msgctxt "297"
+msgid "「どうか・・・私を嫡子に」"
+msgstr ""
+
+msgctxt "298"
+msgid "兄たちは、先日の合戦で討ち死にした。桧垣家に残る子は真朱だけ"
+msgstr ""
+
+msgctxt "299"
+msgid "になったが、それでも父は真朱を侍にしようとはしなかった。"
+msgstr ""
+
+msgctxt "300"
+msgid "「ならぬ」"
+msgstr ""
+
+msgctxt "301"
+msgid "「どうしてですか、父上！ もしも、もしもこのうえ"
+msgstr ""
+
+msgctxt "302"
+msgid " 父上が・・・父上まで・・・くっ・・・！」"
+msgstr ""
+
+msgctxt "303"
+msgid "「構わん、真朱。すでにこの戦は負け戦。お前の思う通り、"
+msgstr ""
+
+msgctxt "304"
+msgid " 私も長くはないかもしれぬ」"
+msgstr ""
+
+msgctxt "305"
+msgid "「ならばなぜ、私を！」"
+msgstr ""
+
+msgctxt "306"
+msgid "「男が死に絶え滅びるならば、それもまた桧垣の運命。"
+msgstr ""
+
+msgctxt "307"
+msgid " 女子に跡目を継がせてまで、悪あがきをしようとは思わぬ」"
+msgstr ""
+
+msgctxt "308"
+msgid "「父上、そこまで私を・・・！」"
+msgstr ""
+
+msgctxt "309"
+msgid "ほどなく、父も討ち死にした。真朱の元には、触れることを"
+msgstr ""
+
+msgctxt "310"
+msgid "禁じられたままの甲胄だけが残された。そして、信長の沙汰－－"
+msgstr ""
+
+msgctxt "311"
+msgid "真朱は黙って見守る母の前で、形見の甲胄を身につけた。"
+msgstr ""
+
+msgctxt "312"
+msgid "父の意に背く自分を、この兜は認めないだろうと思いながら。"
+msgstr ""
+
+msgctxt "313"
+msgid "「！」"
+msgstr ""
+
+msgctxt "314"
+msgid "－－ィィィィィィィン・・・－－"
+msgstr ""
+
+msgctxt "315"
+msgid "金属の共鳴する音が細く長く響く。新しい主を認め、兜が哭いた。"
+msgstr ""
+
+msgctxt "316"
+msgid "「真朱・・・やはり、あなたが・・・」"
+msgstr ""
+
+msgctxt "317"
+msgid "母は静かに涙を流しながら、真朱に父の真意を語って聞かせた。"
+msgstr ""
+
+msgctxt "318"
+msgid "「鎧を継ぐのに相応しいのは貴方だと、父上は知っていたのです。"
+msgstr ""
+
+msgctxt "319"
+msgid " けれど・・・娘を戦いの世界に引き込むのが忍びなく、"
+msgstr ""
+
+msgctxt "320"
+msgid " できることなら平凡な娘の一生を過ごしてほしいと・・・」"
+msgstr ""
+
+msgctxt "321"
+msgid "「父上が・・・」"
+msgstr ""
+
+msgctxt "322"
+msgid "年老いた父がいつまでも兄に鎧を譲らなかった理由、"
+msgstr ""
+
+msgctxt "323"
+msgid "自分に鎧の色と同じ「真朱」という名をつけた理由を悟り、"
+msgstr ""
+
+msgctxt "324"
+msgid "真朱は最初で最後の涙を流した。"
+msgstr ""
+
+msgctxt "325"
+msgid "七緒は、幼なじみの真朱とは対照的な境遇に育った。"
+msgstr ""
+
+msgctxt "326"
+msgid "幼少の頃から女らしく育てられたのだが、十三の年に母が"
+msgstr ""
+
+msgctxt "327"
+msgid "病死して以来、唯一の嫡子として剣技を身につけることになった。"
+msgstr ""
+
+msgctxt "328"
+msgid "だがそのわずか二年後に、父は信長軍の計略に倒れる。"
+msgstr ""
+
+msgctxt "329"
+msgid "「くっ・・・おじ様が討ち取られるなんて・・・！"
+msgstr ""
+
+msgctxt "330"
+msgid " 私が侍なら、一緒に出陣していたら、背中を狙うような真似"
+msgstr ""
+
+msgctxt "331"
+msgid " させなかったのに・・・ッ！」"
+msgstr ""
+
+msgctxt "332"
+msgid "七緒の父の仏前で、真朱は我が事のように歯噛みした。"
+msgstr ""
+
+msgctxt "333"
+msgid "うつむき、床を打つ真朱に対して、七緒は静かに座っていた。"
+msgstr ""
+
+msgctxt "334"
+msgid "「いいのよ、真朱」"
+msgstr ""
+
+msgctxt "335"
+msgid "「だって、七緒・・・！」"
+msgstr ""
+
+msgctxt "336"
+msgid "やんわりと微笑む七緒の穏やかさが、真朱をなお切なくさせる。"
+msgstr ""
+
+msgctxt "337"
+msgid "「父さまは心の臓を貫かれたのに、敵将の首をはねたのですって。"
+msgstr ""
+
+msgctxt "338"
+msgid " そして馬を降りてから倒れられたと聞くわ。"
+msgstr ""
+
+msgctxt "339"
+msgid " きっともう、充分に満足されたのよ・・・」"
+msgstr ""
+
+msgctxt "340"
+msgid "「それでいいの、七緒？ 本当にそれでいいの・・・！？」"
+msgstr ""
+
+msgctxt "341"
+msgid "真朱の問いに、七緒は微笑むだけだった。"
+msgstr ""
+
+msgctxt "342"
+msgid "（父さま、あなたは・・・"
+msgstr ""
+
+msgctxt "343"
+msgid " 最期の時に、少しでもわたしのことを思われましたか・・・？）"
+msgstr ""
+
+msgctxt "344"
+msgid "父の形見の兜はその棺に納め、七緒は新たな兜を得て侍となった。"
+msgstr ""
+
+msgctxt "345"
+msgid "花を愛で、人々を愛し、何者も憎まない心をそのままに。"
+msgstr ""
+
+msgctxt "346"
+msgid "自分もいつか父のように、死闘にこそ生を見出す修羅の道に"
+msgstr ""
+
+msgctxt "347"
+msgid "踏み込むのだろうか。"
+msgstr ""
+
+msgctxt "348"
+msgid "そうなった時には、それも静かに受け入れようと七緒は思う。"
+msgstr ""
+
+msgctxt "349"
+msgid "そして初陣の日。鎧を着た孫娘を、祖母は厳しい顔で見送った。"
+msgstr ""
+
+msgctxt "350"
+msgid "「・・・それでは行って参ります、お婆さま」"
+msgstr ""
+
+msgctxt "351"
+msgid "「七緒。忠義の為に散るのが武士です。しかし・・・」"
+msgstr ""
+
+msgctxt "352"
+msgid "七緒はこの時、祖母が武士道をひるがえすのを初めて聞いた。"
+msgstr ""
+
+msgctxt "353"
+msgid "「できるなら、生きて帰りなさい」"
+msgstr ""
+
+msgctxt "354"
+msgid "「はい・・・！」"
+msgstr ""
+
+msgctxt "355"
+msgid "震える声で返事をした七緒は、しかし、門を出てひとり呟く。"
+msgstr ""
+
+msgctxt "356"
+msgid "「だけどお婆さま・・・次に戻る時、"
+msgstr ""
+
+msgctxt "357"
+msgid " わたしは元の七緒ではないかもしれません・・・」"
+msgstr ""
+
+msgctxt "358"
+msgid "今はまだ、武士としての忠義と姫を案じる心、"
+msgstr ""
+
+msgctxt "359"
+msgid "早く平和を取り戻したいという願いの為に信長に挑む－－"
+msgstr ""
+
+msgctxt "360"
+msgid "春菜の義父は、かつて西国で名をはせた柔術の達人だった。"
+msgstr ""
+
+msgctxt "361"
+msgid "しかし御前試合の対戦相手を死なせてしまったことから"
+msgstr ""
+
+msgctxt "362"
+msgid "道場を閉め、柔術を捨て、巡礼の旅にでる。"
+msgstr ""
+
+msgctxt "363"
+msgid "自分がその父を殺した為に身寄りがなくなった赤子を連れて。"
+msgstr ""
+
+msgctxt "364"
+msgid "「良いか、春菜。わしはお前のまことの父親ではない。"
+msgstr ""
+
+msgctxt "365"
+msgid " お前のたった一人の父は、このわしが殺したのだ・・・」"
+msgstr ""
+
+msgctxt "366"
+msgid "「はるなのおとうさん、おとうさんでしょ？"
+msgstr ""
+
+msgctxt "367"
+msgid " はるなのおとうさん、ここにいるよ・・・？」"
+msgstr ""
+
+msgctxt "368"
+msgid "義父は春菜が物心つく前から、真実を言い聞かせ続けた。"
+msgstr ""
+
+msgctxt "369"
+msgid "やがて供養の旅が終わり、原家の城下に落ち着いた頃には、"
+msgstr ""
+
+msgctxt "370"
+msgid "春菜もその意味がわかる年になっていた。"
+msgstr ""
+
+msgctxt "371"
+msgid "改めて「恨んでもいいのだぞ」と言う父を、春菜は笑って相手に"
+msgstr ""
+
+msgctxt "372"
+msgid "しなかった。ただ、一つのわだかまりが胸に残った－－"
+msgstr ""
+
+msgctxt "373"
+msgid "「ねぇ、お父さん？ ・・・私、柔術を習いたいな」"
+msgstr ""
+
+msgctxt "374"
+msgid "青空の下に洗濯物を干しながら、春菜はわざと明るくきりだした。"
+msgstr ""
+
+msgctxt "375"
+msgid "親子二人の穏やかな生活が幾年か続き、春菜は十六になっていた。"
+msgstr ""
+
+msgctxt "376"
+msgid "「なっ・・・春菜！」"
+msgstr ""
+
+msgctxt "377"
+msgid "「くすくす、やっぱりうろたえてる。女の子が柔術やりたいって、"
+msgstr ""
+
+msgctxt "378"
+msgid " そんなに変かな？ いいじゃない、教えてよ、お父さん」"
+msgstr ""
+
+msgctxt "379"
+msgid "笑顔でいながら、春菜の胸は締めつけられるようだった。"
+msgstr ""
+
+msgctxt "380"
+msgid "春菜のただ一つのわだかまりは、実父が父に捨てさせた柔術を、"
+msgstr ""
+
+msgctxt "381"
+msgid "もう一度父に返してやりたいという事だった。"
+msgstr ""
+
+msgctxt "382"
+msgid "けれど、答は否に決まっている。"
+msgstr ""
+
+msgctxt "383"
+msgid "「・・・駄目だ、春菜。わしはもう二度と、道着に袖を通さん」"
+msgstr ""
+
+msgctxt "384"
+msgid "「・・・やっぱり。ふんだ、お父さんの頑固者っ。"
+msgstr ""
+
+msgctxt "385"
+msgid " もうお父さんの着物は干したげないし、洗ってもあげないっ」"
+msgstr ""
+
+msgctxt "386"
+msgid "「こ、こら、春菜・・・」"
+msgstr ""
+
+msgctxt "387"
+msgid "（だけど・・・私が強くなれば、お父さんもきっと・・・！）"
+msgstr ""
+
+msgctxt "388"
+msgid "春菜は父に隠れて教本を読み、柔術に取り組み始めた。"
+msgstr ""
+
+msgctxt "389"
+msgid "領内での戦が激しさを増してきても、少女らしい正義感を"
+msgstr ""
+
+msgctxt "390"
+msgid "燃やして稽古を続けた。"
+msgstr ""
+
+msgctxt "391"
+msgid "ある日、稽古のために町はずれへ向かう途中で、春菜は見慣れぬ"
+msgstr ""
+
+msgctxt "392"
+msgid "立て札を目にする。そして春菜は、道着を脱がずに家に戻った。"
+msgstr ""
+
+msgctxt "393"
+msgid "「お父さん、私ちょっと出かけてきます。"
+msgstr ""
+
+msgctxt "394"
+msgid " 少し長くなるかもしれないけど、心配しないでね・・・」"
+msgstr ""
+
+msgctxt "395"
+msgid "呪術士の使用する鈴を鍛える者には、やはり特殊な気質が"
+msgstr ""
+
+msgctxt "396"
+msgid "必要とされる。選ばれし者の職業、鈴師－－"
+msgstr ""
+
+msgctxt "397"
+msgid "－－から、鈴を仕入れて売る一般人の商売、鈴屋。"
+msgstr ""
+
+msgctxt "398"
+msgid "美鈴は鈴屋の大店に生まれた娘である。"
+msgstr ""
+
+msgctxt "399"
+msgid "「お姉さま～、わたし、呪術士になりたいですぅ～」"
+msgstr ""
+
+msgctxt "400"
+msgid "「うわっ、な、なによいきなり」"
+msgstr ""
+
+msgctxt "401"
+msgid "「わたし、呪術士になりたいんですぅ。なれるでしょうか・・・」"
+msgstr ""
+
+msgctxt "402"
+msgid "「ぅ・・・・・・」"
+msgstr ""
+
+msgctxt "403"
+msgid "それは美鈴が十五になった翌日のことだった。"
+msgstr ""
+
+msgctxt "404"
+msgid "美鈴の姉は、かつてこれほど返答に困ったことはなかった。"
+msgstr ""
+
+msgctxt "405"
+msgid "「お客さま方に弟子入りをお願いしようかと思うのですが・・・」"
+msgstr ""
+
+msgctxt "406"
+msgid "「やっ、やめなさい！」"
+msgstr ""
+
+msgctxt "407"
+msgid "じゃららっと音を立て、姉の手からそろばんが落ちる。"
+msgstr ""
+
+msgctxt "408"
+msgid "「い・・・いいこと、美鈴。くやしいけど、鈴屋で鈴を買うような"
+msgstr ""
+
+msgctxt "409"
+msgid " 呪術士は三流よ。弟子入りなんか、しちゃいけないわ」"
+msgstr ""
+
+msgctxt "410"
+msgid "「えぇ～？ じゃあ、一流の方はどこにいるのですかぁ？」"
+msgstr ""
+
+msgctxt "411"
+msgid "「一流の呪術士は名工とじかに取り引きするから、うちには・・・"
+msgstr ""
+
+msgctxt "412"
+msgid " あぁもうだからとにかく、絶っっっ対に！"
+msgstr ""
+
+msgctxt "413"
+msgid " お客様に迷惑、いえいえ、弟子入り志願なんてしちゃダメよ！」"
+msgstr ""
+
+msgctxt "414"
+msgid "「はぁい・・・」"
+msgstr ""
+
+msgctxt "415"
+msgid "翌朝、美鈴の姿は家にはなかった。"
+msgstr ""
+
+msgctxt "416"
+msgid "『一流の師匠を探しに参ります 美鈴』"
+msgstr ""
+
+msgctxt "417"
+msgid "それから一年あまり。美鈴は旅を続け、ようやく弟子入りを"
+msgstr ""
+
+msgctxt "418"
+msgid "認めてくれる一流の（？）師匠を見つけた。"
+msgstr ""
+
+msgctxt "419"
+msgid "だがその矢先に師匠は原家の軍勢として雇われ参戦、"
+msgstr ""
+
+msgctxt "420"
+msgid "行方不明になってしまった。"
+msgstr ""
+
+msgctxt "421"
+msgid "「どうしよう～、もう自力で修行するしかないのかしら～・・・」"
+msgstr ""
+
+msgctxt "422"
+msgid "途方に暮れる美鈴の耳にも、（よせばいいのに）クロウの迷宮と"
+msgstr ""
+
+msgctxt "423"
+msgid "それに挑む者を募る話は届いた。"
+msgstr ""
+
+msgctxt "424"
+msgid "師匠か師匠の死体を探すついでに、"
+msgstr ""
+
+msgctxt "425"
+msgid "修行をするついでに、"
+msgstr ""
+
+msgctxt "426"
+msgid "ご飯も食べさせてもらえるついでに、"
+msgstr ""
+
+msgctxt "427"
+msgid "姫を助ければ有名な呪術士になれるかもしれないついでに、"
+msgstr ""
+
+msgctxt "428"
+msgid "「ん～、なんだか女の子がいっぱいで楽しそ～」"
+msgstr ""
+
+msgctxt "429"
+msgid "－－だと思った美鈴は、参戦を決意した・・・"
+msgstr ""
+
+msgctxt "430"
+msgid "原家に仕える忍び、剣菱党。"
+msgstr ""
+
+msgctxt "431"
+msgid "このははその頭領の娘として生まれた。"
+msgstr ""
+
+msgctxt "432"
+msgid "何よりも「頭領の娘」として扱われるのを嫌ったこのはは"
+msgstr ""
+
+msgctxt "433"
+msgid "より厳しい立場に身を置くべく、女はクノイチになるのが通例の"
+msgstr ""
+
+msgctxt "434"
+msgid "剣菱党で、あえて忍者になることを選んだ。"
+msgstr ""
+
+msgctxt "435"
+msgid "だが女の身では、他の下忍たちとの能力差は開く一方。"
+msgstr ""
+
+msgctxt "436"
+msgid "戦局がどれほど激しくなっても、前線に出されることはなかった。"
+msgstr ""
+
+msgctxt "437"
+msgid "一方で、そんなこのはの境遇を「頭領の娘だから忍者に登用され、"
+msgstr ""
+
+msgctxt "438"
+msgid "安全な場所においておかれる」と邪推する者も少なくなかった。"
+msgstr ""
+
+msgctxt "439"
+msgid "「馬鹿にするな、私は忍び・・・！ 使命も果たさず"
+msgstr ""
+
+msgctxt "440"
+msgid " ぬるま湯の中で生き延びて、何が嬉しい！」"
+msgstr ""
+
+msgctxt "441"
+msgid "そんな中、このはの属する部隊が、指揮をする中忍もろとも"
+msgstr ""
+
+msgctxt "442"
+msgid "全滅した。中忍は、このはの兄だった。"
+msgstr ""
+
+msgctxt "443"
+msgid "このはは兄の死に特別な感慨は持たなかったが、自分だけが"
+msgstr ""
+
+msgctxt "444"
+msgid "里に残されていたことに対して憤った。"
+msgstr ""
+
+msgctxt "445"
+msgid "「頭領、なぜ私を戦に向かわせないのですか！」"
+msgstr ""
+
+msgctxt "446"
+msgid "本来下忍には立ち入ることも許されぬ頭領の部屋で、"
+msgstr ""
+
+msgctxt "447"
+msgid "このはは父につめよった。"
+msgstr ""
+
+msgctxt "448"
+msgid "「確かに私の能力では、さして役には立たないやもしれません。"
+msgstr ""
+
+msgctxt "449"
+msgid " しかし私は・・・私にも死の覚悟などできております！"
+msgstr ""
+
+msgctxt "450"
+msgid " 決して足手まといなどには－－」"
+msgstr ""
+
+msgctxt "451"
+msgid "「たわけが！ 貴様は侍のつもりか！」"
+msgstr ""
+
+msgctxt "452"
+msgid "伏して頼む娘の横面を、父は足蹴にした。"
+msgstr ""
+
+msgctxt "453"
+msgid "「忍びが死をいとわぬのは当然のこと、だがそれは犬死にする"
+msgstr ""
+
+msgctxt "454"
+msgid " ためではないわ！」"
+msgstr ""
+
+msgctxt "455"
+msgid "「・・・！」"
+msgstr ""
+
+msgctxt "456"
+msgid "「役に立たぬ忍びなどいらぬ。登用される時がくるまで、"
+msgstr ""
+
+msgctxt "457"
+msgid " 己が手に余るような事をしようとするな」"
+msgstr ""
+
+msgctxt "458"
+msgid "「はっ・・・！」"
+msgstr ""
+
+msgctxt "459"
+msgid "やがて上忍たちは次々に信長の手の者に敗れ、父もまた妖術使いに"
+msgstr ""
+
+msgctxt "460"
+msgid "呪殺された。剣菱党にはまともに戦える者はいなくなり、"
+msgstr ""
+
+msgctxt "461"
+msgid "指揮系統はほぼなくなった。"
+msgstr ""
+
+msgctxt "462"
+msgid "「これこそが、私が命をかけるべき使命・・・！」"
+msgstr ""
+
+msgctxt "463"
+msgid "剣菱党に最後に出された命令は、宿敵信長からのものだった。"
+msgstr ""
+
+msgctxt "464"
+msgid "このはは原家に仕える最後の忍者として、使命を果たす－－"
+msgstr ""
+
+msgctxt "465"
+msgid "愛は剣菱党の中で最も妖麗な容姿をもつクノイチである。"
+msgstr ""
+
+msgctxt "466"
+msgid "しかしその容姿と幻惑の能力をもってしても補えないほど、"
+msgstr ""
+
+msgctxt "467"
+msgid "忍者としての能力が低かった。"
+msgstr ""
+
+msgctxt "468"
+msgid "そのため愛は、これまで一度も任務に－－戦闘はもちろん"
+msgstr ""
+
+msgctxt "469"
+msgid "諜報活動にすら、ついたことがなかった。"
+msgstr ""
+
+msgctxt "470"
+msgid "仲間たちは深手を負いながらも、治療にではなく、"
+msgstr ""
+
+msgctxt "471"
+msgid "すでに敵のものとなった城へと向かってゆく。"
+msgstr ""
+
+msgctxt "472"
+msgid "「わたくしには、こんなことしかできませんけれど・・・」"
+msgstr ""
+
+msgctxt "473"
+msgid "おっとりと微笑みながら、気やすめ程度の手当をしたり、"
+msgstr ""
+
+msgctxt "474"
+msgid "食事を作ったりするのが愛の役目だった。"
+msgstr ""
+
+msgctxt "475"
+msgid "その日も、愛は傷ついた同僚たちの世話をしていた。"
+msgstr ""
+
+msgctxt "476"
+msgid "このはに極秘で呼び出されるまでは。"
+msgstr ""
+
+msgctxt "477"
+msgid "「いつまでとぼけてるつもりなの、私の目は節穴じゃないわ。"
+msgstr ""
+
+msgctxt "478"
+msgid " あなたは『修行の成果が身につかない』んじゃなくて、"
+msgstr ""
+
+msgctxt "479"
+msgid " 『身につけてない』んだって事ぐらい、わかってるわよ」"
+msgstr ""
+
+msgctxt "480"
+msgid "「まぁ・・・。"
+msgstr ""
+
+msgctxt "481"
+msgid " いやだ、このは様ったら。何のご冗談？」"
+msgstr ""
+
+msgctxt "482"
+msgid "のんびりと答える愛の様子は、このはの苛立ちを増す。"
+msgstr ""
+
+msgctxt "483"
+msgid "「とにかく！ 剣菱党全員を・・・頭領までだました素養に免じて"
+msgstr ""
+
+msgctxt "484"
+msgid " 修行不足には目をつぶってあげる。亡き頭領に代っての命令よ、"
+msgstr ""
+
+msgctxt "485"
+msgid " 私とともにクロウの迷宮へ出向いてもらうわ」"
+msgstr ""
+
+msgctxt "486"
+msgid "「・・・このは様。そのご命令に、効力はありますの？」"
+msgstr ""
+
+msgctxt "487"
+msgid "愛の穏やかな問いに、このははカッとなった。ただ一度"
+msgstr ""
+
+msgctxt "488"
+msgid "頭領の娘であろうとしたのは、愛を動かす為だ。だというのに－－"
+msgstr ""
+
+msgctxt "489"
+msgid "このはは、なりふりかまわず愛に掴みかかった。"
+msgstr ""
+
+msgctxt "490"
+msgid "「・・・そうよ、何の効力もないわ！"
+msgstr ""
+
+msgctxt "491"
+msgid " この下忍の命令に、従うも従わないもあんた次第よ！"
+msgstr ""
+
+msgctxt "492"
+msgid " ・・・どうするの、愛・・・！」"
+msgstr ""
+
+msgctxt "493"
+msgid "この娘の顔が苦しげに歪むのを、愛は初めて見たような気がした。"
+msgstr ""
+
+msgctxt "494"
+msgid "しばらくの沈黙の後、愛は艶然と、不敵に微笑んだ。"
+msgstr ""
+
+msgctxt "495"
+msgid "「・・・承知いたしました。わたくしも忍びですから、"
+msgstr ""
+
+msgctxt "496"
+msgid " 頭領からのご命令を頂けば、命を捨てることもいといませんわ」"
+msgstr ""
+
+msgctxt "497"
+msgid "「・・・ふん。そうしてもらいたいモンね・・・」"
+msgstr ""
+
+msgctxt "498"
+msgid "信長が戦を始めた時、ミオはわずか六歳だったが、それでも"
+msgstr ""
+
+msgctxt "499"
+msgid "伝え聞く人々の死に小さな胸を痛めていた。"
+msgstr ""
+
+msgctxt "500"
+msgid "出陣する父の背中を見送りながら、自分もこの戦を終わらせる為に"
+msgstr ""
+
+msgctxt "501"
+msgid "戦いたいと思い続けていた。"
+msgstr ""
+
+msgctxt "502"
+msgid "しかし、まだ女が戦う時代ではなかった。"
+msgstr ""
+
+msgctxt "503"
+msgid "そのため出家の認められる歳になったミオは、男女同等に"
+msgstr ""
+
+msgctxt "504"
+msgid "戦うことが許される、天志僧の僧兵になった。"
+msgstr ""
+
+msgctxt "505"
+msgid "それから数年。本山に篭って修行中のミオの元に、父の危篤の"
+msgstr ""
+
+msgctxt "506"
+msgid "報が届いた。戦で重傷を負ったのだという。"
+msgstr ""
+
+msgctxt "507"
+msgid "「ミオよ。百日行はあと何日残っておる」"
+msgstr ""
+
+msgctxt "508"
+msgid "「八日にございます」"
+msgstr ""
+
+msgctxt "509"
+msgid "「ふむ。行を中断することは許されぬが・・・"
+msgstr ""
+
+msgctxt "510"
+msgid " 還俗し、ただの娘となるなら、わしは止めぬぞ」"
+msgstr ""
+
+msgctxt "511"
+msgid "「・・・お怖れながら大僧正様、拙僧ひとたび天志様に"
+msgstr ""
+
+msgctxt "512"
+msgid " 帰依した者なれば、たとえ父の死に水がとれずとも、"
+msgstr ""
+
+msgctxt "513"
+msgid " 俗世に戻る気はございませぬ」"
+msgstr ""
+
+msgctxt "514"
+msgid "「つまり、お山を降りる気はない、と」"
+msgstr ""
+
+msgctxt "515"
+msgid "「は・・・っ」"
+msgstr ""
+
+msgctxt "516"
+msgid "八日後、ミオが家に戻ると父の弔いは既に終わり、"
+msgstr ""
+
+msgctxt "517"
+msgid "まだ子供の弟が母の制止を聞かずに甲胄を着けようとしていた。"
+msgstr ""
+
+msgctxt "518"
+msgid "「何をしてるの、正宗」"
+msgstr ""
+
+msgctxt "519"
+msgid "「姉上・・・！ 遅うございました、父上は・・・！」"
+msgstr ""
+
+msgctxt "520"
+msgid "「何をしているのかと、聞いているんです」"
+msgstr ""
+
+msgctxt "521"
+msgid "「・・・止めないで下さい、姉上。私は、父上のかたきを－－」"
+msgstr ""
+
+msgctxt "522"
+msgid "弟の言葉が終わらないうちに、ミオはその頬を打っていた。"
+msgstr ""
+
+msgctxt "523"
+msgid "叩いた方のミオの目に、涙が浮かぶ。"
+msgstr ""
+
+msgctxt "524"
+msgid "「元服前のお前が行って、何になるというの。少なくとも"
+msgstr ""
+
+msgctxt "525"
+msgid " 私が討たれるまでは、この家にいて母を守りなさい」"
+msgstr ""
+
+msgctxt "526"
+msgid "「だけど・・・姉上、天志僧は・・・！」"
+msgstr ""
+
+msgctxt "527"
+msgid "「・・・お姉ちゃんの言うことが、わかるわね？ 正宗」"
+msgstr ""
+
+msgctxt "528"
+msgid "一年を経てミオは戦いを許される位になった。"
+msgstr ""
+
+msgctxt "529"
+msgid "集会場に現れたミオは、その訳を問われて"
+msgstr ""
+
+msgctxt "530"
+msgid "「教義に乗っ取り、魔王信長を調伏する」と答えた。"
+msgstr ""
+
+msgctxt "531"
+msgid "天志僧には、私闘は決して許されない。"
+msgstr ""
+
+msgctxt "532"
+msgid "ミオは家名を語らず、本心を語らず、初めて教義に背く。"
+msgstr ""
+
+msgctxt "533"
+msgid "強大な力と技術を持つ呪術士だけに作ることができる人造生物、"
+msgstr ""
+
+msgctxt "534"
+msgid "なかでも特に戦闘専用のものを指して、「ぬへ」と称する。"
+msgstr ""
+
+msgctxt "535"
+msgid "ぬへは、丹砂、硫黄など百八種の鉱物をはじめ、"
+msgstr ""
+
+msgctxt "536"
+msgid "あらゆる毒草、薬草、呪力を持つ生物など、"
+msgstr ""
+
+msgctxt "537"
+msgid "参百六拾伍の原料の再精製をくり返して作られる。"
+msgstr ""
+
+msgctxt "538"
+msgid "そうしてできあがった彼らは、体器官こそ人間のそれと"
+msgstr ""
+
+msgctxt "539"
+msgid "ほぼ変わりないが、人格と痛覚を持たない。"
+msgstr ""
+
+msgctxt "540"
+msgid "通常六歳ほどの童子形で生まれ、その後十二年の育成期間を経て"
+msgstr ""
+
+msgctxt "541"
+msgid "実戦に使用される。痛みも恐怖も感じない、最強の兵士として。"
+msgstr ""
+
+msgctxt "542"
+msgid "四年前、城づきの呪術士は篭から現れたぬへを見て狂喜した。"
+msgstr ""
+
+msgctxt "543"
+msgid "一目でわかった。その娘は、呪術士の最高傑作になるだろう。"
+msgstr ""
+
+msgctxt "544"
+msgid "呪術士はその娘を他のものよりも特に大切に育てた。"
+msgstr ""
+
+msgctxt "545"
+msgid "それは名誉欲からの愛情、愛着と言った方が良いだろう愛情"
+msgstr ""
+
+msgctxt "546"
+msgid "だったが、娘にはそんなことは関係なかった。"
+msgstr ""
+
+msgctxt "547"
+msgid "娘は研究室に転がっている様々な怪しげな篭の、目を数えるのが"
+msgstr ""
+
+msgctxt "548"
+msgid "好きだった。表情の無い目で、いつもじっと篭を見つめている。"
+msgstr ""
+
+msgctxt "549"
+msgid "格子や篭目は魔物を魅きつけ、動けなくするという。"
+msgstr ""
+
+msgctxt "550"
+msgid "呪術士は娘の将来の力を思ってほくそえんだ。"
+msgstr ""
+
+msgctxt "551"
+msgid "娘は「篭目」と名づけられた。"
+msgstr ""
+
+msgctxt "552"
+msgid "城に火矢が放たれ、砲弾が打ち込まれる日がきた時も、"
+msgstr ""
+
+msgctxt "553"
+msgid "呪術士は必死で篭目を連れ出した。"
+msgstr ""
+
+msgctxt "554"
+msgid "彼は皮肉にも篭目をかばって命を落としたが、その死に顔は"
+msgstr ""
+
+msgctxt "555"
+msgid "満足そうだった。それは何故か子を守りきった親の顔に似ていた。"
+msgstr ""
+
+msgctxt "556"
+msgid "「娘！ そこな娘！」"
+msgstr ""
+
+msgctxt "557"
+msgid "「・・・」"
+msgstr ""
+
+msgctxt "558"
+msgid "「ああ、やはり！ 草壁翁のぬへではないか、無事だったのだな。"
+msgstr ""
+
+msgctxt "559"
+msgid " まぁそう簡単に死にもすまいが・・・草壁殿はどうした？」"
+msgstr ""
+
+msgctxt "560"
+msgid "「・・・死んだ」"
+msgstr ""
+
+msgctxt "561"
+msgid "「・・・・・・」"
+msgstr ""
+
+msgctxt "562"
+msgid "がれきの上をさ迷っていた篭目は、城の残党に保護されたのち"
+msgstr ""
+
+msgctxt "563"
+msgid "協議の末、集会場に送られた。"
+msgstr ""
+
+msgctxt "564"
+msgid "初めて城以外の世界を見たことも、呪術士が死んだことも、"
+msgstr ""
+
+msgctxt "565"
+msgid "篭目に感情を呼びおこさせることはない。"
+msgstr ""
+
+msgctxt "566"
+msgid "八年近い育成期間を残し、わずか十歳で参戦させられることも。"
+msgstr ""
+
+msgctxt "567"
+msgid "パーティ"
+msgstr ""

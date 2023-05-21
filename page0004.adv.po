@@ -1,0 +1,1640 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Otome Senki\n"
+"Report-Msgid-Bugs-To: Darkc0m\n"
+"POT-Creation-Date: 16/05/23\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "＝ "
+msgstr ""
+
+msgctxt "1"
+msgid " 地 上 "
+msgstr ""
+
+msgctxt "2"
+msgid "地下"
+msgstr ""
+
+msgctxt "3"
+msgid "階"
+msgstr ""
+
+msgctxt "4"
+msgid " ＝ "
+msgstr ""
+
+msgctxt "5"
+msgid "日目 ＝ 所持金 ："
+msgstr ""
+
+msgctxt "6"
+msgid " ＝"
+msgstr ""
+
+msgctxt "7"
+msgid "＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝"
+msgstr ""
+
+msgctxt "8"
+msgid "ステータス確認"
+msgstr ""
+
+msgctxt "9"
+msgid "順番を入れ替える"
+msgstr ""
+
+msgctxt "10"
+msgid "装備変更"
+msgstr ""
+
+msgctxt "11"
+msgid "道具袋をのぞく"
+msgstr ""
+
+msgctxt "12"
+msgid "キャンプを抜ける"
+msgstr ""
+
+msgctxt "13"
+msgid "イベントアイテム"
+msgstr ""
+
+msgctxt "14"
+msgid "回復アイテム"
+msgstr ""
+
+msgctxt "15"
+msgid "帰り木  残："
+msgstr ""
+
+msgctxt "16"
+msgid "ＸＸ"
+msgstr ""
+
+msgctxt "17"
+msgid "＝ 鍵 ＝"
+msgstr ""
+
+msgctxt "18"
+msgid "ムサシボウの鍵 ：地下２階の鍵です"
+msgstr ""
+
+msgctxt "19"
+msgid "炎の鍵     ：地下７階の鍵です"
+msgstr ""
+
+msgctxt "20"
+msgid "回る小部屋の鍵 ：地下８階の鍵です"
+msgstr ""
+
+msgctxt "21"
+msgid "＝その他＝"
+msgstr ""
+
+msgctxt "22"
+msgid "幻破の鏡    ：地下３階で拾いました"
+msgstr ""
+
+msgctxt "23"
+msgid "幡桃酒     ：いい香りのするお酒です"
+msgstr ""
+
+msgctxt "24"
+msgid "半頬      ：地下５階の台座に納められていました"
+msgstr ""
+
+msgctxt "25"
+msgid "光る半頬    ：ヨシナカが去った後にありました"
+msgstr ""
+
+msgctxt "26"
+msgid "扇子      ：地下５階の台座に納められていました"
+msgstr ""
+
+msgctxt "27"
+msgid "光る扇子    ：トモエが去った後にありました"
+msgstr ""
+
+msgctxt "28"
+msgid "香炉      ：地下７階で拾いました"
+msgstr ""
+
+msgctxt "29"
+msgid "転移のはちまき ：転送機が使えるようになります"
+msgstr ""
+
+msgctxt "30"
+msgid "テング扇    ：テングが残していった物です"
+msgstr ""
+
+msgctxt "31"
+msgid "帰り木を使って地上に戻ります。いいですか？"
+msgstr ""
+
+msgctxt "32"
+msgid "ＮＯ"
+msgstr "No"
+
+msgctxt "33"
+msgid "ＹＥＳ"
+msgstr "Sí"
+
+msgctxt "34"
+msgid "帰り木を掲げた・・・"
+msgstr ""
+
+msgctxt "35"
+msgid "キャンプ終了します。"
+msgstr ""
+
+msgctxt "36"
+msgid "使うアイテムを選んで下さい"
+msgstr ""
+
+msgctxt "37"
+msgid "世色癌１  ："
+msgstr ""
+
+msgctxt "38"
+msgid "ＸＸ"
+msgstr ""
+
+msgctxt "39"
+msgid "世色癌２  ："
+msgstr ""
+
+msgctxt "40"
+msgid "ＸＸ"
+msgstr ""
+
+msgctxt "41"
+msgid "世色癌３  ："
+msgstr ""
+
+msgctxt "42"
+msgid "ＸＸ"
+msgstr ""
+
+msgctxt "43"
+msgid "まんが肉  ："
+msgstr ""
+
+msgctxt "44"
+msgid "ＸＸ"
+msgstr ""
+
+msgctxt "45"
+msgid "竜角惨   ："
+msgstr ""
+
+msgctxt "46"
+msgid "ＸＸ"
+msgstr ""
+
+msgctxt "47"
+msgid "復活の小判 ："
+msgstr ""
+
+msgctxt "48"
+msgid "ＸＸ"
+msgstr ""
+
+msgctxt "49"
+msgid "ＨＰ回復 ３０"
+msgstr ""
+
+msgctxt "50"
+msgid "ＨＰ回復 １００"
+msgstr ""
+
+msgctxt "51"
+msgid "ＨＰ回復 ３００"
+msgstr ""
+
+msgctxt "52"
+msgid "ＨＰ回復 ＭＡＸまで"
+msgstr ""
+
+msgctxt "53"
+msgid "ＭＰ回復 ５０"
+msgstr ""
+
+msgctxt "54"
+msgid "死んだ者を復活させます"
+msgstr ""
+
+msgctxt "55"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "56"
+msgid "桧垣 真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "57"
+msgid "立湧 七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "58"
+msgid "一条 春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "59"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "60"
+msgid "剣菱 このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "61"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "62"
+msgid "鈴木 ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "63"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "64"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "65"
+msgid "桧垣 真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "66"
+msgid "立湧 七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "67"
+msgid "一条 春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "68"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "69"
+msgid "剣菱 このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "70"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "71"
+msgid "鈴木 ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "72"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "73"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "74"
+msgid "桧垣 真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "75"
+msgid "立湧 七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "76"
+msgid "一条 春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "77"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "78"
+msgid "剣菱 このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "79"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "80"
+msgid "鈴木 ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "81"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "82"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "83"
+msgid "桧垣 真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "84"
+msgid "立湧 七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "85"
+msgid "一条 春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "86"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "87"
+msgid "剣菱 このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "88"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "89"
+msgid "鈴木 ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "90"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "91"
+msgid "やめる"
+msgstr ""
+
+msgctxt "92"
+msgid "  このキャラは死んでいます。"
+msgstr ""
+
+msgctxt "93"
+msgid "  このキャラのＨＰは減っていません。"
+msgstr ""
+
+msgctxt "94"
+msgid "  このキャラのＭＰは減っていません。"
+msgstr ""
+
+msgctxt "95"
+msgid "  このキャラは死んでいません。"
+msgstr ""
+
+msgctxt "96"
+msgid "  ＨＰを３０、回復します。いいですか？"
+msgstr ""
+
+msgctxt "97"
+msgid "  ＨＰを１００、回復します。いいですか？"
+msgstr ""
+
+msgctxt "98"
+msgid "  ＨＰを３００、回復します。いいですか？"
+msgstr ""
+
+msgctxt "99"
+msgid "  ＨＰをＭＡＸまで回復します。いいですか？"
+msgstr ""
+
+msgctxt "100"
+msgid "  ＭＰを５０、回復します。いいですか？"
+msgstr ""
+
+msgctxt "101"
+msgid "  このキャラを復活させます。いいですか？"
+msgstr ""
+
+msgctxt "102"
+msgid "ＹＥＳ"
+msgstr "Sí"
+
+msgctxt "103"
+msgid "ＮＯ"
+msgstr "No"
+
+msgctxt "104"
+msgid "誰の装備をかえますか？"
+msgstr ""
+
+msgctxt "105"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "106"
+msgid "桧垣 真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "107"
+msgid "立湧 七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "108"
+msgid "一条 春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "109"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "110"
+msgid "剣菱 このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "111"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "112"
+msgid "鈴木 ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "113"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "114"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "115"
+msgid "桧垣 真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "116"
+msgid "立湧 七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "117"
+msgid "一条 春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "118"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "119"
+msgid "剣菱 このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "120"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "121"
+msgid "鈴木 ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "122"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "123"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "124"
+msgid "桧垣 真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "125"
+msgid "立湧 七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "126"
+msgid "一条 春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "127"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "128"
+msgid "剣菱 このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "129"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "130"
+msgid "鈴木 ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "131"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "132"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "133"
+msgid "桧垣 真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "134"
+msgid "立湧 七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "135"
+msgid "一条 春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "136"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "137"
+msgid "剣菱 このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "138"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "139"
+msgid "鈴木 ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "140"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "141"
+msgid "やめる"
+msgstr ""
+
+msgctxt "142"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "143"
+msgid "桧垣 真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "144"
+msgid "立湧 七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "145"
+msgid "一条 春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "146"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "147"
+msgid "剣菱 このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "148"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "149"
+msgid "鈴木 ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "150"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "151"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "152"
+msgid "桧垣 真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "153"
+msgid "立湧 七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "154"
+msgid "一条 春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "155"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "156"
+msgid "剣菱 このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "157"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "158"
+msgid "鈴木 ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "159"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "160"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "161"
+msgid "桧垣 真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "162"
+msgid "立湧 七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "163"
+msgid "一条 春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "164"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "165"
+msgid "剣菱 このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "166"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "167"
+msgid "鈴木 ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "168"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "169"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "170"
+msgid "桧垣 真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "171"
+msgid "立湧 七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "172"
+msgid "一条 春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "173"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "174"
+msgid "剣菱 このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "175"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "176"
+msgid "鈴木 ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "177"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "178"
+msgid "やめる"
+msgstr ""
+
+msgctxt "179"
+msgid "名前   現ＨＰ／最大値 現ＭＰ／最大値 疲労 経験値"
+msgstr ""
+
+msgctxt "180"
+msgid "－－－－－－－－－－－－－－－－－－－－－－－－－－－－"
+msgstr ""
+
+msgctxt "181"
+msgid "あかね  "
+msgstr ""
+
+msgctxt "182"
+msgid "／"
+msgstr ""
+
+msgctxt "183"
+msgid " "
+msgstr ""
+
+msgctxt "184"
+msgid "／"
+msgstr ""
+
+msgctxt "185"
+msgid " "
+msgstr ""
+
+msgctxt "186"
+msgid " "
+msgstr ""
+
+msgctxt "187"
+msgid "真朱   "
+msgstr ""
+
+msgctxt "188"
+msgid "／"
+msgstr ""
+
+msgctxt "189"
+msgid " "
+msgstr ""
+
+msgctxt "190"
+msgid "／"
+msgstr ""
+
+msgctxt "191"
+msgid " "
+msgstr ""
+
+msgctxt "192"
+msgid " "
+msgstr ""
+
+msgctxt "193"
+msgid "七緒   "
+msgstr ""
+
+msgctxt "194"
+msgid "／"
+msgstr ""
+
+msgctxt "195"
+msgid " "
+msgstr ""
+
+msgctxt "196"
+msgid "／"
+msgstr ""
+
+msgctxt "197"
+msgid " "
+msgstr ""
+
+msgctxt "198"
+msgid " "
+msgstr ""
+
+msgctxt "199"
+msgid "春菜   "
+msgstr ""
+
+msgctxt "200"
+msgid "／"
+msgstr ""
+
+msgctxt "201"
+msgid " "
+msgstr ""
+
+msgctxt "202"
+msgid "／"
+msgstr ""
+
+msgctxt "203"
+msgid " "
+msgstr ""
+
+msgctxt "204"
+msgid " "
+msgstr ""
+
+msgctxt "205"
+msgid "美鈴   "
+msgstr ""
+
+msgctxt "206"
+msgid "／"
+msgstr ""
+
+msgctxt "207"
+msgid " "
+msgstr ""
+
+msgctxt "208"
+msgid "／"
+msgstr ""
+
+msgctxt "209"
+msgid " "
+msgstr ""
+
+msgctxt "210"
+msgid " "
+msgstr ""
+
+msgctxt "211"
+msgid "このは  "
+msgstr ""
+
+msgctxt "212"
+msgid "／"
+msgstr ""
+
+msgctxt "213"
+msgid " "
+msgstr ""
+
+msgctxt "214"
+msgid "／"
+msgstr ""
+
+msgctxt "215"
+msgid " "
+msgstr ""
+
+msgctxt "216"
+msgid " "
+msgstr ""
+
+msgctxt "217"
+msgid "愛    "
+msgstr ""
+
+msgctxt "218"
+msgid "／"
+msgstr ""
+
+msgctxt "219"
+msgid " "
+msgstr ""
+
+msgctxt "220"
+msgid "／"
+msgstr ""
+
+msgctxt "221"
+msgid " "
+msgstr ""
+
+msgctxt "222"
+msgid " "
+msgstr ""
+
+msgctxt "223"
+msgid "ミオ   "
+msgstr ""
+
+msgctxt "224"
+msgid "／"
+msgstr ""
+
+msgctxt "225"
+msgid " "
+msgstr ""
+
+msgctxt "226"
+msgid "／"
+msgstr ""
+
+msgctxt "227"
+msgid " "
+msgstr ""
+
+msgctxt "228"
+msgid " "
+msgstr ""
+
+msgctxt "229"
+msgid "篭目   "
+msgstr ""
+
+msgctxt "230"
+msgid "／"
+msgstr ""
+
+msgctxt "231"
+msgid " "
+msgstr ""
+
+msgctxt "232"
+msgid "／"
+msgstr ""
+
+msgctxt "233"
+msgid " "
+msgstr ""
+
+msgctxt "234"
+msgid " "
+msgstr ""
+
+msgctxt "235"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "236"
+msgid "足軽"
+msgstr ""
+
+msgctxt "237"
+msgid "桧垣　真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "238"
+msgid "侍"
+msgstr "Samurái"
+
+msgctxt "239"
+msgid "立湧　七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "240"
+msgid "侍"
+msgstr "Samurái"
+
+msgctxt "241"
+msgid "一条　春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "242"
+msgid "柔術士"
+msgstr ""
+
+msgctxt "243"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "244"
+msgid "呪術士"
+msgstr ""
+
+msgctxt "245"
+msgid "剣菱　このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "246"
+msgid "忍者"
+msgstr "Ninja"
+
+msgctxt "247"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "248"
+msgid "クノイチ"
+msgstr "Kunoichi"
+
+msgctxt "249"
+msgid "鈴木　ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "250"
+msgid "天志僧"
+msgstr "Monje"
+
+msgctxt "251"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "252"
+msgid "ぬへ"
+msgstr "Nuhe"
+
+msgctxt "253"
+msgid "戻る"
+msgstr ""
+
+msgctxt "254"
+msgid "術"
+msgstr ""
+
+msgctxt "255"
+msgid "もりもり"
+msgstr ""
+
+msgctxt "256"
+msgid "すたすた"
+msgstr ""
+
+msgctxt "257"
+msgid "この祈りを天へ送るにはＭＰが"
+msgstr ""
+
+msgctxt "258"
+msgid "必要です。"
+msgstr ""
+
+msgctxt "259"
+msgid "誰に？"
+msgstr ""
+
+msgctxt "260"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "261"
+msgid "桧垣 真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "262"
+msgid "立湧 七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "263"
+msgid "一条 春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "264"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "265"
+msgid "剣菱 このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "266"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "267"
+msgid "鈴木 ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "268"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "269"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "270"
+msgid "桧垣 真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "271"
+msgid "立湧 七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "272"
+msgid "一条 春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "273"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "274"
+msgid "剣菱 このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "275"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "276"
+msgid "鈴木 ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "277"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "278"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "279"
+msgid "桧垣 真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "280"
+msgid "立湧 七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "281"
+msgid "一条 春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "282"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "283"
+msgid "剣菱 このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "284"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "285"
+msgid "鈴木 ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "286"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "287"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "288"
+msgid "桧垣 真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "289"
+msgid "立湧 七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "290"
+msgid "一条 春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "291"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "292"
+msgid "剣菱 このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "293"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "294"
+msgid "鈴木 ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "295"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "296"
+msgid "やめる"
+msgstr ""
+
+msgctxt "297"
+msgid "  このキャラは死んでいます。"
+msgstr ""
+
+msgctxt "298"
+msgid "  このキャラのＨＰは減っていません。"
+msgstr ""
+
+msgctxt "299"
+msgid "  ＨＰをＭＡＸの１／２回復します。いいですか？"
+msgstr ""
+
+msgctxt "300"
+msgid "ＹＥＳ"
+msgstr "Sí"
+
+msgctxt "301"
+msgid "ＮＯ"
+msgstr "No"
+
+msgctxt "302"
+msgid "この祈りを天へ送るにはＭＰが１必要です。"
+msgstr ""
+
+msgctxt "303"
+msgid "地上へ帰れるよう、祈ります。"
+msgstr ""
+
+msgctxt "304"
+msgid "ただし、時間が４時間経過します。いいですか？"
+msgstr ""
+
+msgctxt "305"
+msgid "ＹＥＳ"
+msgstr "Sí"
+
+msgctxt "306"
+msgid "ＮＯ"
+msgstr "No"
+
+msgctxt "307"
+msgid "天に祈った・・・"
+msgstr ""
+
+msgctxt "308"
+msgid "　　"
+msgstr ""
+
+msgctxt "309"
+msgid "　　"
+msgstr ""
+
+msgctxt "310"
+msgid "　　"
+msgstr ""
+
+msgctxt "311"
+msgid "　　"
+msgstr ""
+
+msgctxt "312"
+msgid "先頭から順にキャラクターを選んでください"
+msgstr ""
+
+msgctxt "313"
+msgid "パーティ"
+msgstr ""
+
+msgctxt "314"
+msgid "あかね  ＨＰ："
+msgstr ""
+
+msgctxt "315"
+msgid " ＭＰ："
+msgstr ""
+
+msgctxt "316"
+msgid "真朱   ＨＰ："
+msgstr ""
+
+msgctxt "317"
+msgid " ＭＰ："
+msgstr ""
+
+msgctxt "318"
+msgid "七緒   ＨＰ："
+msgstr ""
+
+msgctxt "319"
+msgid " ＭＰ："
+msgstr ""
+
+msgctxt "320"
+msgid "春菜   ＨＰ："
+msgstr ""
+
+msgctxt "321"
+msgid " ＭＰ："
+msgstr ""
+
+msgctxt "322"
+msgid "このは  ＨＰ："
+msgstr ""
+
+msgctxt "323"
+msgid " ＭＰ："
+msgstr ""
+
+msgctxt "324"
+msgid "愛    ＨＰ："
+msgstr ""
+
+msgctxt "325"
+msgid " ＭＰ："
+msgstr ""
+
+msgctxt "326"
+msgid "美鈴   ＨＰ："
+msgstr ""
+
+msgctxt "327"
+msgid " ＭＰ："
+msgstr ""
+
+msgctxt "328"
+msgid "ミオ   ＨＰ："
+msgstr ""
+
+msgctxt "329"
+msgid " ＭＰ："
+msgstr ""
+
+msgctxt "330"
+msgid "篭目   ＨＰ："
+msgstr ""
+
+msgctxt "331"
+msgid " ＭＰ："
+msgstr ""
+
+msgctxt "332"
+msgid "パーティ"
+msgstr ""
+
+msgctxt "333"
+msgid "この順番でいいですか？"
+msgstr ""
+
+msgctxt "334"
+msgid "ＹＥＳ"
+msgstr "Sí"
+
+msgctxt "335"
+msgid "ＮＯ"
+msgstr "No"
+
+msgctxt "336"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "337"
+msgid "ＨＰ："
+msgstr "PS: "
+
+msgctxt "338"
+msgid "ＭＰ："
+msgstr "PM: "
+
+msgctxt "339"
+msgid "桧垣 真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "340"
+msgid "ＨＰ："
+msgstr "PS: "
+
+msgctxt "341"
+msgid "ＭＰ："
+msgstr "PM: "
+
+msgctxt "342"
+msgid "立湧 七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "343"
+msgid "ＨＰ："
+msgstr "PS: "
+
+msgctxt "344"
+msgid "ＭＰ："
+msgstr "PM: "
+
+msgctxt "345"
+msgid "一条 春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "346"
+msgid "ＨＰ："
+msgstr "PS: "
+
+msgctxt "347"
+msgid "ＭＰ："
+msgstr "PM: "
+
+msgctxt "348"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "349"
+msgid "ＨＰ："
+msgstr "PS: "
+
+msgctxt "350"
+msgid "ＭＰ："
+msgstr "PM: "
+
+msgctxt "351"
+msgid "剣菱 このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "352"
+msgid "ＨＰ："
+msgstr "PS: "
+
+msgctxt "353"
+msgid "ＭＰ："
+msgstr "PM: "
+
+msgctxt "354"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "355"
+msgid "ＨＰ："
+msgstr "PS: "
+
+msgctxt "356"
+msgid "ＭＰ："
+msgstr "PM: "
+
+msgctxt "357"
+msgid "鈴木 ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "358"
+msgid "ＨＰ："
+msgstr "PS: "
+
+msgctxt "359"
+msgid "ＭＰ："
+msgstr "PM: "
+
+msgctxt "360"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "361"
+msgid "ＨＰ："
+msgstr "PS: "
+
+msgctxt "362"
+msgid "ＭＰ："
+msgstr "PM: "
+
+msgctxt "363"
+msgid "　　"
+msgstr ""
+
+msgctxt "364"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "365"
+msgid "桧垣　真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "366"
+msgid "立湧　七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "367"
+msgid "一条　春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "368"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "369"
+msgid "剣菱　このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "370"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "371"
+msgid "鈴木　ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "372"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "373"
+msgid "　　"
+msgstr ""
+
+msgctxt "374"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "375"
+msgid "桧垣　真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "376"
+msgid "立湧　七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "377"
+msgid "一条　春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "378"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "379"
+msgid "剣菱　このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "380"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "381"
+msgid "鈴木　ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "382"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "383"
+msgid "　　"
+msgstr ""
+
+msgctxt "384"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "385"
+msgid "桧垣　真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "386"
+msgid "立湧　七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "387"
+msgid "一条　春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "388"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "389"
+msgid "剣菱　このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "390"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "391"
+msgid "鈴木　ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "392"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "393"
+msgid "　　"
+msgstr ""
+
+msgctxt "394"
+msgid "あかね"
+msgstr "Akane"
+
+msgctxt "395"
+msgid "桧垣　真朱"
+msgstr "Masoho Higaki"
+
+msgctxt "396"
+msgid "立湧　七緒"
+msgstr "Nanao Tatewaki"
+
+msgctxt "397"
+msgid "一条　春菜"
+msgstr "Haruna Ichijō"
+
+msgctxt "398"
+msgid "美鈴"
+msgstr "Misuzu"
+
+msgctxt "399"
+msgid "剣菱　このは"
+msgstr "Konoha Kenbishi"
+
+msgctxt "400"
+msgid "愛"
+msgstr "Ai"
+
+msgctxt "401"
+msgid "鈴木　ミオ"
+msgstr "Mio Suzuki"
+
+msgctxt "402"
+msgid "篭目"
+msgstr "Kagome"
+
+msgctxt "403"
+msgid "ＨＰ："
+msgstr "PS: "
+
+msgctxt "404"
+msgid "／"
+msgstr ""
+
+msgctxt "405"
+msgid "  ＭＰ："
+msgstr ""
+
+msgctxt "406"
+msgid "／"
+msgstr ""
