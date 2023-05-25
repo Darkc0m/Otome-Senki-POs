@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Otome Senki\n"
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
-"PO-Revision-Date: 2023-05-25 18:30+0000\n"
+"PO-Revision-Date: 2023-05-26 15:38+0000\n"
 "Last-Translator: wu <wu.oudeis@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0023adv/es/>\n"
@@ -232,7 +232,7 @@ msgstr "Lanza maldita"
 
 msgctxt "54"
 msgid "鉛の鈴"
-msgstr "Cascabel plúmbeo"
+msgstr "Cascabel de plomo"
 
 msgctxt "55"
 msgid "ムチ"
@@ -276,7 +276,7 @@ msgstr "Bastón de monje Tenshi"
 
 msgctxt "65"
 msgid "忍者ブレード！"
-msgstr "¡Espada ninja!"
+msgstr "Espada ninja"
 
 msgctxt "66"
 msgid "日本刀 甲"
@@ -448,7 +448,7 @@ msgstr "Máscara de hannya"
 
 msgctxt "108"
 msgid "角かくし"
-msgstr "Tocado de boda"
+msgstr "Tocado de novia"
 
 msgctxt "109"
 msgid "ネコ帽"
@@ -532,7 +532,7 @@ msgstr "Judogi atigrado"
 
 msgctxt "129"
 msgid "男魂"
-msgstr "Tela de algodón"
+msgstr "Armadura viril"
 
 msgctxt "130"
 msgid "足軽の鎧"
@@ -548,7 +548,7 @@ msgstr "Armadura del clan Hara"
 
 msgctxt "133"
 msgid "２２年式鎧"
-msgstr "Armadura del año 22"
+msgstr "Armadura Murata"
 
 msgctxt "134"
 msgid "コースアーマー"
@@ -612,7 +612,7 @@ msgstr "Sandalias"
 
 msgctxt "149"
 msgid "たび"
-msgstr "Calcetines"
+msgstr "Tabis"
 
 msgctxt "150"
 msgid "すねあて"
@@ -636,7 +636,7 @@ msgstr "Zancos"
 
 msgctxt "155"
 msgid "寅一"
-msgstr ""
+msgstr "Sandalias atigradas"
 
 msgctxt "156"
 msgid "ウェスタンブーツ"
@@ -656,7 +656,7 @@ msgstr "Sandalias de Fukusuke"
 
 msgctxt "160"
 msgid "絹のたび"
-msgstr "Calcetines de seda"
+msgstr "Tabis de seda"
 
 msgctxt "161"
 msgid "ハイヒール！"
@@ -804,11 +804,11 @@ msgstr "Talismán humano"
 
 msgctxt "197"
 msgid "はらたま"
-msgstr "Vara de miko"
+msgstr "Gohei"
 
 msgctxt "198"
 msgid "きよたま"
-msgstr "Cuerda de paja de arroz"
+msgstr "Shimenawa"
 
 msgctxt "199"
 msgid "原家の印篭"
@@ -900,11 +900,11 @@ msgstr "Amuleto para los negocios"
 
 msgctxt "221"
 msgid "無病息災の御守"
-msgstr "Amuleto contra los desastres"
+msgstr "Amuleto para la salud"
 
 msgctxt "222"
 msgid "交通安全の御守"
-msgstr "Amuleto para viajes"
+msgstr "Amuleto para los viajes"
 
 msgctxt "223"
 msgid "学業成就の御守"
@@ -916,7 +916,7 @@ msgstr "Parche de oso"
 
 msgctxt "225"
 msgid "くつした"
-msgstr "Tobilleras"
+msgstr "Calcetines"
 
 msgctxt "226"
 msgid "扇子ｏｆワンダー"
@@ -928,7 +928,7 @@ msgstr "Espejo de mano"
 
 msgctxt "228"
 msgid "力だすき"
-msgstr ""
+msgstr "Cinto de fuerza"
 
 msgctxt "229"
 msgid "ガーターベルト"
