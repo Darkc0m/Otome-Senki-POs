@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
 "PO-Revision-Date: 2023-05-26 18:27+0000\n"
-"Last-Translator: wu <wu.oudeis@gmail.com>\n"
+"Last-Translator: darkc0m <alex011298@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0023adv/es/>\n"
 "Language: es\n"
@@ -905,10 +905,12 @@ msgctxt "221"
 msgid "無病息災の御守"
 msgstr "Amuleto para la salud"
 
+#, fuzzy
 msgctxt "222"
 msgid "交通安全の御守"
 msgstr "Amuleto para los viajes"
 
+#, fuzzy
 msgctxt "223"
 msgid "学業成就の御守"
 msgstr "Amuleto para los estudios"
