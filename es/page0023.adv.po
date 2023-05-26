@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
 "PO-Revision-Date: 2023-05-26 15:38+0000\n"
-"Last-Translator: wu <wu.oudeis@gmail.com>\n"
+"Last-Translator: darkc0m <alex011298@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0023adv/es/>\n"
 "Language: es\n"
@@ -84,51 +84,51 @@ msgstr " Fatiga:"
 
 msgctxt "17"
 msgid " 乙女 ： 腕力 知力 幸運 敏捷 耐久 速度 注意   "
-msgstr ""
+msgstr " 乙女 ： 腕力 知力 幸運 敏捷 耐久 速度 注意   "
 
 msgctxt "18"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "19"
 msgid " ： "
-msgstr ""
+msgstr " ： "
 
 msgctxt "20"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "21"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "22"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "23"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "24"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "25"
 msgid " "
-msgstr ""
+msgstr " "
 
 msgctxt "26"
 msgid "ＬＥＶ："
-msgstr ""
+msgstr "ＬＥＶ："
 
 msgctxt "27"
 msgid " ＥＸＰ："
-msgstr ""
+msgstr " ＥＸＰ："
 
 msgctxt "28"
 msgid "   金："
-msgstr ""
+msgstr "   金："
 
 msgctxt "29"
 msgid "ＨＰ："
@@ -136,19 +136,19 @@ msgstr "PS: "
 
 msgctxt "30"
 msgid "／"
-msgstr ""
+msgstr "／"
 
 msgctxt "31"
 msgid "  疲労："
-msgstr ""
+msgstr "  疲労："
 
 msgctxt "32"
 msgid "  ＭＰ："
-msgstr ""
+msgstr "  ＭＰ："
 
 msgctxt "33"
 msgid "／"
-msgstr ""
+msgstr "／"
 
 msgctxt "34"
 msgid "装備なし"
@@ -256,7 +256,7 @@ msgstr "Espada de Suzaku"
 
 msgctxt "60"
 msgid "蔵人知槍"
-msgstr "Lanza del vasto conocimiento"
+msgstr "Lanza del vasto saber"
 
 msgctxt "61"
 msgid "ロングソード３"
@@ -486,6 +486,7 @@ msgctxt "117"
 msgid "服"
 msgstr "Vestido"
 
+#, fuzzy
 msgctxt "118"
 msgid "カチカチ洋服"
 msgstr "Vestido occidental rígido"
@@ -642,6 +643,7 @@ msgctxt "156"
 msgid "ウェスタンブーツ"
 msgstr "Botas occidentales"
 
+#, fuzzy
 msgctxt "157"
 msgid "金のわらじ"
 msgstr "Sandalias de paja dorada"
@@ -886,14 +888,17 @@ msgctxt "217"
 msgid "琥珀の耳飾り"
 msgstr "Pendientes de ámbar"
 
+#, fuzzy
 msgctxt "218"
 msgid "金剛石の耳飾り"
 msgstr "Pendientes de diamante"
 
+#, fuzzy
 msgctxt "219"
 msgid "黒真珠の耳飾り"
 msgstr "Pendientes de perlas negras"
 
+#, fuzzy
 msgctxt "220"
 msgid "商売繁昌の御守"
 msgstr "Amuleto para los negocios"
