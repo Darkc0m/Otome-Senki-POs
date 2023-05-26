@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Otome Senki\n"
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
-"PO-Revision-Date: 2023-05-26 18:27+0000\n"
+"PO-Revision-Date: 2023-05-27 06:49+0000\n"
 "Last-Translator: darkc0m <alex011298@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0006adv/es/>\n"
@@ -108,43 +108,43 @@ msgstr ""
 
 msgctxt "23"
 msgid "ヤリ       ：足侍"
-msgstr ""
+msgstr "Lanza                   : SR|Sa"
 
 msgctxt "24"
 msgid "カタナ      ：足侍忍く"
-msgstr ""
+msgstr "Katana                  : SR|Sa|Ni|Ku"
 
 msgctxt "25"
 msgid "くない      ：忍く"
-msgstr ""
+msgstr "Kunai                   : Ni|Ku"
 
 msgctxt "26"
 msgid "杖        ：足侍天"
-msgstr ""
+msgstr "Bastón                  : SR|Sa|Mo"
 
 msgctxt "27"
 msgid "銅の鈴      ：呪"
-msgstr ""
+msgstr "Cascabel de bronce      : He"
 
 msgctxt "28"
 msgid "日本刀 丙    ：足侍忍く"
-msgstr ""
+msgstr "Hinoe                   : SR|Sa|Ni|Ku"
 
 msgctxt "29"
 msgid "なぎなた     ：足侍"
-msgstr ""
+msgstr "Naginata                : SR|Sa"
 
 msgctxt "30"
 msgid "風の忍刀     ：忍く"
-msgstr ""
+msgstr "Ninjatō etérea          : SR|Sa"
 
 msgctxt "31"
 msgid "イナズマの剣   ：足侍"
-msgstr ""
+msgstr "Espada relámpago        : SR|Sa"
 
 msgctxt "32"
 msgid "日本刀 乙    ：足侍忍"
-msgstr ""
+msgstr "Kinoto                  : SR|Sa|Ni"
 
 msgctxt "33"
 msgid "戻る"
@@ -152,163 +152,163 @@ msgstr ""
 
 msgctxt "34"
 msgid "次のページ"
-msgstr ""
+msgstr "Página siguiente"
 
 msgctxt "35"
 msgid "氷の鈴      ：呪"
-msgstr ""
+msgstr "Cascabel gélido         : He"
 
 msgctxt "36"
 msgid "知恵の杖     ：天"
-msgstr ""
+msgstr "Bastón de sabiduría     : Mo"
 
 msgctxt "37"
 msgid "力の杖      ：天"
-msgstr ""
+msgstr "Bastón de poder         : Mo"
 
 msgctxt "38"
 msgid "柴田刀      ：足侍"
-msgstr ""
+msgstr "Shibata                 : SR|Sa"
 
 msgctxt "39"
 msgid "くじら殺し    ：足侍"
-msgstr ""
+msgstr "Mataballenas            : SR|Sa"
 
 msgctxt "40"
 msgid "ガラスの鈴    ：呪"
-msgstr ""
+msgstr "Cascabel cristalino     : He"
 
 msgctxt "41"
 msgid "くまさんの爪   ：忍く"
-msgstr ""
+msgstr "Garras de oso           : Ni|Ku"
 
 msgctxt "42"
 msgid "ドラゴンスレイヤー：足侍"
-msgstr ""
+msgstr "Matadragones            : SR|Sa"
 
 msgctxt "43"
 msgid "のろわれたヤリ  ：足侍"
-msgstr ""
+msgstr "Lanza maldita           : SR|Sa"
 
 msgctxt "44"
 msgid "鉛の鈴      ：呪"
-msgstr ""
+msgstr "Cascabel de plomo       : He"
 
 msgctxt "45"
 msgid "次のページ"
-msgstr ""
+msgstr "Página siguiente"
 
 msgctxt "46"
 msgid "ムチ       ：忍く"
-msgstr ""
+msgstr "Látigo                  : Ni|Ku"
 
 msgctxt "47"
 msgid "青龍の刀     ：足侍"
-msgstr ""
+msgstr "Espada de Seiryū        : SR|Sa"
 
 msgctxt "48"
 msgid "玄武の刀     ：足侍"
-msgstr ""
+msgstr "Espada de Genbu         : SR|Sa"
 
 msgctxt "49"
 msgid "白虎の刀     ：足侍"
-msgstr ""
+msgstr "Espada de Byakko        : SR|Sa"
 
 msgctxt "50"
 msgid "朱雀の刀     ：足侍"
-msgstr ""
+msgstr "Espada de Suzaku        : SR|Sa"
 
 msgctxt "51"
 msgid "蔵人知槍     ：足侍"
-msgstr ""
+msgstr "Lanza del vasto saber   : SR|Sa"
 
 msgctxt "52"
 msgid "ロングソード３  ：足侍"
-msgstr ""
+msgstr "Montante                : SR|Sa"
 
 msgctxt "53"
 msgid "白金の鈴     ：呪"
-msgstr ""
+msgstr "Cascabel de platino     : He"
 
 msgctxt "54"
 msgid "村正       ：足侍"
-msgstr ""
+msgstr "Muramasa                : SR|Sa"
 
 msgctxt "55"
 msgid "天志僧の杖    ：天"
-msgstr ""
+msgstr "Bastón de monje Tenshi  : Mo"
 
 msgctxt "56"
 msgid "次のページ"
-msgstr ""
+msgstr "Página siguiente"
 
 msgctxt "57"
 msgid "忍者ブレード！  ：忍く"
-msgstr ""
+msgstr "Espada ninja            : Ni|Ku"
 
 msgctxt "58"
 msgid "日本刀 甲    ：足侍"
-msgstr ""
+msgstr "Kinoe                   : SR|Sa"
 
 msgctxt "59"
 msgid "一鉄       ：足侍"
-msgstr ""
+msgstr "Ittetsu                 : SR|Sa"
 
 msgctxt "60"
 msgid "合金の鈴     ：呪"
-msgstr ""
+msgstr "Cascabel de latón       : He"
 
 msgctxt "61"
 msgid "さびた剣     ：足侍忍く"
-msgstr ""
+msgstr "Espada oxidada          : SR|Sa|Ni|Ku"
 
 msgctxt "62"
 msgid "トライデン    ：足侍"
-msgstr ""
+msgstr "Tridente                : SR|Sa"
 
 msgctxt "63"
 msgid "ハルバー     ：足侍"
-msgstr ""
+msgstr "Alabarda                : SR|Sa"
 
 msgctxt "64"
 msgid "紫電改      ：侍"
-msgstr ""
+msgstr "Shidenkai               : Sa"
 
 msgctxt "65"
 msgid "すごいタケヤリ  ：足"
-msgstr ""
+msgstr "Caña de escape          : SR"
 
 msgctxt "66"
 msgid "貞治       ：天"
-msgstr ""
+msgstr "Sadaharu                : Mo"
 
 msgctxt "67"
 msgid "次のページ"
-msgstr ""
+msgstr "Página siguiente"
 
 msgctxt "68"
 msgid "前のページ"
-msgstr ""
+msgstr "Página anterior"
 
 msgctxt "69"
 msgid "ロイヤルアサシン ：忍く"
-msgstr ""
+msgstr "Matarreyes              : Ni|Ku"
 
 msgctxt "70"
 msgid "女王様のムチ   ：く"
-msgstr ""
+msgstr "Látigo de emperatriz    : Ku"
 
 msgctxt "71"
 msgid "超合金の鈴    ：呪"
-msgstr ""
+msgstr "Cascabel de níquel      : He"
 
 msgctxt "72"
 msgid "アタナイフ    ：忍く"
-msgstr ""
+msgstr "Cuchillo voluble        : Ni|Ku"
 
 msgctxt "73"
 msgid "武器Ｎｏ．４５"
-msgstr ""
+msgstr "Arma 45"
 
 msgctxt "74"
 msgid "武器Ｎｏ．４６"
@@ -332,43 +332,43 @@ msgstr "Arma 50"
 
 msgctxt "79"
 msgid "急祥の兜     ：侍"
-msgstr ""
+msgstr "Yelmo auspicioso        : Sa"
 
 msgctxt "80"
 msgid "雅修の兜     ：侍"
-msgstr ""
+msgstr "Yelmo elegante          : Sa"
 
 msgctxt "81"
 msgid "懐滝の兜     ：侍"
-msgstr ""
+msgstr "Yelmo nostálgico        : Sa"
 
 msgctxt "82"
 msgid "吉蔵の兜     ：侍"
-msgstr ""
+msgstr "Yelmo de la fortuna     : Sa"
 
 msgctxt "83"
 msgid "祭乞の兜     ：侍"
-msgstr ""
+msgstr "Yelmo festivo           : Sa"
 
 msgctxt "84"
 msgid "はちまき     ：全員"
-msgstr ""
+msgstr "Bandana                 : Todas"
 
 msgctxt "85"
 msgid "鉄かぶと     ：足侍"
-msgstr ""
+msgstr "Yelmo de hierro         : SR|Sa"
 
 msgctxt "86"
 msgid "山菜ハット    ：全員"
-msgstr ""
+msgstr "Sombrero de hierbas     : Todas"
 
 msgctxt "87"
 msgid "金のかんざし   ：全員"
-msgstr ""
+msgstr "Pasador de oro          : Todas"
 
 msgctxt "88"
 msgid "ベレー帽     ：全員"
-msgstr ""
+msgstr "Boina                   : Todas"
 
 msgctxt "89"
 msgid "戻る"
@@ -376,39 +376,39 @@ msgstr ""
 
 msgctxt "90"
 msgid "次のページ"
-msgstr ""
+msgstr "Página siguiente"
 
 msgctxt "91"
 msgid "前のページ"
-msgstr ""
+msgstr "Página anterior"
 
 msgctxt "92"
 msgid "リボン      ：全員"
-msgstr ""
+msgstr "Lazo                    : Todas"
 
 msgctxt "93"
 msgid "般若の面     ：全員"
-msgstr ""
+msgstr "Máscara de hannya       : Todas"
 
 msgctxt "94"
 msgid "角かくし     ：全員"
-msgstr ""
+msgstr "Tocado de novia         : Todas"
 
 msgctxt "95"
 msgid "ネコ帽      ：全員"
-msgstr ""
+msgstr "Gorro de gato           : Todas"
 
 msgctxt "96"
 msgid "おつるちゃん   ：全員"
-msgstr ""
+msgstr "Cabeza de Chiitan       : Todas"
 
 msgctxt "97"
 msgid "蝶のマスク    ：く"
-msgstr ""
+msgstr "Antifaz de mariposa     : Ku"
 
 msgctxt "98"
 msgid "面        ：全員"
-msgstr ""
+msgstr "Máscara                 : Todas"
 
 msgctxt "99"
 msgid "頭装備Ｎｏ．１８"
@@ -424,43 +424,43 @@ msgstr "Cabeza 20"
 
 msgctxt "102"
 msgid "服        ：全員"
-msgstr ""
+msgstr "Vestido                 : Todas"
 
 msgctxt "103"
 msgid "カチカチ洋服   ：全員"
-msgstr ""
+msgstr "Ropa occidental rígida  : Todas"
 
 msgctxt "104"
 msgid "スーパースター  ：全員"
-msgstr ""
+msgstr "Superestrella           : Todas"
 
 msgctxt "105"
 msgid "チマ チョゴリ  ：全員"
-msgstr ""
+msgstr "Atuendo oriental        : Todas"
 
 msgctxt "106"
 msgid "可愛いブレザー  ：全員"
-msgstr ""
+msgstr "Chaqueta mona           : Todas"
 
 msgctxt "107"
 msgid "天志僧衣     ：天"
-msgstr ""
+msgstr "Prenda de monje Tenshi  : Mo"
 
 msgctxt "108"
 msgid "忍者服      ：忍く"
-msgstr ""
+msgstr "Traje ninja             : Ni|Ku"
 
 msgctxt "109"
 msgid "黒装束      ：忍く"
-msgstr ""
+msgstr "Ropajes negros          : Ni|Ku"
 
 msgctxt "110"
 msgid "風の忍服     ：忍く"
-msgstr ""
+msgstr "Traje ninja de viento   : Ni|Ku"
 
 msgctxt "111"
 msgid "柔道着      ：柔ぬ"
-msgstr ""
+msgstr "Judogi                  : AM|Nu"
 
 msgctxt "112"
 msgid "戻る"
@@ -468,75 +468,75 @@ msgstr ""
 
 msgctxt "113"
 msgid "次のページ"
-msgstr ""
+msgstr "Página siguiente"
 
 msgctxt "114"
 msgid "前のページ"
-msgstr ""
+msgstr "Página anterior"
 
 msgctxt "115"
 msgid "高級柔道着    ：柔ぬ"
-msgstr ""
+msgstr "Judogi de alta calidad  : AM|Nu"
 
 msgctxt "116"
 msgid "タイガー柔道着  ：柔"
-msgstr ""
+msgstr "Judogi atigrado         : AM"
 
 msgctxt "117"
 msgid "男魂       ：柔"
-msgstr ""
+msgstr "Atuendo viril           : AM"
 
 msgctxt "118"
 msgid "足軽の鎧     ：足侍ぬ"
-msgstr ""
+msgstr "Armadura de soldado raso: SR|Sa|Nu"
 
 msgctxt "119"
 msgid "武者の鎧     ：足侍"
-msgstr ""
+msgstr "Armadura de guerrero    : SR|Sa"
 
 msgctxt "120"
 msgid "原家の鎧     ：侍"
-msgstr ""
+msgstr "Armadura del clan Hara  : Sa"
 
 msgctxt "121"
 msgid "２２年式鎧    ：足侍"
-msgstr ""
+msgstr "Armadura Murata         : SR|Sa"
 
 msgctxt "122"
 msgid "コースアーマー  ：足侍"
-msgstr ""
+msgstr "Coraza                  : SR|Sa"
 
 msgctxt "123"
 msgid "治癒の鎧     ：足侍ぬ"
-msgstr ""
+msgstr "Armadura curativa       : SR|Sa|Nu"
 
 msgctxt "124"
 msgid "長門の鎧     ：足侍"
-msgstr ""
+msgstr "Armadura de Nagato      : SR|Sa"
 
 msgctxt "125"
 msgid "次のページ"
-msgstr ""
+msgstr "Página siguiente"
 
 msgctxt "126"
 msgid "前のページ"
-msgstr ""
+msgstr "Página anterior"
 
 msgctxt "127"
 msgid "猿アーマー    ：足侍柔ぬ"
-msgstr ""
+msgstr "Ropajes de simio        : SR|Sa|AM|Nu"
 
 msgctxt "128"
 msgid "富嶽       ：足侍"
-msgstr ""
+msgstr "G10N                    : SR|Sa"
 
 msgctxt "129"
 msgid "ボンテージクロス ：く"
-msgstr ""
+msgstr "Arnés erótico           : Ku"
 
 msgctxt "130"
 msgid "エロチックムーン ：全員"
-msgstr ""
+msgstr "Lencería lunar          : Todas"
 
 msgctxt "131"
 msgid "体装備Ｎｏ．２５"
@@ -564,43 +564,43 @@ msgstr "Cuerpo 30"
 
 msgctxt "137"
 msgid "ぞうり      ：全員"
-msgstr ""
+msgstr "Sandalias               : Todas"
 
 msgctxt "138"
 msgid "たび       ：全員"
-msgstr ""
+msgstr "Tabis                   : Todas"
 
 msgctxt "139"
 msgid "すねあて     ：足侍柔忍く"
-msgstr ""
+msgstr "Espinilleras            : SR|Sa|AM|Ni|Ku"
 
 msgctxt "140"
 msgid "毛皮のくつ    ：全員"
-msgstr ""
+msgstr "Zapatos de cuero        : Todas"
 
 msgctxt "141"
 msgid "鉄ゲタ      ：足侍柔ぬ"
-msgstr ""
+msgstr "Zuecos de metal         : SR|Sa|AM|Nu"
 
 msgctxt "142"
 msgid "かんじき     ：全員"
-msgstr ""
+msgstr "Raquetas de nieve       : Todas"
 
 msgctxt "143"
 msgid "一本ゲタ     ：全員"
-msgstr ""
+msgstr "Zancos                  : Todas"
 
 msgctxt "144"
 msgid "寅一       ：全員"
-msgstr ""
+msgstr "Sandalias atigradas     : Todas"
 
 msgctxt "145"
 msgid "ウェスタンブーツ ：足侍"
-msgstr ""
+msgstr "Botas occidentales      : SR|Sa"
 
 msgctxt "146"
 msgid "金のわらじ    ：全員"
-msgstr ""
+msgstr "Sandalias de metal      : Todas"
 
 msgctxt "147"
 msgid "戻る"
@@ -608,27 +608,27 @@ msgstr ""
 
 msgctxt "148"
 msgid "次のページ"
-msgstr ""
+msgstr "Página siguiente"
 
 msgctxt "149"
 msgid "前のページ"
-msgstr ""
+msgstr "Página anterior"
 
 msgctxt "150"
 msgid "鉄球       ：柔ぬ"
-msgstr ""
+msgstr "Herropea                : AM|Nu"
 
 msgctxt "151"
 msgid "福助       ：全員"
-msgstr ""
+msgstr "Sandalias de Fukusuke   : Todas"
 
 msgctxt "152"
 msgid "絹のたび     ：全員"
-msgstr ""
+msgstr "Tabis de seda           : Todas"
 
 msgctxt "153"
 msgid "ハイヒール！   ：く"
-msgstr ""
+msgstr "Tacones altos           : Ku"
 
 msgctxt "154"
 msgid "足装備Ｎｏ．１５"
@@ -656,35 +656,35 @@ msgstr "Pies 20"
 
 msgctxt "160"
 msgid "小手       ：足侍柔忍く"
-msgstr ""
+msgstr "Guanteletes             : SR|Sa|AM|Ni|Ku"
 
 msgctxt "161"
 msgid "丈夫な小手    ：足侍"
-msgstr ""
+msgstr "Guanteletes resistentes : SR|Sa"
 
 msgctxt "162"
 msgid "金の腕輪     ：全員"
-msgstr ""
+msgstr "Brazalete de oro        : Todas"
 
 msgctxt "163"
 msgid "銀の腕輪     ：全員"
-msgstr ""
+msgstr "Brazalete de plata      : Todas"
 
 msgctxt "164"
 msgid "パールの腕輪   ：全員"
-msgstr ""
+msgstr "Brazalete de perlas     : Todas"
 
 msgctxt "165"
 msgid "手袋       ：全員"
-msgstr ""
+msgstr "Guantes                 : Todas"
 
 msgctxt "166"
 msgid "レザーの手袋   ：く"
-msgstr ""
+msgstr "Guantes de cuero        : Ku"
 
 msgctxt "167"
 msgid "爆熱神指     ：柔"
-msgstr ""
+msgstr "Guantes de Domon        : AM"
 
 msgctxt "168"
 msgid "腕装備Ｎｏ．０９"
@@ -700,43 +700,43 @@ msgstr ""
 
 msgctxt "171"
 msgid "白帯       ：柔"
-msgstr ""
+msgstr "Cinturón blanco         : AM"
 
 msgctxt "172"
 msgid "黒帯       ：柔"
-msgstr ""
+msgstr "Cinturón negro          : AM"
 
 msgctxt "173"
 msgid "赤帯       ：柔"
-msgstr ""
+msgstr "Cinturón rojo           : AM"
 
 msgctxt "174"
 msgid "金帯       ：柔"
-msgstr ""
+msgstr "Cinturón dorado         : AM"
 
 msgctxt "175"
 msgid "天の護符     ：呪"
-msgstr ""
+msgstr "Talismán celestial      : He"
 
 msgctxt "176"
 msgid "地の護符     ：呪"
-msgstr ""
+msgstr "Talismán térreo         : He"
 
 msgctxt "177"
 msgid "人の護符     ：呪"
-msgstr ""
+msgstr "Talismán humano         : He"
 
 msgctxt "178"
 msgid "はらたま     ：天"
-msgstr ""
+msgstr "Gohei                   : Mo"
 
 msgctxt "179"
 msgid "きよたま     ：天"
-msgstr ""
+msgstr "Shimenawa               : Mo"
 
 msgctxt "180"
 msgid "原家の印篭    ：侍"
-msgstr ""
+msgstr "Cajita del clan Hara    : Sa"
 
 msgctxt "181"
 msgid "戻る"
@@ -744,91 +744,91 @@ msgstr ""
 
 msgctxt "182"
 msgid "次のページ"
-msgstr ""
+msgstr "Página siguiente"
 
 msgctxt "183"
 msgid "前のページ"
-msgstr ""
+msgstr "Página anterior"
 
 msgctxt "184"
 msgid "いかりやちょうけし：ぬ"
-msgstr ""
+msgstr "Figurita de goma        : Nu"
 
 msgctxt "185"
 msgid "死んだ小鳥の死体 ：ぬ"
-msgstr ""
+msgstr "Cadáver de pájaro       : Nu"
 
 msgctxt "186"
 msgid "らっきょ     ：ぬ"
-msgstr ""
+msgstr "Puerro                  : Nu"
 
 msgctxt "187"
 msgid "火の巻      ：忍く"
-msgstr ""
+msgstr "Pergamino de fuego      : Ni|Ku"
 
 msgctxt "188"
 msgid "水の巻      ：忍く"
-msgstr ""
+msgstr "Pergamino de hielo      : Ni|Ku"
 
 msgctxt "189"
 msgid "土の巻      ：忍く"
-msgstr ""
+msgstr "Pergamino de tierra     : Ni|Ku"
 
 msgctxt "190"
 msgid "雷の巻      ：忍く"
-msgstr ""
+msgstr "Pergamino de rayo       : Ni|Ku"
 
 msgctxt "191"
 msgid "光の巻      ：忍く"
-msgstr ""
+msgstr "Pergamino de luz        : Ni|Ku"
 
 msgctxt "192"
 msgid "闇の巻      ：忍く"
-msgstr ""
+msgstr "Pergamino de oscuridad  : Ni|Ku"
 
 msgctxt "193"
 msgid "網タイツ     ：く"
-msgstr ""
+msgstr "Medias de rejilla       : Ku"
 
 msgctxt "194"
 msgid "力の指輪     ：全員"
-msgstr ""
+msgstr "Anillo de poder         : Todas"
 
 msgctxt "195"
 msgid "早さの指輪    ：全員"
-msgstr ""
+msgstr "Anillo de velocidad     : Todas"
 
 msgctxt "196"
 msgid "体力の指輪    ：全員"
-msgstr ""
+msgstr "Anillo de vitalidad     : Todas"
 
 msgctxt "197"
 msgid "勇気の指輪    ：全員"
-msgstr ""
+msgstr "Anillo de valor         : Todas"
 
 msgctxt "198"
 msgid "石榴石の耳飾り  ：全員"
-msgstr ""
+msgstr "Pendientes de granate   : Todas"
 
 msgctxt "199"
 msgid "水晶の耳飾り   ：全員"
-msgstr ""
+msgstr "Pendientes de cuarzo    : Todas"
 
 msgctxt "200"
 msgid "琥珀の耳飾り   ：全員"
-msgstr ""
+msgstr "Pendientes de ámbar     : Todas"
 
 msgctxt "201"
 msgid "金剛石の耳飾り  ：全員"
-msgstr ""
+msgstr "Collar de diamantes     : Todas"
 
 msgctxt "202"
 msgid "黒真珠の耳飾り  ：全員"
-msgstr ""
+msgstr "Collar de perlas        : Todas"
 
 msgctxt "203"
 msgid "商売繁昌の御守  ：全員"
-msgstr ""
+msgstr "Amuleto de negocios     : Todas"
 
 msgctxt "204"
 msgid "戻る"
@@ -836,51 +836,51 @@ msgstr ""
 
 msgctxt "205"
 msgid "次のページ"
-msgstr ""
+msgstr "Página siguiente"
 
 msgctxt "206"
 msgid "前のページ"
-msgstr ""
+msgstr "Página anterior"
 
 msgctxt "207"
 msgid "無病息災の御守  ：全員"
-msgstr ""
+msgstr "Amuleto para la salud   : Todas"
 
 msgctxt "208"
 msgid "交通安全の御守  ：全員"
-msgstr ""
+msgstr "Amuleto para viajes     : Todas"
 
 msgctxt "209"
 msgid "学業成就の御守  ：全員"
-msgstr ""
+msgstr "Amuleto de estudios     : Todas"
 
 msgctxt "210"
 msgid "くまのワッペン  ：全員"
-msgstr ""
+msgstr "Parche de oso           : Todas"
 
 msgctxt "211"
 msgid "くつした     ：全員"
-msgstr ""
+msgstr "Calcetines              : Todas"
 
 msgctxt "212"
 msgid "扇子ｏｆワンダー ：全員"
-msgstr ""
+msgstr "Abanico milagroso       : Todas"
 
 msgctxt "213"
 msgid "手鏡       ：全員"
-msgstr ""
+msgstr "Espejo de mano          : Todas"
 
 msgctxt "214"
 msgid "力だすき     ：全員"
-msgstr ""
+msgstr "Cinto de fuerza         : Todas"
 
 msgctxt "215"
 msgid "ガーターベルト  ：く"
-msgstr ""
+msgstr "Liguero                 : Ku"
 
 msgctxt "216"
 msgid "飾り２０"
-msgstr ""
+msgstr "Accesorio 20"
 
 msgctxt "217"
 msgid "装備していません。"
@@ -1180,7 +1180,7 @@ msgstr "Clase: "
 
 msgctxt "291"
 msgid "足軽"
-msgstr ""
+msgstr "Soldado raso"
 
 msgctxt "292"
 msgid "侍"
@@ -1492,7 +1492,7 @@ msgstr "Espada de Suzaku"
 
 msgctxt "369"
 msgid "蔵人知槍"
-msgstr "Lanza del vasto conocimiento"
+msgstr "Lanza del vasto saber"
 
 msgctxt "370"
 msgid "ロングソード３"
@@ -1684,7 +1684,7 @@ msgstr "Vestido"
 
 msgctxt "417"
 msgid "カチカチ洋服"
-msgstr "Vestido occidental rígido"
+msgstr "Ropa occidental rígida"
 
 msgctxt "418"
 msgid "スーパースター"
@@ -1728,7 +1728,7 @@ msgstr "Judogi atigrado"
 
 msgctxt "428"
 msgid "男魂"
-msgstr "Armadura viril"
+msgstr "Atuendo viril"
 
 msgctxt "429"
 msgid "足軽の鎧"
@@ -1760,7 +1760,7 @@ msgstr "Armadura de Nagato"
 
 msgctxt "436"
 msgid "猿アーマー"
-msgstr "Armadura de simio"
+msgstr "Ropajes de simio"
 
 msgctxt "437"
 msgid "富嶽"
@@ -1840,7 +1840,7 @@ msgstr "Botas occidentales"
 
 msgctxt "456"
 msgid "金のわらじ"
-msgstr "Sandalias de paja dorada"
+msgstr "Sandalias de metal"
 
 msgctxt "457"
 msgid "鉄球"
@@ -1916,7 +1916,7 @@ msgstr "Guantes de cuero"
 
 msgctxt "475"
 msgid "腕装備Ｎｏ．０８"
-msgstr ""
+msgstr "Brazos 8"
 
 msgctxt "476"
 msgid "腕装備Ｎｏ．０９"
@@ -2044,15 +2044,15 @@ msgstr "Pendientes de ámbar"
 
 msgctxt "507"
 msgid "金剛石の耳飾り"
-msgstr "Pendientes de diamante"
+msgstr "Collar de diamantes"
 
 msgctxt "508"
 msgid "黒真珠の耳飾り"
-msgstr "Pendientes de perlas negras"
+msgstr "Collar de perlas"
 
 msgctxt "509"
 msgid "商売繁昌の御守"
-msgstr "Amuleto para los negocios"
+msgstr "Amuleto de negocios"
 
 msgctxt "510"
 msgid "無病息災の御守"
@@ -2060,11 +2060,11 @@ msgstr "Amuleto para la salud"
 
 msgctxt "511"
 msgid "交通安全の御守"
-msgstr "Amuleto para los viajes"
+msgstr "Amuleto para viajes"
 
 msgctxt "512"
 msgid "学業成就の御守"
-msgstr "Amuleto para los estudios"
+msgstr "Amuleto de estudios"
 
 msgctxt "513"
 msgid "くまのワッペン"
