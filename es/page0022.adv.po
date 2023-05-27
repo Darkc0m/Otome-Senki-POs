@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Otome Senki\n"
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
-"PO-Revision-Date: 2023-05-26 18:27+0000\n"
+"PO-Revision-Date: 2023-05-28 16:25+0000\n"
 "Last-Translator: darkc0m <alex011298@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0022adv/es/>\n"
@@ -16,23 +16,23 @@ msgstr ""
 
 msgctxt "0"
 msgid "未定"
-msgstr ""
+msgstr "Vacío"
 
 msgctxt "1"
 msgid "未定"
-msgstr ""
+msgstr "Vacío"
 
 msgctxt "2"
 msgid "未定"
-msgstr ""
+msgstr "Vacío"
 
 msgctxt "3"
 msgid "未定"
-msgstr ""
+msgstr "Vacío"
 
 msgctxt "4"
 msgid "使うキャラクターを選んでください"
-msgstr ""
+msgstr "Elige un personaje."
 
 msgctxt "5"
 msgid "あかね 足 Ｌ／経："
@@ -756,7 +756,7 @@ msgstr ""
 
 msgctxt "185"
 msgid "このメンバーで出陣する"
-msgstr ""
+msgstr "Confirmar grupo con los miembros actuales"
 
 msgctxt "186"
 msgid "あかね"
@@ -764,7 +764,7 @@ msgstr "Akane"
 
 msgctxt "187"
 msgid "足軽"
-msgstr ""
+msgstr "Soldado raso"
 
 msgctxt "188"
 msgid "桧垣　真朱"
@@ -844,15 +844,15 @@ msgstr ""
 
 msgctxt "207"
 msgid "これでいい"
-msgstr ""
+msgstr "Añadir al grupo"
 
 msgctxt "208"
 msgid "選びなおす"
-msgstr ""
+msgstr "Cancelar"
 
 msgctxt "209"
 msgid "過去を振り返る"
-msgstr ""
+msgstr "Ver historia"
 
 msgctxt "210"
 msgid "あかね"
@@ -1000,39 +1000,39 @@ msgstr "Kagome"
 
 msgctxt "246"
 msgid "パーティ"
-msgstr ""
+msgstr "Grupo"
 
 msgctxt "247"
 msgid "このパーティでいいですか？"
-msgstr ""
+msgstr "¿Estás conforme con este grupo?"
 
 msgctxt "248"
 msgid "出陣"
-msgstr ""
+msgstr "Confirmar"
 
 msgctxt "249"
 msgid "解散"
-msgstr ""
+msgstr "Reorganizar desde cero"
 
 msgctxt "250"
 msgid "今のキャラを外す"
-msgstr ""
+msgstr "Quitar al último personaje"
 
 msgctxt "251"
 msgid "未定"
-msgstr ""
+msgstr "Vacío"
 
 msgctxt "252"
 msgid "未定"
-msgstr ""
+msgstr "Vacío"
 
 msgctxt "253"
 msgid "未定"
-msgstr ""
+msgstr "Vacío"
 
 msgctxt "254"
 msgid "未定"
-msgstr ""
+msgstr "Vacío"
 
 msgctxt "255"
 msgid "「そっちからぶつかってきたんじゃないか、"
