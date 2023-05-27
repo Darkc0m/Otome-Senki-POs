@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
 "PO-Revision-Date: 2023-05-27 06:49+0000\n"
-"Last-Translator: darkc0m <alex011298@gmail.com>\n"
+"Last-Translator: wu <wu.oudeis@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0006adv/es/>\n"
 "Language: es\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 msgctxt "0"
 msgid "どこの装備を変えますか？"
-msgstr ""
+msgstr "¿Qué equipo quieres cambiar?"
 
 msgctxt "1"
 msgid "頭"
@@ -48,63 +48,63 @@ msgstr "Accesorio"
 
 msgctxt "8"
 msgid "やめる"
-msgstr ""
+msgstr "Salir"
 
 msgctxt "9"
 msgid "装備する"
-msgstr ""
+msgstr "Equipar"
 
 msgctxt "10"
 msgid "兜を脱ぐ"
-msgstr ""
+msgstr "Desequipar casco"
 
 msgctxt "11"
 msgid "装備する"
-msgstr ""
+msgstr "Equipar"
 
 msgctxt "12"
 msgid "鎧を脱ぐ"
-msgstr ""
+msgstr "Desequipar armadura"
 
 msgctxt "13"
 msgid "装備する"
-msgstr ""
+msgstr "Equipar"
 
 msgctxt "14"
 msgid "武器を外す"
-msgstr ""
+msgstr "Desequipar arma"
 
 msgctxt "15"
 msgid "装備する"
-msgstr ""
+msgstr "Equipar"
 
 msgctxt "16"
 msgid "装備を外す"
-msgstr ""
+msgstr "Desequipar"
 
 msgctxt "17"
 msgid "装備する"
-msgstr ""
+msgstr "Equipar"
 
 msgctxt "18"
 msgid "履物を脱ぐ"
-msgstr ""
+msgstr "Desequipar calzado"
 
 msgctxt "19"
 msgid "装備する"
-msgstr ""
+msgstr "Equipar"
 
 msgctxt "20"
 msgid "装備を外す"
-msgstr ""
+msgstr "Desequipar"
 
 msgctxt "21"
 msgid "装備する"
-msgstr ""
+msgstr "Equipar"
 
 msgctxt "22"
 msgid "飾りを外す"
-msgstr ""
+msgstr "Desequipar accesorio"
 
 msgctxt "23"
 msgid "ヤリ       ：足侍"
@@ -148,7 +148,7 @@ msgstr "Kinoto                  : SR|Sa|Ni"
 
 msgctxt "33"
 msgid "戻る"
-msgstr ""
+msgstr "Regresar"
 
 msgctxt "34"
 msgid "次のページ"
@@ -372,7 +372,7 @@ msgstr "Boina                   : Todas"
 
 msgctxt "89"
 msgid "戻る"
-msgstr ""
+msgstr "Retroceder"
 
 msgctxt "90"
 msgid "次のページ"
@@ -464,7 +464,7 @@ msgstr "Judogi                  : AM|Nu"
 
 msgctxt "112"
 msgid "戻る"
-msgstr ""
+msgstr "Retroceder"
 
 msgctxt "113"
 msgid "次のページ"
@@ -604,7 +604,7 @@ msgstr "Sandalias de metal      : Todas"
 
 msgctxt "147"
 msgid "戻る"
-msgstr ""
+msgstr "Retroceder"
 
 msgctxt "148"
 msgid "次のページ"
@@ -696,7 +696,7 @@ msgstr "Brazos 10"
 
 msgctxt "170"
 msgid "戻る"
-msgstr ""
+msgstr "Retroceder"
 
 msgctxt "171"
 msgid "白帯       ：柔"
@@ -740,7 +740,7 @@ msgstr "Cajita del clan Hara    : Sa"
 
 msgctxt "181"
 msgid "戻る"
-msgstr ""
+msgstr "Retroceder"
 
 msgctxt "182"
 msgid "次のページ"
@@ -832,7 +832,7 @@ msgstr "Amuleto de negocios     : Todas"
 
 msgctxt "204"
 msgid "戻る"
-msgstr ""
+msgstr "Retroceder"
 
 msgctxt "205"
 msgid "次のページ"
@@ -884,55 +884,55 @@ msgstr "Accesorio 20"
 
 msgctxt "217"
 msgid "装備していません。"
-msgstr ""
+msgstr "No está equipado."
 
 msgctxt "218"
 msgid "装備していません。"
-msgstr ""
+msgstr "No está equipado."
 
 msgctxt "219"
 msgid "装備していません。"
-msgstr ""
+msgstr "No está equipado."
 
 msgctxt "220"
 msgid "装備していません。"
-msgstr ""
+msgstr "No está equipado."
 
 msgctxt "221"
 msgid "装備していません。"
-msgstr ""
+msgstr "No está equipado."
 
 msgctxt "222"
 msgid "装備していません。"
-msgstr ""
+msgstr "No está equipado."
 
 msgctxt "223"
 msgid "装備していません。"
-msgstr ""
+msgstr "No está equipado."
 
 msgctxt "224"
 msgid "攻撃力修正 "
-msgstr ""
+msgstr "Ataque"
 
 msgctxt "225"
 msgid "  命中修正 "
-msgstr ""
+msgstr "  Precisión "
 
 msgctxt "226"
 msgid "  防御力修正 "
-msgstr ""
+msgstr "  Defensa "
 
 msgctxt "227"
 msgid "回避力修正 "
-msgstr ""
+msgstr "Evasión"
 
 msgctxt "228"
 msgid "  速度修正 "
-msgstr ""
+msgstr "  Rapidez "
 
 msgctxt "229"
 msgid "  攻撃属性  "
-msgstr ""
+msgstr "  Elemento ofensivo"
 
 msgctxt "230"
 msgid "＊＊＊"
@@ -964,7 +964,7 @@ msgstr ""
 
 msgctxt "237"
 msgid "～ 防御属性 ～"
-msgstr ""
+msgstr "Elemento defensivo"
 
 msgctxt "238"
 msgid "直："
@@ -1160,15 +1160,15 @@ msgstr ""
 
 msgctxt "286"
 msgid "装備する"
-msgstr ""
+msgstr "Equipar"
 
 msgctxt "287"
 msgid "装備しない"
-msgstr ""
+msgstr "No equipar"
 
 msgctxt "288"
 msgid "   ＃＃＃ このキャラには似合いません。 ＃＃＃"
-msgstr ""
+msgstr "   ＃＃＃ No es para este personaje. ＃＃＃"
 
 msgctxt "289"
 msgid "名前："
