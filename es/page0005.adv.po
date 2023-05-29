@@ -3,29 +3,32 @@ msgstr ""
 "Project-Id-Version: Otome Senki\n"
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2023-05-29 16:53+0000\n"
+"Last-Translator: darkc0m <alex011298@gmail.com>\n"
+"Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
+"page0005adv/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 msgctxt "0"
 msgid "グリーンハニー"
-msgstr ""
+msgstr "Hani verde"
 
 msgctxt "1"
 msgid "パンチ"
-msgstr ""
+msgstr "Puñetazo"
 
 msgctxt "2"
 msgid "ハニーフラッシュ"
-msgstr ""
+msgstr "Destello hani"
 
 msgctxt "3"
 msgid "トライデンで攻撃"
-msgstr ""
+msgstr "Ataque con tridente"
 
 msgctxt "4"
 msgid "ぬぼぼ"
@@ -33,11 +36,11 @@ msgstr ""
 
 msgctxt "5"
 msgid "パンチ"
-msgstr ""
+msgstr "Puñetazo"
 
 msgctxt "6"
 msgid "キック"
-msgstr ""
+msgstr "Patada"
 
 msgctxt "7"
 msgid "巻き付き攻撃"
@@ -61,7 +64,7 @@ msgstr ""
 
 msgctxt "12"
 msgid "こんにちわ"
-msgstr ""
+msgstr "Buenos días"
 
 msgctxt "13"
 msgid "体当たり"
@@ -69,15 +72,15 @@ msgstr ""
 
 msgctxt "14"
 msgid "パンチ"
-msgstr ""
+msgstr "Puñetazo"
 
 msgctxt "15"
 msgid "あいさつ攻撃"
-msgstr ""
+msgstr "Saludazo"
 
 msgctxt "16"
 msgid "きゃんきゃん"
-msgstr ""
+msgstr "Can Can"
 
 msgctxt "17"
 msgid "おねだり"
@@ -85,11 +88,11 @@ msgstr ""
 
 msgctxt "18"
 msgid "あいさつ"
-msgstr ""
+msgstr "Saludo"
 
 msgctxt "19"
 msgid "じゃれている"
-msgstr ""
+msgstr "Jugueteo"
 
 msgctxt "20"
 msgid "ラルカット"
@@ -97,11 +100,11 @@ msgstr ""
 
 msgctxt "21"
 msgid "チョップ"
-msgstr ""
+msgstr "Tajo"
 
 msgctxt "22"
 msgid "キック"
-msgstr ""
+msgstr "Patada"
 
 msgctxt "23"
 msgid "引っ掻き攻撃"
@@ -113,7 +116,7 @@ msgstr ""
 
 msgctxt "25"
 msgid "キック"
-msgstr ""
+msgstr "Patada"
 
 msgctxt "26"
 msgid "５０連キック"
@@ -125,7 +128,7 @@ msgstr ""
 
 msgctxt "28"
 msgid "マジ・スコ"
-msgstr ""
+msgstr "Magacrán"
 
 msgctxt "29"
 msgid "炎の矢を放った"
@@ -133,15 +136,15 @@ msgstr ""
 
 msgctxt "30"
 msgid "パンチ"
-msgstr ""
+msgstr "Puñetazo"
 
 msgctxt "31"
 msgid "尻尾で攻撃"
-msgstr ""
+msgstr "Coletazo"
 
 msgctxt "32"
 msgid "きゃんきゃλ"
-msgstr ""
+msgstr "Can Caƞ"
 
 msgctxt "33"
 msgid "おねだり"
@@ -149,27 +152,27 @@ msgstr ""
 
 msgctxt "34"
 msgid "あいさつ"
-msgstr ""
+msgstr "Saludo"
 
 msgctxt "35"
 msgid "じゃれている"
-msgstr ""
+msgstr "Jugueteo"
 
 msgctxt "36"
 msgid "ブルーハニー"
-msgstr ""
+msgstr "Hani azul"
 
 msgctxt "37"
 msgid "パンチ"
-msgstr ""
+msgstr "Puñetazo"
 
 msgctxt "38"
 msgid "ハニーフラッシュ"
-msgstr ""
+msgstr "Destello hani"
 
 msgctxt "39"
 msgid "トライデンで攻撃"
-msgstr ""
+msgstr "Ataque con tridente"
 
 msgctxt "40"
 msgid "るろんた"
@@ -177,7 +180,7 @@ msgstr ""
 
 msgctxt "41"
 msgid "パンチ"
-msgstr ""
+msgstr "Puñetazo"
 
 msgctxt "42"
 msgid "抱き付いてきた"
@@ -429,19 +432,19 @@ msgstr ""
 
 msgctxt "104"
 msgid "レッドハニー"
-msgstr ""
+msgstr "Hani rojo"
 
 msgctxt "105"
 msgid "パンチ"
-msgstr ""
+msgstr "Puñetazo"
 
 msgctxt "106"
 msgid "ハニーフラッシュ"
-msgstr ""
+msgstr "Destello hani"
 
 msgctxt "107"
 msgid "トライデンで攻撃"
-msgstr ""
+msgstr "Ataque con tridente"
 
 msgctxt "108"
 msgid "いもむしＤＸ"
@@ -509,15 +512,15 @@ msgstr ""
 
 msgctxt "124"
 msgid "やぎさん"
-msgstr ""
+msgstr "Cabrita"
 
 msgctxt "125"
 msgid "パンチ"
-msgstr ""
+msgstr "Puñetazo"
 
 msgctxt "126"
 msgid "キック"
-msgstr ""
+msgstr "Patada"
 
 msgctxt "127"
 msgid "角笛を吹いた"
@@ -669,19 +672,19 @@ msgstr ""
 
 msgctxt "164"
 msgid "こんばんわ"
-msgstr ""
+msgstr "Buenas noches"
 
 msgctxt "165"
 msgid "体当たり"
-msgstr ""
+msgstr "Placaje"
 
 msgctxt "166"
 msgid "あいさつ"
-msgstr ""
+msgstr "Saludo"
 
 msgctxt "167"
 msgid "パンチ"
-msgstr ""
+msgstr "Puñetazo"
 
 msgctxt "168"
 msgid "マーシュ"
