@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
 "PO-Revision-Date: 2023-05-30 12:13+0000\n"
-"Last-Translator: wu <wu.oudeis@gmail.com>\n"
+"Last-Translator: darkc0m <alex011298@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0005adv/es/>\n"
 "Language: es\n"
@@ -240,7 +240,7 @@ msgstr "Harina"
 
 msgctxt "56"
 msgid "うし使い"
-msgstr "Pastor bovino"
+msgstr "Pastora bovina"
 
 msgctxt "57"
 msgid "剣で攻撃"
@@ -252,7 +252,7 @@ msgstr "Embestida"
 
 msgctxt "59"
 msgid "うしを抱きしめた"
-msgstr ""
+msgstr "Alivio bovino"
 
 msgctxt "60"
 msgid "てんてん"
@@ -576,7 +576,7 @@ msgstr "Golpe doble"
 
 msgctxt "140"
 msgid "ルスト"
-msgstr ""
+msgstr "Rust"
 
 msgctxt "141"
 msgid "呪文を唱えた"
@@ -592,7 +592,7 @@ msgstr "Conjuro"
 
 msgctxt "144"
 msgid "凶悪ハニー"
-msgstr ""
+msgstr "Hani despiadado"
 
 msgctxt "145"
 msgid "ドスで切りかかる"
@@ -604,7 +604,7 @@ msgstr "Farlopa"
 
 msgctxt "147"
 msgid "ハニーフラッシュ"
-msgstr ""
+msgstr "Destello hani"
 
 msgctxt "148"
 msgid "ざしきわらし"
@@ -648,7 +648,7 @@ msgstr ""
 
 msgctxt "158"
 msgid "キック"
-msgstr ""
+msgstr "Patada"
 
 msgctxt "159"
 msgid "自分を応援した"
@@ -664,7 +664,7 @@ msgstr ""
 
 msgctxt "162"
 msgid "キック"
-msgstr ""
+msgstr "Patada"
 
 msgctxt "163"
 msgid "自分を応援した"
@@ -692,11 +692,11 @@ msgstr ""
 
 msgctxt "169"
 msgid "パンチ"
-msgstr ""
+msgstr "Puñetazo"
 
 msgctxt "170"
 msgid "体当たり"
-msgstr ""
+msgstr "Placaje"
 
 msgctxt "171"
 msgid "火爆破を唱えた"
@@ -704,31 +704,31 @@ msgstr ""
 
 msgctxt "172"
 msgid "ロンメル"
-msgstr ""
+msgstr "Rommel"
 
 msgctxt "173"
 msgid "呪文を唱えた"
-msgstr ""
+msgstr "Conjuro"
 
 msgctxt "174"
 msgid "呪文を唱えた"
-msgstr ""
+msgstr "Conjuro"
 
 msgctxt "175"
 msgid "呪文を唱えた"
-msgstr ""
+msgstr "Conjuro"
 
 msgctxt "176"
 msgid "叫び男"
-msgstr ""
+msgstr "Hombre chillón"
 
 msgctxt "177"
 msgid "叫んだ"
-msgstr ""
+msgstr "Grito"
 
 msgctxt "178"
 msgid "噛付いてきた"
-msgstr ""
+msgstr "Mordisco"
 
 msgctxt "179"
 msgid "暗黒吐息を放つ"
@@ -772,15 +772,15 @@ msgstr ""
 
 msgctxt "189"
 msgid "噛付いてきた"
-msgstr ""
+msgstr "Mordisco"
 
 msgctxt "190"
 msgid "強い光を放った"
-msgstr ""
+msgstr "Deslumbramiento"
 
 msgctxt "191"
 msgid "強い光を放った"
-msgstr ""
+msgstr "Deslumbramiento"
 
 msgctxt "192"
 msgid "ちょーちん"
@@ -788,19 +788,19 @@ msgstr ""
 
 msgctxt "193"
 msgid "噛付いてきた"
-msgstr ""
+msgstr "Mordisco"
 
 msgctxt "194"
 msgid "強い光を放った"
-msgstr ""
+msgstr "Deslumbramiento"
 
 msgctxt "195"
 msgid "強い光を放った"
-msgstr ""
+msgstr "Deslumbramiento"
 
 msgctxt "196"
 msgid "ブラックハニー"
-msgstr ""
+msgstr "Hani negro"
 
 msgctxt "197"
 msgid "花火を振り回す"
@@ -808,11 +808,11 @@ msgstr ""
 
 msgctxt "198"
 msgid "ハニーフラッシュ"
-msgstr ""
+msgstr "Destello hani"
 
 msgctxt "199"
 msgid "パンチ"
-msgstr ""
+msgstr "Puñetazo"
 
 msgctxt "200"
 msgid "女殺し"
@@ -836,7 +836,7 @@ msgstr ""
 
 msgctxt "205"
 msgid "パンチ"
-msgstr ""
+msgstr "Puñetazo"
 
 msgctxt "206"
 msgid "頭突きをしてきた"
@@ -848,11 +848,11 @@ msgstr ""
 
 msgctxt "208"
 msgid "マーダー"
-msgstr ""
+msgstr "Marder"
 
 msgctxt "209"
 msgid "呪文を唱えた"
-msgstr ""
+msgstr "Conjuro"
 
 msgctxt "210"
 msgid "体当たりで攻撃"
@@ -860,7 +860,7 @@ msgstr ""
 
 msgctxt "211"
 msgid "呪文を唱えた"
-msgstr ""
+msgstr "Conjuro"
 
 msgctxt "212"
 msgid "プールポニー"
@@ -876,7 +876,7 @@ msgstr ""
 
 msgctxt "215"
 msgid "キック"
-msgstr ""
+msgstr "Patada"
 
 msgctxt "216"
 msgid "ワーＯＬ"
@@ -904,7 +904,7 @@ msgstr ""
 
 msgctxt "222"
 msgid "ハンマーで攻撃"
-msgstr ""
+msgstr "Martillazo"
 
 msgctxt "223"
 msgid "大放水"
@@ -920,7 +920,7 @@ msgstr ""
 
 msgctxt "226"
 msgid "ハンマーで攻撃"
-msgstr ""
+msgstr "Martillazo"
 
 msgctxt "227"
 msgid "大放水"
@@ -928,19 +928,19 @@ msgstr ""
 
 msgctxt "228"
 msgid "ゲーリング"
-msgstr ""
+msgstr "Göring"
 
 msgctxt "229"
 msgid "呪文を唱えた"
-msgstr ""
+msgstr "Conjuro"
 
 msgctxt "230"
 msgid "呪文を唱えた"
-msgstr ""
+msgstr "Conjuro"
 
 msgctxt "231"
 msgid "呪文を唱えた"
-msgstr ""
+msgstr "Conjuro"
 
 msgctxt "232"
 msgid "はっぴー"
@@ -976,19 +976,19 @@ msgstr ""
 
 msgctxt "240"
 msgid "ダブルハニー"
-msgstr ""
+msgstr "Hani doble"
 
 msgctxt "241"
 msgid "ダブルパンチ"
-msgstr ""
+msgstr "Puñetazo doble"
 
 msgctxt "242"
 msgid "ハニーフラッシュ"
-msgstr ""
+msgstr "Destello hani"
 
 msgctxt "243"
 msgid "トライデンで攻撃"
-msgstr ""
+msgstr "Ataque con tridente"
 
 msgctxt "244"
 msgid "海の幸"
@@ -996,11 +996,11 @@ msgstr ""
 
 msgctxt "245"
 msgid "必殺パンチ"
-msgstr ""
+msgstr "Puñetazo letal"
 
 msgctxt "246"
 msgid "必殺キック"
-msgstr ""
+msgstr "Patada letal"
 
 msgctxt "247"
 msgid "お魚スレイヤーで攻撃"
@@ -1012,11 +1012,11 @@ msgstr ""
 
 msgctxt "249"
 msgid "必殺パンチ"
-msgstr ""
+msgstr "Puñetazo letal"
 
 msgctxt "250"
 msgid "必殺キック"
-msgstr ""
+msgstr "Patada letal"
 
 msgctxt "251"
 msgid "爪で引っ掻いた"
@@ -1072,23 +1072,23 @@ msgstr ""
 
 msgctxt "264"
 msgid "クレッチマー"
-msgstr ""
+msgstr "Kretschmer"
 
 msgctxt "265"
 msgid "呪文を唱えた"
-msgstr ""
+msgstr "Conjuro"
 
 msgctxt "266"
 msgid "呪文を唱えた"
-msgstr ""
+msgstr "Conjuro"
 
 msgctxt "267"
 msgid "呪文を唱えた"
-msgstr ""
+msgstr "Conjuro"
 
 msgctxt "268"
 msgid "ドラゴンナイト"
-msgstr ""
+msgstr "Caballero dragón"
 
 msgctxt "269"
 msgid "剣で攻撃"
@@ -1096,11 +1096,11 @@ msgstr ""
 
 msgctxt "270"
 msgid "噛付いてきた"
-msgstr ""
+msgstr "Mordisco"
 
 msgctxt "271"
 msgid "火を吹いた"
-msgstr ""
+msgstr "Aliento ígneo"
 
 msgctxt "272"
 msgid "忍者"
@@ -1120,7 +1120,7 @@ msgstr ""
 
 msgctxt "276"
 msgid "アカメ"
-msgstr ""
+msgstr "Ojo carmesí"
 
 msgctxt "277"
 msgid "火爆破を唱えた"
@@ -1148,11 +1148,11 @@ msgstr ""
 
 msgctxt "283"
 msgid "キック"
-msgstr ""
+msgstr "Patada"
 
 msgctxt "284"
 msgid "ヘビさん"
-msgstr ""
+msgstr "Viperina"
 
 msgctxt "285"
 msgid "ヘビが噛付いた"
@@ -1160,7 +1160,7 @@ msgstr ""
 
 msgctxt "286"
 msgid "パンチ"
-msgstr ""
+msgstr "Puñetazo"
 
 msgctxt "287"
 msgid "ヘビが巻き付いた"
@@ -1200,7 +1200,7 @@ msgstr ""
 
 msgctxt "296"
 msgid "アノマロカリス"
-msgstr ""
+msgstr "Anomalocaris"
 
 msgctxt "297"
 msgid "前歯で噛んだ"
@@ -1220,11 +1220,11 @@ msgstr ""
 
 msgctxt "301"
 msgid "パンチ"
-msgstr ""
+msgstr "Puñetazo"
 
 msgctxt "302"
 msgid "キック"
-msgstr ""
+msgstr "Patada"
 
 msgctxt "303"
 msgid "奥義を繰り出した"
@@ -1236,11 +1236,11 @@ msgstr ""
 
 msgctxt "305"
 msgid "パンチ"
-msgstr ""
+msgstr "Puñetazo"
 
 msgctxt "306"
 msgid "キック"
-msgstr ""
+msgstr "Patada"
 
 msgctxt "307"
 msgid "チョップ"
@@ -1248,11 +1248,11 @@ msgstr ""
 
 msgctxt "308"
 msgid "ストーンゴーレム"
-msgstr ""
+msgstr "Gólem pétreo"
 
 msgctxt "309"
 msgid "パンチ"
-msgstr ""
+msgstr "Puñetazo"
 
 msgctxt "310"
 msgid "踏みつけてきた"
@@ -1264,7 +1264,7 @@ msgstr ""
 
 msgctxt "312"
 msgid "微笑み男"
-msgstr ""
+msgstr "Hombre risueño"
 
 msgctxt "313"
 msgid "微笑んだ"
@@ -1280,15 +1280,15 @@ msgstr ""
 
 msgctxt "316"
 msgid "ハニーナイト"
-msgstr ""
+msgstr "Caballero Hani"
 
 msgctxt "317"
 msgid "ハルバーで攻撃"
-msgstr ""
+msgstr "Ataque con alabarda"
 
 msgctxt "318"
 msgid "ハニーフラッシュ"
-msgstr ""
+msgstr "Destello hani"
 
 msgctxt "319"
 msgid "盾をかまえた"
@@ -1296,39 +1296,39 @@ msgstr ""
 
 msgctxt "320"
 msgid "ガーランド"
-msgstr ""
+msgstr "Galland"
 
 msgctxt "321"
 msgid "呪文を唱えた"
-msgstr ""
+msgstr "Conjuro"
 
 msgctxt "322"
 msgid "呪文を唱えた"
-msgstr ""
+msgstr "Conjuro"
 
 msgctxt "323"
 msgid "呪文を唱えた"
-msgstr ""
+msgstr "Conjuro"
 
 msgctxt "324"
 msgid "ナースホルン"
-msgstr ""
+msgstr "Nashorn"
 
 msgctxt "325"
 msgid "呪文を唱えた"
-msgstr ""
+msgstr "Conjuro"
 
 msgctxt "326"
 msgid "体当たり"
-msgstr ""
+msgstr "Placaje"
 
 msgctxt "327"
 msgid "呪文を唱えた"
-msgstr ""
+msgstr "Conjuro"
 
 msgctxt "328"
 msgid "赤忍者"
-msgstr ""
+msgstr "Ninja rojo"
 
 msgctxt "329"
 msgid "くないで攻撃"
@@ -1384,7 +1384,7 @@ msgstr ""
 
 msgctxt "342"
 msgid "キック"
-msgstr ""
+msgstr "Patada"
 
 msgctxt "343"
 msgid "後ろを向いた"
@@ -1408,7 +1408,7 @@ msgstr ""
 
 msgctxt "348"
 msgid "ハミング"
-msgstr ""
+msgstr "Tarareadoras"
 
 msgctxt "349"
 msgid "歌を歌い始めた"
@@ -1456,7 +1456,7 @@ msgstr ""
 
 msgctxt "360"
 msgid "神風"
-msgstr ""
+msgstr "Kamikaze"
 
 msgctxt "361"
 msgid "矢を射った"
@@ -1684,7 +1684,7 @@ msgstr ""
 
 msgctxt "417"
 msgid "噛付いてきた"
-msgstr ""
+msgstr "Mordisco"
 
 msgctxt "418"
 msgid "飛び掛かってきた"
@@ -1692,7 +1692,7 @@ msgstr ""
 
 msgctxt "419"
 msgid "体当たり"
-msgstr ""
+msgstr "Placaje"
 
 msgctxt "420"
 msgid "サル"
@@ -1704,11 +1704,11 @@ msgstr ""
 
 msgctxt "422"
 msgid "噛付いてきた"
-msgstr ""
+msgstr "Mordisco"
 
 msgctxt "423"
 msgid "体当たり"
-msgstr ""
+msgstr "Placaje"
 
 msgctxt "424"
 msgid "キジ"
