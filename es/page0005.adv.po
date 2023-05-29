@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Otome Senki\n"
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
-"PO-Revision-Date: 2023-05-29 16:53+0000\n"
+"PO-Revision-Date: 2023-05-29 18:04+0000\n"
 "Last-Translator: wu <wu.oudeis@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0005adv/es/>\n"
@@ -96,7 +96,7 @@ msgstr "Jugueteo"
 
 msgctxt "20"
 msgid "ラルカット"
-msgstr ""
+msgstr "Ralcut"
 
 msgctxt "21"
 msgid "チョップ"
@@ -108,7 +108,7 @@ msgstr "Patada"
 
 msgctxt "23"
 msgid "引っ掻き攻撃"
-msgstr ""
+msgstr "Arañazo"
 
 msgctxt "24"
 msgid "やもりん"
@@ -120,11 +120,11 @@ msgstr "Patada"
 
 msgctxt "26"
 msgid "５０連キック"
-msgstr ""
+msgstr "Cincuenta patadas"
 
 msgctxt "27"
 msgid "１００連キック"
-msgstr ""
+msgstr "Cien patadas"
 
 msgctxt "28"
 msgid "マジ・スコ"
@@ -132,7 +132,7 @@ msgstr "Magacrán"
 
 msgctxt "29"
 msgid "炎の矢を放った"
-msgstr ""
+msgstr "Flecha de fuego"
 
 msgctxt "30"
 msgid "パンチ"
@@ -176,7 +176,7 @@ msgstr "Ataque con tridente"
 
 msgctxt "40"
 msgid "るろんた"
-msgstr ""
+msgstr "Ruronta"
 
 msgctxt "41"
 msgid "パンチ"
@@ -184,71 +184,71 @@ msgstr "Puñetazo"
 
 msgctxt "42"
 msgid "抱き付いてきた"
-msgstr ""
+msgstr "Abrazo"
 
 msgctxt "43"
 msgid "体当たり"
-msgstr ""
+msgstr "Placaje"
 
 msgctxt "44"
 msgid "ちゃつみ"
-msgstr ""
+msgstr "Cosecha de té"
 
 msgctxt "45"
 msgid "抱きついてきた"
-msgstr ""
+msgstr "Abrazo"
 
 msgctxt "46"
 msgid "でんぐりがえり"
-msgstr ""
+msgstr "Voltereta"
 
 msgctxt "47"
 msgid "でんぐりだっこ"
-msgstr ""
+msgstr "Abrazo invertido"
 
 msgctxt "48"
 msgid "めいどさん"
-msgstr ""
+msgstr "Sirvienta"
 
 msgctxt "49"
 msgid "はたきで攻撃"
-msgstr ""
+msgstr "Escobazo"
 
 msgctxt "50"
 msgid "ビンタ"
-msgstr ""
+msgstr "Bofetón"
 
 msgctxt "51"
 msgid "料理爆弾を投げた"
-msgstr ""
+msgstr "Comida explosiva"
 
 msgctxt "52"
 msgid "おかし女"
-msgstr ""
+msgstr "Repostera"
 
 msgctxt "53"
 msgid "お菓子を投げた"
-msgstr ""
+msgstr "Lanzamiento de caramelo"
 
 msgctxt "54"
 msgid "お菓子を食べた"
-msgstr ""
+msgstr "Cata de chuches"
 
 msgctxt "55"
 msgid "小麦粉をばらまいた"
-msgstr ""
+msgstr "Harina"
 
 msgctxt "56"
 msgid "うし使い"
-msgstr ""
+msgstr "Pastor bovino"
 
 msgctxt "57"
 msgid "剣で攻撃"
-msgstr ""
+msgstr "Tajo"
 
 msgctxt "58"
 msgid "うしを突進させた"
-msgstr ""
+msgstr "Embestida"
 
 msgctxt "59"
 msgid "うしを抱きしめた"
