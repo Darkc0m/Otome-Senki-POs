@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Otome Senki\n"
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
-"PO-Revision-Date: 2023-05-30 12:13+0000\n"
-"Last-Translator: darkc0m <alex011298@gmail.com>\n"
+"PO-Revision-Date: 2023-06-01 10:15+0000\n"
+"Last-Translator: wu <wu.oudeis@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0005adv/es/>\n"
 "Language: es\n"
@@ -644,7 +644,7 @@ msgstr "Animadora lobo"
 
 msgctxt "157"
 msgid "ポンポンでパンチ"
-msgstr ""
+msgstr "Golpe pompón"
 
 msgctxt "158"
 msgid "キック"
@@ -652,15 +652,15 @@ msgstr "Patada"
 
 msgctxt "159"
 msgid "自分を応援した"
-msgstr ""
+msgstr "Apoyo"
 
 msgctxt "160"
 msgid "ワーチアガール"
-msgstr ""
+msgstr "Animadora lobo"
 
 msgctxt "161"
 msgid "ポンポンでパンチ"
-msgstr ""
+msgstr "Golpe pompón"
 
 msgctxt "162"
 msgid "キック"
@@ -668,7 +668,7 @@ msgstr "Patada"
 
 msgctxt "163"
 msgid "自分を応援した"
-msgstr ""
+msgstr "Apoyo"
 
 msgctxt "164"
 msgid "こんばんわ"
@@ -688,7 +688,7 @@ msgstr "Puñetazo"
 
 msgctxt "168"
 msgid "マーシュ"
-msgstr ""
+msgstr "Musculoso"
 
 msgctxt "169"
 msgid "パンチ"
@@ -700,7 +700,7 @@ msgstr "Placaje"
 
 msgctxt "171"
 msgid "火爆破を唱えた"
-msgstr ""
+msgstr "Explosión mágica"
 
 msgctxt "172"
 msgid "ロンメル"
@@ -732,43 +732,43 @@ msgstr "Mordisco"
 
 msgctxt "179"
 msgid "暗黒吐息を放つ"
-msgstr ""
+msgstr "Aliento oscuro"
 
 msgctxt "180"
 msgid "スモッグシルフ"
-msgstr ""
+msgstr "Sílfide de la bruma"
 
 msgctxt "181"
 msgid "冷たい手で触った"
-msgstr ""
+msgstr "Mano helada"
 
 msgctxt "182"
 msgid "暗黒吐息を放つ"
-msgstr ""
+msgstr "Aliento oscuro"
 
 msgctxt "183"
 msgid "超暗黒吐息を放つ"
-msgstr ""
+msgstr "Superaliento oscuro"
 
 msgctxt "184"
 msgid "フローズン"
-msgstr ""
+msgstr "Gélida"
 
 msgctxt "185"
 msgid "冷たい手で触った"
-msgstr ""
+msgstr "Mano helada"
 
 msgctxt "186"
 msgid "氷雪吹雪を唱えた"
-msgstr ""
+msgstr "Ventisca"
 
 msgctxt "187"
 msgid "スノーレーザーを放つ"
-msgstr ""
+msgstr "Láser níveo"
 
 msgctxt "188"
 msgid "ちょ～ちん"
-msgstr ""
+msgstr "Chica linterna"
 
 msgctxt "189"
 msgid "噛付いてきた"
@@ -784,7 +784,7 @@ msgstr "Deslumbramiento"
 
 msgctxt "192"
 msgid "ちょーちん"
-msgstr ""
+msgstr "Chica lámpara"
 
 msgctxt "193"
 msgid "噛付いてきた"
@@ -804,7 +804,7 @@ msgstr "Hani negro"
 
 msgctxt "197"
 msgid "花火を振り回す"
-msgstr ""
+msgstr "Fuegos artificiales"
 
 msgctxt "198"
 msgid "ハニーフラッシュ"
@@ -816,23 +816,23 @@ msgstr "Puñetazo"
 
 msgctxt "200"
 msgid "女殺し"
-msgstr ""
+msgstr "Feminicida"
 
 msgctxt "201"
 msgid "包丁を振り回す"
-msgstr ""
+msgstr "Cuchillada"
 
 msgctxt "202"
 msgid "包丁を振りかざす"
-msgstr ""
+msgstr "Amenaza"
 
 msgctxt "203"
 msgid "包丁をなめた"
-msgstr ""
+msgstr "Lamida de cuchillo"
 
 msgctxt "204"
 msgid "おかゆフィーバー"
-msgstr ""
+msgstr "Okayu febril"
 
 msgctxt "205"
 msgid "パンチ"
@@ -840,11 +840,11 @@ msgstr "Puñetazo"
 
 msgctxt "206"
 msgid "頭突きをしてきた"
-msgstr ""
+msgstr "Cabezazo"
 
 msgctxt "207"
 msgid "おかゆダンス"
-msgstr ""
+msgstr "Danza Okayu"
 
 msgctxt "208"
 msgid "マーダー"
@@ -856,7 +856,7 @@ msgstr "Conjuro"
 
 msgctxt "210"
 msgid "体当たりで攻撃"
-msgstr ""
+msgstr "Placaje"
 
 msgctxt "211"
 msgid "呪文を唱えた"
@@ -864,15 +864,15 @@ msgstr "Conjuro"
 
 msgctxt "212"
 msgid "プールポニー"
-msgstr ""
+msgstr "Poni acuática"
 
 msgctxt "213"
 msgid "引っ掻いた"
-msgstr ""
+msgstr "Arañazo"
 
 msgctxt "214"
 msgid "噛付いた"
-msgstr ""
+msgstr "Mordisco"
 
 msgctxt "215"
 msgid "キック"
@@ -880,19 +880,19 @@ msgstr "Patada"
 
 msgctxt "216"
 msgid "ワーＯＬ"
-msgstr ""
+msgstr "Secretaria lobo"
 
 msgctxt "217"
 msgid "パンプスでキック"
-msgstr ""
+msgstr "Taconazo"
 
 msgctxt "218"
 msgid "書類の角で攻撃"
-msgstr ""
+msgstr "Papeleo"
 
 msgctxt "219"
 msgid "ボールペンを投げた"
-msgstr ""
+msgstr "Tiro de bolígrafo"
 
 msgctxt "220"
 msgid "ワー消防士"
@@ -944,7 +944,7 @@ msgstr "Conjuro"
 
 msgctxt "232"
 msgid "はっぴー"
-msgstr ""
+msgstr "Happii"
 
 msgctxt "233"
 msgid "噛付いた"
@@ -952,27 +952,27 @@ msgstr ""
 
 msgctxt "234"
 msgid "冷たい息を吐いた"
-msgstr ""
+msgstr "Aliento gélido"
 
 msgctxt "235"
 msgid "冷凍光線を発した"
-msgstr ""
+msgstr "Rayo hielo"
 
 msgctxt "236"
 msgid "くらげＭｋ２"
-msgstr ""
+msgstr "Medusa Mk2"
 
 msgctxt "237"
 msgid "足をふりまわした"
-msgstr ""
+msgstr "Latigazo tentáculo"
 
 msgctxt "238"
 msgid "ふわふわと体当り"
-msgstr ""
+msgstr "Placaje flotante"
 
 msgctxt "239"
 msgid "放電した"
-msgstr ""
+msgstr "Descarga"
 
 msgctxt "240"
 msgid "ダブルハニー"
@@ -992,7 +992,7 @@ msgstr "Ataque con tridente"
 
 msgctxt "244"
 msgid "海の幸"
-msgstr ""
+msgstr "Marina"
 
 msgctxt "245"
 msgid "必殺パンチ"
@@ -1004,11 +1004,11 @@ msgstr "Patada letal"
 
 msgctxt "247"
 msgid "お魚スレイヤーで攻撃"
-msgstr ""
+msgstr "Pez aniquilador"
 
 msgctxt "248"
 msgid "山の幸"
-msgstr ""
+msgstr "Montserrat"
 
 msgctxt "249"
 msgid "必殺パンチ"
@@ -1020,7 +1020,7 @@ msgstr "Patada letal"
 
 msgctxt "251"
 msgid "爪で引っ掻いた"
-msgstr ""
+msgstr "Arañazo"
 
 msgctxt "252"
 msgid "キャプテンばにら"
@@ -1028,47 +1028,47 @@ msgstr ""
 
 msgctxt "253"
 msgid "まぐろアッパー"
-msgstr ""
+msgstr "Gancho atunero"
 
 msgctxt "254"
 msgid "ヒーリングを唱えた"
-msgstr ""
+msgstr "Curación"
 
 msgctxt "255"
 msgid "海賊シップを放った"
-msgstr ""
+msgstr "Barco pirata"
 
 msgctxt "256"
 msgid "勇者"
-msgstr ""
+msgstr "Héroe"
 
 msgctxt "257"
 msgid "あわてている"
-msgstr ""
+msgstr "Nerviosismo"
 
 msgctxt "258"
 msgid "あわてている"
-msgstr ""
+msgstr "Nerviosismo"
 
 msgctxt "259"
 msgid "あわてている"
-msgstr ""
+msgstr "Nerviosismo"
 
 msgctxt "260"
 msgid "キューニチョーキ"
-msgstr ""
+msgstr "Kyūnichōki"
 
 msgctxt "261"
 msgid "プロペラではたく"
-msgstr ""
+msgstr "Embiste propulsado"
 
 msgctxt "262"
 msgid "前足ではたく"
-msgstr ""
+msgstr "Golpetazo"
 
 msgctxt "263"
 msgid "横をすり抜けた"
-msgstr ""
+msgstr "Huida"
 
 msgctxt "264"
 msgid "クレッチマー"
@@ -1092,7 +1092,7 @@ msgstr "Caballero dragón"
 
 msgctxt "269"
 msgid "剣で攻撃"
-msgstr ""
+msgstr "Espadazo"
 
 msgctxt "270"
 msgid "噛付いてきた"
@@ -1108,15 +1108,15 @@ msgstr "Ninja"
 
 msgctxt "273"
 msgid "忍者刀を振るう"
-msgstr ""
+msgstr "Katanazo"
 
 msgctxt "274"
 msgid "手裏剣を放つ"
-msgstr ""
+msgstr "Shuriken"
 
 msgctxt "275"
 msgid "火遁の術"
-msgstr ""
+msgstr "Técnica de fuego"
 
 msgctxt "276"
 msgid "アカメ"
@@ -1124,23 +1124,23 @@ msgstr "Ojo carmesí"
 
 msgctxt "277"
 msgid "火爆破を唱えた"
-msgstr ""
+msgstr "Explosión mágica"
 
 msgctxt "278"
 msgid "雷撃を放つ"
-msgstr ""
+msgstr "Rayo"
 
 msgctxt "279"
 msgid "炎の矢を撃った"
-msgstr ""
+msgstr "Flecha de fuego"
 
 msgctxt "280"
 msgid "ねこまたまた"
-msgstr ""
+msgstr "Gatamata"
 
 msgctxt "281"
 msgid "引っ掻いた"
-msgstr ""
+msgstr "Arañazo"
 
 msgctxt "282"
 msgid "噛付いた"
@@ -1156,7 +1156,7 @@ msgstr "Viperina"
 
 msgctxt "285"
 msgid "ヘビが噛付いた"
-msgstr ""
+msgstr "Mordedura"
 
 msgctxt "286"
 msgid "パンチ"
@@ -1164,7 +1164,7 @@ msgstr "Puñetazo"
 
 msgctxt "287"
 msgid "ヘビが巻き付いた"
-msgstr ""
+msgstr "Constricción"
 
 msgctxt "288"
 msgid "ワーボクサー"
@@ -1176,19 +1176,19 @@ msgstr ""
 
 msgctxt "290"
 msgid "ストレートを放った"
-msgstr ""
+msgstr "Golpe directo"
 
 msgctxt "291"
 msgid "力石アッパー！"
-msgstr ""
+msgstr "Gancho alto"
 
 msgctxt "292"
 msgid "ユリイカ"
-msgstr ""
+msgstr "Lirio"
 
 msgctxt "293"
 msgid "歩き出した"
-msgstr ""
+msgstr "Paseo"
 
 msgctxt "294"
 msgid "動かない・・・"
@@ -1196,7 +1196,7 @@ msgstr ""
 
 msgctxt "295"
 msgid "光合成を始めた"
-msgstr ""
+msgstr "Fotosíntesis"
 
 msgctxt "296"
 msgid "アノマロカリス"
@@ -1204,7 +1204,7 @@ msgstr "Anomalocaris"
 
 msgctxt "297"
 msgid "前歯で噛んだ"
-msgstr ""
+msgstr "Mordisco"
 
 msgctxt "298"
 msgid "三葉虫を捕まえた"
@@ -1756,4 +1756,4 @@ msgstr ""
 
 msgctxt "435"
 msgid "デバッグレーザー"
-msgstr ""
+msgstr "Láser depurador"
