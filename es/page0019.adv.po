@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Otome Senki\n"
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
-"PO-Revision-Date: 2023-05-25 18:30+0000\n"
-"Last-Translator: wu <wu.oudeis@gmail.com>\n"
+"PO-Revision-Date: 2023-06-01 10:15+0000\n"
+"Last-Translator: darkc0m <alex011298@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0019adv/es/>\n"
 "Language: es\n"
@@ -168,11 +168,11 @@ msgstr ""
 
 msgctxt "38"
 msgid "買わない"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "39"
 msgid "買う"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "40"
 msgid "バラタック「ほんま、おおきに。ありがとさん。"
@@ -408,55 +408,57 @@ msgstr ""
 
 msgctxt "98"
 msgid "カタナ"
-msgstr ""
+msgstr "Katana"
 
 msgctxt "99"
 msgid "日本刀 丙"
-msgstr ""
+msgstr "Hinoe"
 
 msgctxt "100"
 msgid "なぎなた"
-msgstr ""
+msgstr "Naginata"
 
 msgctxt "101"
 msgid "イナズマの剣"
-msgstr ""
+msgstr "Espada relámpago"
 
 msgctxt "102"
 msgid "日本刀 乙"
-msgstr ""
+msgstr "Kinoto"
 
 msgctxt "103"
 msgid "氷の鈴"
-msgstr ""
+msgstr "Cascabel gélido"
 
+#, fuzzy
 msgctxt "104"
 msgid "ガラスの鈴"
-msgstr ""
+msgstr "Cascabel cristalino"
 
 msgctxt "105"
 msgid "カタナ"
-msgstr ""
+msgstr "Katana"
 
 msgctxt "106"
 msgid "日本刀 丙"
-msgstr ""
+msgstr "Hinoe"
 
 msgctxt "107"
 msgid "風の忍刀"
-msgstr ""
+msgstr "Ninjatō etérea"
 
 msgctxt "108"
 msgid "くまさんの爪"
-msgstr ""
+msgstr "Garras de oso"
 
 msgctxt "109"
 msgid "力の杖"
-msgstr ""
+msgstr "Bastón de poder"
 
+#, fuzzy
 msgctxt "110"
 msgid "知恵の杖"
-msgstr ""
+msgstr "Bastón de sabiduría"
 
 msgctxt "111"
 msgid "戻る"
@@ -464,63 +466,66 @@ msgstr ""
 
 msgctxt "112"
 msgid "イナズマの剣"
-msgstr ""
+msgstr "Espada relámpago"
 
 msgctxt "113"
 msgid "日本刀 乙"
-msgstr ""
+msgstr "Kinoto"
 
 msgctxt "114"
 msgid "柴田刀"
-msgstr ""
+msgstr "Shibata"
 
 msgctxt "115"
 msgid "くじら殺し"
-msgstr ""
+msgstr "Mataballenas"
 
 msgctxt "116"
 msgid "Ｄ・スレイヤー"
-msgstr ""
+msgstr "Matadragones"
 
 msgctxt "117"
 msgid "氷の鈴"
-msgstr ""
+msgstr "Cascabel gélido"
 
+#, fuzzy
 msgctxt "118"
 msgid "ガラスの鈴"
-msgstr ""
+msgstr "Cascabel cristalino"
 
 msgctxt "119"
 msgid "鉛の鈴"
-msgstr ""
+msgstr "Cascabel de plomo"
 
+#, fuzzy
 msgctxt "120"
 msgid "白金の鈴"
-msgstr ""
+msgstr "Cascabel de platino"
 
 msgctxt "121"
 msgid "日本刀 丙"
-msgstr ""
+msgstr "Hinoe"
 
 msgctxt "122"
 msgid "風の忍刀"
-msgstr ""
+msgstr "Ninjatō etérea"
 
 msgctxt "123"
 msgid "くまさんの爪"
-msgstr ""
+msgstr "Garras de oso"
 
 msgctxt "124"
 msgid "ムチ"
-msgstr ""
+msgstr "Látigo"
 
 msgctxt "125"
 msgid "力の杖"
-msgstr ""
+msgstr "Bastón de poder"
 
+#, fuzzy
 msgctxt "126"
 msgid "知恵の杖"
-msgstr ""
+msgstr "Bastón de sabiduría"
 
 msgctxt "127"
 msgid "戻る"
@@ -532,123 +537,130 @@ msgstr ""
 
 msgctxt "129"
 msgid "鉄かぶと"
-msgstr ""
+msgstr "Yelmo de hierro"
 
+#, fuzzy
 msgctxt "130"
 msgid "武者の鎧"
-msgstr ""
+msgstr "Armadura de guerrero"
 
 msgctxt "131"
 msgid "２２年式鎧"
-msgstr ""
+msgstr "Armadura Murata"
 
 msgctxt "132"
 msgid "すねあて"
-msgstr ""
+msgstr "Espinilleras"
 
 msgctxt "133"
 msgid "手袋"
-msgstr ""
+msgstr "Guantes"
 
 msgctxt "134"
 msgid "面"
-msgstr ""
+msgstr "Máscara"
 
+#, fuzzy
 msgctxt "135"
 msgid "山菜ハット"
-msgstr ""
+msgstr "Sombrero de hierbas"
 
+#, fuzzy
 msgctxt "136"
 msgid "カチカチ洋服"
-msgstr ""
+msgstr "Ropa occidental rígida"
 
 msgctxt "137"
 msgid "すねあて"
-msgstr ""
+msgstr "Espinilleras"
 
 msgctxt "138"
 msgid "手袋"
-msgstr ""
+msgstr "Guantes"
 
 msgctxt "139"
 msgid "はちまき"
-msgstr ""
+msgstr "Bandana"
 
 msgctxt "140"
 msgid "面"
-msgstr ""
+msgstr "Máscara"
 
+#, fuzzy
 msgctxt "141"
 msgid "カチカチ洋服"
-msgstr ""
+msgstr "Ropa occidental rígida"
 
 msgctxt "142"
 msgid "毛皮のくつ"
-msgstr ""
+msgstr "Zapatos de cuero"
 
 msgctxt "143"
 msgid "手袋"
-msgstr ""
+msgstr "Guantes"
 
 msgctxt "144"
 msgid "面"
-msgstr ""
+msgstr "Máscara"
 
+#, fuzzy
 msgctxt "145"
 msgid "カチカチ洋服"
-msgstr ""
+msgstr "Ropa occidental rígida"
 
 msgctxt "146"
 msgid "忍者服"
-msgstr ""
+msgstr "Traje ninja"
 
 msgctxt "147"
 msgid "すねあて"
-msgstr ""
+msgstr "Espinilleras"
 
 msgctxt "148"
 msgid "手袋"
-msgstr ""
+msgstr "Guantes"
 
 msgctxt "149"
 msgid "はちまき"
-msgstr ""
+msgstr "Bandana"
 
 msgctxt "150"
 msgid "面"
-msgstr ""
+msgstr "Máscara"
 
+#, fuzzy
 msgctxt "151"
 msgid "カチカチ洋服"
-msgstr ""
+msgstr "Ropa occidental rígida"
 
 msgctxt "152"
 msgid "毛皮のくつ"
-msgstr ""
+msgstr "Zapatos de cuero"
 
 msgctxt "153"
 msgid "手袋"
-msgstr ""
+msgstr "Guantes"
 
 msgctxt "154"
 msgid "はちまき"
-msgstr ""
+msgstr "Bandana"
 
 msgctxt "155"
 msgid "面"
-msgstr ""
+msgstr "Máscara"
 
+#, fuzzy
 msgctxt "156"
 msgid "カチカチ洋服"
-msgstr ""
+msgstr "Ropa occidental rígida"
 
 msgctxt "157"
 msgid "毛皮のくつ"
-msgstr ""
+msgstr "Zapatos de cuero"
 
 msgctxt "158"
 msgid "手袋"
-msgstr ""
+msgstr "Guantes"
 
 msgctxt "159"
 msgid "戻る"
@@ -656,143 +668,156 @@ msgstr ""
 
 msgctxt "160"
 msgid "鉄かぶと"
-msgstr ""
+msgstr "Yelmo de hierro"
 
 msgctxt "161"
 msgid "２２年式鎧"
-msgstr ""
+msgstr "Armadura Murata"
 
 msgctxt "162"
 msgid "すねあて"
-msgstr ""
+msgstr "Espinilleras"
 
+#, fuzzy
 msgctxt "163"
 msgid "寅一"
-msgstr ""
+msgstr "Sandalias atigradas"
 
 msgctxt "164"
 msgid "小手"
-msgstr ""
+msgstr "Guanteletes"
 
 msgctxt "165"
 msgid "鉄かぶと"
-msgstr ""
+msgstr "Yelmo de hierro"
 
 msgctxt "166"
 msgid "雅修の兜"
-msgstr ""
+msgstr "Yelmo elegante"
 
 msgctxt "167"
 msgid "２２年式鎧"
-msgstr ""
+msgstr "Armadura Murata"
 
 msgctxt "168"
 msgid "すねあて"
-msgstr ""
+msgstr "Espinilleras"
 
 msgctxt "169"
 msgid "小手"
 msgstr "Guanteletes"
 
+#, fuzzy
 msgctxt "170"
 msgid "山菜ハット"
-msgstr ""
+msgstr "Sombrero de hierbas"
 
+#, fuzzy
 msgctxt "171"
 msgid "カチカチ洋服"
-msgstr ""
+msgstr "Ropa occidental rígida"
 
+#, fuzzy
 msgctxt "172"
 msgid "高級柔道着"
-msgstr ""
+msgstr "Judogi de alta calidad"
 
 msgctxt "173"
 msgid "すねあて"
-msgstr ""
+msgstr "Espinilleras"
 
+#, fuzzy
 msgctxt "174"
 msgid "パールの腕輪"
-msgstr ""
+msgstr "Brazalete de perlas"
 
 msgctxt "175"
 msgid "リボン"
-msgstr ""
+msgstr "Lazo"
 
+#, fuzzy
 msgctxt "176"
 msgid "カチカチ洋服"
-msgstr ""
+msgstr "Ropa occidental rígida"
 
 msgctxt "177"
 msgid "毛皮のくつ"
-msgstr ""
+msgstr "Zapatos de cuero"
 
 msgctxt "178"
 msgid "かんじき"
-msgstr ""
+msgstr "Raquetas de nieve"
 
+#, fuzzy
 msgctxt "179"
 msgid "パールの腕輪"
-msgstr ""
+msgstr "Brazalete de perlas"
 
 msgctxt "180"
 msgid "金のかんざし"
-msgstr ""
+msgstr "Pasador de oro"
 
 msgctxt "181"
 msgid "忍者服"
-msgstr ""
+msgstr "Traje ninja"
 
 msgctxt "182"
 msgid "黒装束"
-msgstr ""
+msgstr "Ropajes negros"
 
 msgctxt "183"
 msgid "すねあて"
-msgstr ""
+msgstr "Espinilleras"
 
+#, fuzzy
 msgctxt "184"
 msgid "パールの腕輪"
-msgstr ""
+msgstr "Brazalete de perlas"
 
 msgctxt "185"
 msgid "ベレー帽"
-msgstr ""
+msgstr "Boina"
 
+#, fuzzy
 msgctxt "186"
 msgid "カチカチ洋服"
-msgstr ""
+msgstr "Ropa occidental rígida"
 
 msgctxt "187"
 msgid "毛皮のくつ"
-msgstr ""
+msgstr "Zapatos de cuero"
 
 msgctxt "188"
 msgid "一本ゲタ"
-msgstr ""
+msgstr "Zancos"
 
+#, fuzzy
 msgctxt "189"
 msgid "パールの腕輪"
-msgstr ""
+msgstr "Brazalete de perlas"
 
+#, fuzzy
 msgctxt "190"
 msgid "山菜ハット"
-msgstr ""
+msgstr "Sombrero de hierbas"
 
+#, fuzzy
 msgctxt "191"
 msgid "カチカチ洋服"
-msgstr ""
+msgstr "Ropa occidental rígida"
 
 msgctxt "192"
 msgid "スーパースター"
-msgstr ""
+msgstr "Superestrella"
 
 msgctxt "193"
 msgid "毛皮のくつ"
-msgstr ""
+msgstr "Zapatos de cuero"
 
+#, fuzzy
 msgctxt "194"
 msgid "パールの腕輪"
-msgstr ""
+msgstr "Brazalete de perlas"
 
 msgctxt "195"
 msgid "戻る"
@@ -968,11 +993,11 @@ msgstr ""
 
 msgctxt "238"
 msgid "買わない"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "239"
 msgid "買う"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "240"
 msgid "メイドさん「お買い上げ、本当にありがとうございます。"
