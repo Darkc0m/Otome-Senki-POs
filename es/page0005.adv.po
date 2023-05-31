@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
 "PO-Revision-Date: 2023-06-01 10:15+0000\n"
-"Last-Translator: wu <wu.oudeis@gmail.com>\n"
+"Last-Translator: darkc0m <alex011298@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0005adv/es/>\n"
 "Language: es\n"
@@ -624,7 +624,7 @@ msgstr "Puñetazo doble"
 
 msgctxt "152"
 msgid "とっこーちゃん"
-msgstr "Suicida"
+msgstr "Temeraria"
 
 msgctxt "153"
 msgid "ナギナタで突いてきた"
@@ -896,11 +896,11 @@ msgstr "Tiro de bolígrafo"
 
 msgctxt "220"
 msgid "ワー消防士"
-msgstr ""
+msgstr "Bombera lobo"
 
 msgctxt "221"
 msgid "放水攻撃"
-msgstr ""
+msgstr "Manguerazo"
 
 msgctxt "222"
 msgid "ハンマーで攻撃"
@@ -908,15 +908,15 @@ msgstr "Martillazo"
 
 msgctxt "223"
 msgid "大放水"
-msgstr ""
+msgstr "Gran manguerazo"
 
 msgctxt "224"
 msgid "ワー消防士"
-msgstr ""
+msgstr "Bombera lobo"
 
 msgctxt "225"
 msgid "放水攻撃"
-msgstr ""
+msgstr "Manguerazo"
 
 msgctxt "226"
 msgid "ハンマーで攻撃"
@@ -924,7 +924,7 @@ msgstr "Martillazo"
 
 msgctxt "227"
 msgid "大放水"
-msgstr ""
+msgstr "Gran manguerazo"
 
 msgctxt "228"
 msgid "ゲーリング"
@@ -948,7 +948,7 @@ msgstr "Happii"
 
 msgctxt "233"
 msgid "噛付いた"
-msgstr ""
+msgstr "Mordisco"
 
 msgctxt "234"
 msgid "冷たい息を吐いた"
@@ -1024,7 +1024,7 @@ msgstr "Arañazo"
 
 msgctxt "252"
 msgid "キャプテンばにら"
-msgstr ""
+msgstr "Capitana Vainilla"
 
 msgctxt "253"
 msgid "まぐろアッパー"
@@ -1144,7 +1144,7 @@ msgstr "Arañazo"
 
 msgctxt "282"
 msgid "噛付いた"
-msgstr ""
+msgstr "Mordisco"
 
 msgctxt "283"
 msgid "キック"
@@ -1168,11 +1168,11 @@ msgstr "Constricción"
 
 msgctxt "288"
 msgid "ワーボクサー"
-msgstr ""
+msgstr "Boxeadora lobo"
 
 msgctxt "289"
 msgid "ジャブで牽制"
-msgstr ""
+msgstr "Jab"
 
 msgctxt "290"
 msgid "ストレートを放った"
@@ -1244,7 +1244,7 @@ msgstr "Patada"
 
 msgctxt "307"
 msgid "チョップ"
-msgstr ""
+msgstr "Manotazo"
 
 msgctxt "308"
 msgid "ストーンゴーレム"
@@ -1424,11 +1424,11 @@ msgstr ""
 
 msgctxt "352"
 msgid "ワー花嫁"
-msgstr ""
+msgstr "Novia lobo"
 
 msgctxt "353"
 msgid "ブーケで攻撃"
-msgstr ""
+msgstr "Ataque con ramo"
 
 msgctxt "354"
 msgid "ひっぱたいてきた"
@@ -1460,15 +1460,15 @@ msgstr "Kamikaze"
 
 msgctxt "361"
 msgid "矢を射った"
-msgstr ""
+msgstr "Flechazo"
 
 msgctxt "362"
 msgid "闇の矢を射った"
-msgstr ""
+msgstr "Flechazo oscuro"
 
 msgctxt "363"
 msgid "光の矢を射った"
-msgstr ""
+msgstr "Flechazo de luz"
 
 msgctxt "364"
 msgid "ちゃぷちゃぷ"
@@ -1488,7 +1488,7 @@ msgstr ""
 
 msgctxt "368"
 msgid "ヨシツネ"
-msgstr ""
+msgstr "Yoshitsune"
 
 msgctxt "369"
 msgid "兜割り"
@@ -1504,7 +1504,7 @@ msgstr ""
 
 msgctxt "372"
 msgid "ヨシツネ"
-msgstr ""
+msgstr "Yoshitsune"
 
 msgctxt "373"
 msgid "兜割り"
@@ -1520,7 +1520,7 @@ msgstr ""
 
 msgctxt "376"
 msgid "ヨシツネ"
-msgstr ""
+msgstr "Yoshitsune"
 
 msgctxt "377"
 msgid "腕を叩きつけた"
@@ -1552,7 +1552,7 @@ msgstr ""
 
 msgctxt "384"
 msgid "テング"
-msgstr ""
+msgstr "Tengu"
 
 msgctxt "385"
 msgid "かまいたちを起こした"
@@ -1568,7 +1568,7 @@ msgstr ""
 
 msgctxt "388"
 msgid "テング"
-msgstr ""
+msgstr "Tengu"
 
 msgctxt "389"
 msgid "かまいたちを起こした"
@@ -1584,7 +1584,7 @@ msgstr ""
 
 msgctxt "392"
 msgid "トモエ"
-msgstr ""
+msgstr "Tomoe"
 
 msgctxt "393"
 msgid "微笑んでいる・・・"
@@ -1600,7 +1600,7 @@ msgstr ""
 
 msgctxt "396"
 msgid "トモエ"
-msgstr ""
+msgstr "Tomoe"
 
 msgctxt "397"
 msgid "扇子で打ちつけた"
@@ -1616,7 +1616,7 @@ msgstr ""
 
 msgctxt "400"
 msgid "トモエ"
-msgstr ""
+msgstr "Tomoe"
 
 msgctxt "401"
 msgid "扇子で打ちつけた"
