@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Otome Senki\n"
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
-"PO-Revision-Date: 2023-06-02 22:25+0000\n"
-"Last-Translator: darkc0m <alex011298@gmail.com>\n"
+"PO-Revision-Date: 2023-06-02 22:26+0000\n"
+"Last-Translator: wu <wu.oudeis@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0005adv/es/>\n"
 "Language: es\n"
@@ -1208,15 +1208,15 @@ msgstr "Mordisco"
 
 msgctxt "298"
 msgid "三葉虫を捕まえた"
-msgstr ""
+msgstr "Captura de trilobita"
 
 msgctxt "299"
 msgid "優雅に泳いでいる"
-msgstr ""
+msgstr "Nado elegante"
 
 msgctxt "300"
 msgid "カイトクローン"
-msgstr ""
+msgstr "Khitecron"
 
 msgctxt "301"
 msgid "パンチ"
@@ -1228,11 +1228,11 @@ msgstr "Patada"
 
 msgctxt "303"
 msgid "奥義を繰り出した"
-msgstr ""
+msgstr "Técnica secreta"
 
 msgctxt "304"
 msgid "バウ"
-msgstr ""
+msgstr "Bawoo"
 
 msgctxt "305"
 msgid "パンチ"
@@ -1256,11 +1256,11 @@ msgstr "Puñetazo"
 
 msgctxt "310"
 msgid "踏みつけてきた"
-msgstr ""
+msgstr "Pisotón"
 
 msgctxt "311"
 msgid "体当り"
-msgstr ""
+msgstr "Placaje"
 
 msgctxt "312"
 msgid "微笑み男"
@@ -1268,15 +1268,15 @@ msgstr "Hombre risueño"
 
 msgctxt "313"
 msgid "微笑んだ"
-msgstr ""
+msgstr "Sonrisa"
 
 msgctxt "314"
 msgid "ニヤリと笑った"
-msgstr ""
+msgstr "Risotada"
 
 msgctxt "315"
 msgid "ニヒルに笑った"
-msgstr ""
+msgstr "Risotada sarcástica"
 
 msgctxt "316"
 msgid "ハニーナイト"
@@ -1292,7 +1292,7 @@ msgstr "Destello hani"
 
 msgctxt "319"
 msgid "盾をかまえた"
-msgstr ""
+msgstr "Escudo protector"
 
 msgctxt "320"
 msgid "ガーランド"
@@ -1332,55 +1332,55 @@ msgstr "Ninja rojo"
 
 msgctxt "329"
 msgid "くないで攻撃"
-msgstr ""
+msgstr "Kunai"
 
 msgctxt "330"
 msgid "手裏剣をとばした"
-msgstr ""
+msgstr "Shuriken"
 
 msgctxt "331"
 msgid "火遁の術"
-msgstr ""
+msgstr "Técnica de fuego"
 
 msgctxt "332"
 msgid "源氏"
-msgstr ""
+msgstr "Guerrero Minamoto"
 
 msgctxt "333"
 msgid "斬りかかってきた"
-msgstr ""
+msgstr "Tajo"
 
 msgctxt "334"
 msgid "地力を吸収した"
-msgstr ""
+msgstr "Absorción de fuerza"
 
 msgctxt "335"
 msgid "急所を狙ってきた"
-msgstr ""
+msgstr "Golpe crítico"
 
 msgctxt "336"
 msgid "真・源氏"
-msgstr ""
+msgstr "Guerrero Minamoto real"
 
 msgctxt "337"
 msgid "斬りかかってきた"
-msgstr ""
+msgstr "Tajo"
 
 msgctxt "338"
 msgid "地力を吸収した"
-msgstr ""
+msgstr "Absorción de fuerza"
 
 msgctxt "339"
 msgid "乱れ斬り"
-msgstr ""
+msgstr "Ráfaga de tajos"
 
 msgctxt "340"
 msgid "パタパタ"
-msgstr ""
+msgstr "Flap flap"
 
 msgctxt "341"
 msgid "ヤリで突いて来た"
-msgstr ""
+msgstr "Lanzazo"
 
 msgctxt "342"
 msgid "キック"
@@ -1388,23 +1388,23 @@ msgstr "Patada"
 
 msgctxt "343"
 msgid "後ろを向いた"
-msgstr ""
+msgstr "Despiste"
 
 msgctxt "344"
 msgid "まじしゃん"
-msgstr ""
+msgstr "Maga"
 
 msgctxt "345"
 msgid "火爆破を唱えた"
-msgstr ""
+msgstr "Explosión mágica"
 
 msgctxt "346"
 msgid "ファイヤーレーザー"
-msgstr ""
+msgstr "Láser ígneo"
 
 msgctxt "347"
 msgid "白色破壊光線を放った"
-msgstr ""
+msgstr "Rayo destructor"
 
 msgctxt "348"
 msgid "ハミング"
@@ -1412,15 +1412,15 @@ msgstr "Tarareadoras"
 
 msgctxt "349"
 msgid "歌を歌い始めた"
-msgstr ""
+msgstr "Cántico"
 
 msgctxt "350"
 msgid "歌を歌い始めた"
-msgstr ""
+msgstr "Cántico"
 
 msgctxt "351"
 msgid "歌を歌い始めた"
-msgstr ""
+msgstr "Cántico"
 
 msgctxt "352"
 msgid "ワー花嫁"
@@ -1432,27 +1432,27 @@ msgstr "Ataque con ramo"
 
 msgctxt "354"
 msgid "ひっぱたいてきた"
-msgstr ""
+msgstr "Bofetón"
 
 msgctxt "355"
 msgid "微笑んでいる"
-msgstr ""
+msgstr "Sonrisa"
 
 msgctxt "356"
 msgid "髪長姫"
-msgstr ""
+msgstr "Rapunzel"
 
 msgctxt "357"
 msgid "髪で攻撃"
-msgstr ""
+msgstr "Golpe de melena"
 
 msgctxt "358"
 msgid "ライトニングレーザー"
-msgstr ""
+msgstr "Láser de plasma"
 
 msgctxt "359"
 msgid "髪をふりまわした"
-msgstr ""
+msgstr "Cabello reluciente"
 
 msgctxt "360"
 msgid "神風"
@@ -1472,19 +1472,19 @@ msgstr "Flechazo de luz"
 
 msgctxt "364"
 msgid "ちゃぷちゃぷ"
-msgstr ""
+msgstr "Splish splash"
 
 msgctxt "365"
 msgid "水をかけてきた"
-msgstr ""
+msgstr "Remojo"
 
 msgctxt "366"
 msgid "硫酸をかけてきた"
-msgstr ""
+msgstr "Ácido"
 
 msgctxt "367"
 msgid "硫酸をぶちまけた"
-msgstr ""
+msgstr "Remojo ácido"
 
 msgctxt "368"
 msgid "ヨシツネ"
@@ -1492,15 +1492,15 @@ msgstr "Yoshitsune"
 
 msgctxt "369"
 msgid "兜割り"
-msgstr ""
+msgstr "Rompeyelmos"
 
 msgctxt "370"
 msgid "居合斬り"
-msgstr ""
+msgstr "Tajo Iai"
 
 msgctxt "371"
 msgid "ツバメ返し"
-msgstr ""
+msgstr "Vuelo de golondrina"
 
 msgctxt "372"
 msgid "ヨシツネ"
@@ -1508,15 +1508,15 @@ msgstr "Yoshitsune"
 
 msgctxt "373"
 msgid "兜割り"
-msgstr ""
+msgstr "Rompeyelmos"
 
 msgctxt "374"
 msgid "居合斬り"
-msgstr ""
+msgstr "Tajo Iai"
 
 msgctxt "375"
 msgid "ツバメ返し"
-msgstr ""
+msgstr "Vuelo de golondrina"
 
 msgctxt "376"
 msgid "ヨシツネ"
@@ -1524,31 +1524,31 @@ msgstr "Yoshitsune"
 
 msgctxt "377"
 msgid "腕を叩きつけた"
-msgstr ""
+msgstr "Partebrazos"
 
 msgctxt "378"
 msgid "酸を吐いた"
-msgstr ""
+msgstr "Ácido"
 
 msgctxt "379"
 msgid "再生を始めた"
-msgstr ""
+msgstr "Regeneración"
 
 msgctxt "380"
 msgid "ムサシボウ"
-msgstr ""
+msgstr "Benkei"
 
 msgctxt "381"
 msgid "尺杖で突いてきた"
-msgstr ""
+msgstr "Golpe de khakkhara"
 
 msgctxt "382"
 msgid "ナギナタを振りおろす"
-msgstr ""
+msgstr "Barrido de naginata"
 
 msgctxt "383"
 msgid "千の武器を振るった"
-msgstr ""
+msgstr "Golpe de las mil armas"
 
 msgctxt "384"
 msgid "テング"
@@ -1556,15 +1556,15 @@ msgstr "Tengu"
 
 msgctxt "385"
 msgid "かまいたちを起こした"
-msgstr ""
+msgstr "Viento cortante"
 
 msgctxt "386"
 msgid "高足ゲタで蹴りつけた"
-msgstr ""
+msgstr "Patadón"
 
 msgctxt "387"
 msgid "竜巻を起こした"
-msgstr ""
+msgstr "Torbellino"
 
 msgctxt "388"
 msgid "テング"
@@ -1572,15 +1572,15 @@ msgstr "Tengu"
 
 msgctxt "389"
 msgid "かまいたちを起こした"
-msgstr ""
+msgstr "Viento cortante"
 
 msgctxt "390"
 msgid "高足ゲタで蹴りつけた"
-msgstr ""
+msgstr "Patadón"
 
 msgctxt "391"
 msgid "竜巻を起こした"
-msgstr ""
+msgstr "Torbellino"
 
 msgctxt "392"
 msgid "トモエ"
@@ -1588,15 +1588,15 @@ msgstr "Tomoe"
 
 msgctxt "393"
 msgid "微笑んでいる・・・"
-msgstr ""
+msgstr "Sonrisa"
 
 msgctxt "394"
 msgid "見つめている・・・"
-msgstr ""
+msgstr "Mirada"
 
 msgctxt "395"
 msgid "見つめている・・・"
-msgstr ""
+msgstr "Mirada"
 
 msgctxt "396"
 msgid "トモエ"
@@ -1604,15 +1604,15 @@ msgstr "Tomoe"
 
 msgctxt "397"
 msgid "扇子で打ちつけた"
-msgstr ""
+msgstr "Abanicazo"
 
 msgctxt "398"
 msgid "流れる髪で攻撃"
-msgstr ""
+msgstr "Cabellera destructora"
 
 msgctxt "399"
 msgid "荒ぶる髪で攻撃"
-msgstr ""
+msgstr "Cabellera iracunda"
 
 msgctxt "400"
 msgid "トモエ"
@@ -1620,67 +1620,67 @@ msgstr "Tomoe"
 
 msgctxt "401"
 msgid "扇子で打ちつけた"
-msgstr ""
+msgstr "Abanicazo"
 
 msgctxt "402"
 msgid "流れる髪で攻撃"
-msgstr ""
+msgstr "Cabellera destructora"
 
 msgctxt "403"
 msgid "荒ぶる髪で攻撃"
-msgstr ""
+msgstr "Cabellera iracunda"
 
 msgctxt "404"
 msgid "ヨシナカ"
-msgstr ""
+msgstr "Yoshinaka"
 
 msgctxt "405"
 msgid "じっとしている・・・"
-msgstr ""
+msgstr "Quietud"
 
 msgctxt "406"
 msgid "じっとしている・・・"
-msgstr ""
+msgstr "Quietud"
 
 msgctxt "407"
 msgid "ギラリと睨んだ"
-msgstr ""
+msgstr "Mirada amenazante"
 
 msgctxt "408"
 msgid "ヨシナカ"
-msgstr ""
+msgstr "Yoshinaka"
 
 msgctxt "409"
 msgid "刀で斬りつける"
-msgstr ""
+msgstr "Katanazo"
 
 msgctxt "410"
 msgid "居合抜き"
-msgstr ""
+msgstr "Tajo iai"
 
 msgctxt "411"
 msgid "乱れ打ち"
-msgstr ""
+msgstr "Ráfaga de tajos"
 
 msgctxt "412"
 msgid "ヨシナカ"
-msgstr ""
+msgstr "Yoshinaka"
 
 msgctxt "413"
 msgid "刀で斬りつける"
-msgstr ""
+msgstr "Katanazo"
 
 msgctxt "414"
 msgid "居合抜き"
-msgstr ""
+msgstr "Tajo iai"
 
 msgctxt "415"
 msgid "乱れ打ち"
-msgstr ""
+msgstr "Ráfaga de tajos"
 
 msgctxt "416"
 msgid "イヌ"
-msgstr ""
+msgstr "Perro"
 
 msgctxt "417"
 msgid "噛付いてきた"
@@ -1688,7 +1688,7 @@ msgstr "Mordisco"
 
 msgctxt "418"
 msgid "飛び掛かってきた"
-msgstr ""
+msgstr "Asalto"
 
 msgctxt "419"
 msgid "体当たり"
@@ -1696,11 +1696,11 @@ msgstr "Placaje"
 
 msgctxt "420"
 msgid "サル"
-msgstr ""
+msgstr "Mono"
 
 msgctxt "421"
 msgid "引っ掻いてきた"
-msgstr ""
+msgstr "Arañazo"
 
 msgctxt "422"
 msgid "噛付いてきた"
@@ -1712,47 +1712,47 @@ msgstr "Placaje"
 
 msgctxt "424"
 msgid "キジ"
-msgstr ""
+msgstr "Faisán"
 
 msgctxt "425"
 msgid "爪でつかみ掛かる"
-msgstr ""
+msgstr "Arañazo"
 
 msgctxt "426"
 msgid "くちばしで突く"
-msgstr ""
+msgstr "Picotazo"
 
 msgctxt "427"
 msgid "突風を巻き起こす"
-msgstr ""
+msgstr "Vendaval"
 
 msgctxt "428"
 msgid "キラトーキ"
-msgstr ""
+msgstr "Kiratōki"
 
 msgctxt "429"
 msgid "軽くパンチ"
-msgstr ""
+msgstr "Puñetazo ligero"
 
 msgctxt "430"
 msgid "全員にパンチ"
-msgstr ""
+msgstr "Puñetazo masivo"
 
 msgctxt "431"
 msgid "全力でパンチ"
-msgstr ""
+msgstr "Gigapuñetazo"
 
 msgctxt "432"
 msgid "プラムズゴースト"
-msgstr ""
+msgstr "Fantasma de Plum'f"
 
 msgctxt "433"
 msgid "いえーい爆弾を投げた"
-msgstr ""
+msgstr "Bomba alegre"
 
 msgctxt "434"
 msgid "なにやら説明しだした"
-msgstr ""
+msgstr "Cháchara"
 
 msgctxt "435"
 msgid "デバッグレーザー"
