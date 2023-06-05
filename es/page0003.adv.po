@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Otome Senki\n"
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
-"PO-Revision-Date: 2023-06-05 17:26+0000\n"
+"PO-Revision-Date: 2023-06-07 14:26+0000\n"
 "Last-Translator: darkc0m <alex011298@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0003adv/es/>\n"
@@ -112,7 +112,7 @@ msgstr ""
 
 msgctxt "24"
 msgid "「・・・ティーゲル！」"
-msgstr ""
+msgstr ": ¡Tiger!"
 
 msgctxt "25"
 msgid "は、魔力を練っている・・・"
@@ -120,7 +120,7 @@ msgstr ""
 
 msgctxt "26"
 msgid "「スーパーティーゲル！」"
-msgstr ""
+msgstr ": ¡Super Tiger!"
 
 msgctxt "27"
 msgid "は、ため込んでいた魔力を一気に"
@@ -220,11 +220,11 @@ msgstr ""
 
 msgctxt "51"
 msgid "「メッサーシュミット！」"
-msgstr ""
+msgstr ": ¡Messerschmitt!"
 
 msgctxt "52"
 msgid "「メッサーシュミット・ツヴァイ！」"
-msgstr ""
+msgstr ": ¡Messerschmitt Zwei!"
 
 msgctxt "53"
 msgid "うし使い「・・・がんばろうね、うし。」"
@@ -404,15 +404,15 @@ msgstr ""
 
 msgctxt "97"
 msgid "ＬＶ１"
-msgstr ""
+msgstr "Nivel 1"
 
 msgctxt "98"
 msgid "ＬＶ２"
-msgstr ""
+msgstr "Nivel 2"
 
 msgctxt "99"
 msgid "ＬＶ３"
-msgstr ""
+msgstr "Nivel 3"
 
 msgctxt "100"
 msgid "やめる"
@@ -440,23 +440,23 @@ msgstr ""
 
 msgctxt "106"
 msgid "火"
-msgstr ""
+msgstr "Fuego"
 
 msgctxt "107"
 msgid "氷"
-msgstr ""
+msgstr "Hielo"
 
 msgctxt "108"
 msgid "雷"
-msgstr ""
+msgstr "Rayo"
 
 msgctxt "109"
 msgid "光"
-msgstr ""
+msgstr "Luz"
 
 msgctxt "110"
 msgid "闇"
-msgstr ""
+msgstr "Oscuridad"
 
 msgctxt "111"
 msgid "やめる"
@@ -1616,7 +1616,7 @@ msgstr "Cascabel de bronce"
 
 msgctxt "400"
 msgid "日本刀　丙"
-msgstr ""
+msgstr "Hinoe"
 
 msgctxt "401"
 msgid "なぎなた"
@@ -1632,7 +1632,7 @@ msgstr "Espada relámpago"
 
 msgctxt "404"
 msgid "日本刀　乙"
-msgstr ""
+msgstr "Kinoto"
 
 msgctxt "405"
 msgid "氷の鈴"
@@ -1720,7 +1720,7 @@ msgstr "Espada ninja"
 
 msgctxt "426"
 msgid "日本刀　甲"
-msgstr ""
+msgstr "Kinoe"
 
 msgctxt "427"
 msgid "一鉄"
@@ -1776,23 +1776,23 @@ msgstr "Kodachi vestal"
 
 msgctxt "440"
 msgid "なしＢ"
-msgstr ""
+msgstr "Nada B"
 
 msgctxt "441"
 msgid "なしＣ"
-msgstr ""
+msgstr "Nada C"
 
 msgctxt "442"
 msgid "なしＤ"
-msgstr ""
+msgstr "Nada D"
 
 msgctxt "443"
 msgid "なしＥ"
-msgstr ""
+msgstr "Nada E"
 
 msgctxt "444"
 msgid "なしＦ"
-msgstr ""
+msgstr "Nada F"
 
 msgctxt "445"
 msgid "武器Ｎｏ．５１"
