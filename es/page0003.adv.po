@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Otome Senki\n"
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
-"PO-Revision-Date: 2023-06-08 17:35+0000\n"
-"Last-Translator: wu <wu.oudeis@gmail.com>\n"
+"PO-Revision-Date: 2023-06-09 17:26+0000\n"
+"Last-Translator: darkc0m <alex011298@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0003adv/es/>\n"
 "Language: es\n"
@@ -44,27 +44,27 @@ msgstr ""
 
 msgctxt "7"
 msgid "は、"
-msgstr ""
+msgstr " utiliza "
 
 msgctxt "8"
 msgid "！"
-msgstr ""
+msgstr "!"
 
 msgctxt "9"
 msgid "は、"
-msgstr ""
+msgstr " utiliza "
 
 msgctxt "10"
 msgid "！"
-msgstr ""
+msgstr "!"
 
 msgctxt "11"
 msgid "は、"
-msgstr ""
+msgstr " utiliza "
 
 msgctxt "12"
 msgid "！"
-msgstr ""
+msgstr "!"
 
 msgctxt "13"
 msgid "を狙ってきた！"
@@ -200,11 +200,11 @@ msgstr ""
 
 msgctxt "46"
 msgid "こんばんわ「こんばんわこんばんわこんばんわぁっ！」"
-msgstr ""
+msgstr "Buenas noches: ¡Buenas noches, buenas buenas noooches!"
 
 msgctxt "47"
 msgid "こんにちわ「こんにちわこんにちわこんにちわぁ～」"
-msgstr ""
+msgstr "Buenos días: Buenos días, buenos bueeenos dííías."
 
 msgctxt "48"
 msgid "歌は・・・なんと「ドラ◎もん」！"
@@ -416,7 +416,7 @@ msgstr "Nivel 3"
 
 msgctxt "100"
 msgid "やめる"
-msgstr ""
+msgstr "Volver"
 
 msgctxt "101"
 msgid "その術を唱えるにはＭＰが８必要です。"
@@ -460,7 +460,7 @@ msgstr "Oscuridad"
 
 msgctxt "111"
 msgid "やめる"
-msgstr ""
+msgstr "Volver"
 
 msgctxt "112"
 msgid "その術を唱えるにはＭＰが８必要です。"
@@ -808,15 +808,15 @@ msgstr ""
 
 msgctxt "198"
 msgid "使うアイテムを選んで下さい"
-msgstr ""
+msgstr "Elige el objeto que quieras usar."
 
 msgctxt "199"
 msgid "世色癌１  ："
-msgstr ""
+msgstr "Frenatol jr.  :"
 
 msgctxt "200"
 msgid "ＸＸ"
-msgstr ""
+msgstr "99"
 
 msgctxt "201"
 msgid "世色癌２  ："
@@ -828,19 +828,19 @@ msgstr ""
 
 msgctxt "203"
 msgid "世色癌３  ："
-msgstr ""
+msgstr "Frenatol forte:"
 
 msgctxt "204"
 msgid "ＸＸ"
-msgstr ""
+msgstr "99"
 
 msgctxt "205"
 msgid "まんが肉  ："
-msgstr ""
+msgstr "Carne de manga:"
 
 msgctxt "206"
 msgid "ＸＸ"
-msgstr ""
+msgstr "99"
 
 msgctxt "207"
 msgid "竜角惨   ："
@@ -852,23 +852,23 @@ msgstr ""
 
 msgctxt "209"
 msgid "ＨＰ回復 ３０"
-msgstr ""
+msgstr "Recupera 30 PS."
 
 msgctxt "210"
 msgid "ＨＰ回復 １００"
-msgstr ""
+msgstr "Recupera 100 PS."
 
 msgctxt "211"
 msgid "ＨＰ回復 ３００"
-msgstr ""
+msgstr "Recupera 300 PS."
 
 msgctxt "212"
 msgid "ＨＰ回復 ＭＡＸまで"
-msgstr ""
+msgstr "Recupera todos los PS."
 
 msgctxt "213"
 msgid "ＭＰ回復 ５０"
-msgstr ""
+msgstr "Recupera 50 PM."
 
 msgctxt "214"
 msgid "あかね"
@@ -1108,11 +1108,11 @@ msgstr ""
 
 msgctxt "273"
 msgid "は、"
-msgstr ""
+msgstr " ataca con "
 
 msgctxt "274"
 msgid "で攻撃！"
-msgstr ""
+msgstr "!"
 
 msgctxt "275"
 msgid "・・・攻撃は空を切った。"
