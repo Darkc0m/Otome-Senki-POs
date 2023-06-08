@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Otome Senki\n"
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
-"PO-Revision-Date: 2023-06-08 16:43+0000\n"
+"PO-Revision-Date: 2023-06-08 17:35+0000\n"
 "Last-Translator: wu <wu.oudeis@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0019adv/es/>\n"
@@ -426,7 +426,7 @@ msgstr "Volver"
 
 msgctxt "95"
 msgid "メイドさん「もうしわけございません。そちらの方が"
-msgstr "Sirvienta: Lo siento mucho, no disponemos de armas"
+msgstr "Sirvienta: Lo siento mucho, no disponemos de artículos"
 
 msgctxt "96"
 msgid "      扱えそうな物は、当店には・・・」"
@@ -434,7 +434,7 @@ msgstr "          aptas para ella..."
 
 msgctxt "97"
 msgid "メイドさん「そちらの方が扱えそうな物といえば・・・"
-msgstr ""
+msgstr "Sirvienta: Veamos, ella puede utilizar..."
 
 msgctxt "98"
 msgid "カタナ"
@@ -460,10 +460,9 @@ msgctxt "103"
 msgid "氷の鈴"
 msgstr "Cascabel gélido"
 
-#, fuzzy
 msgctxt "104"
 msgid "ガラスの鈴"
-msgstr "Cascabel cristalino"
+msgstr "Cas. cristalino"
 
 msgctxt "105"
 msgid "カタナ"
@@ -485,10 +484,9 @@ msgctxt "109"
 msgid "力の杖"
 msgstr "Bastón de poder"
 
-#, fuzzy
 msgctxt "110"
 msgid "知恵の杖"
-msgstr "Bastón de sabiduría"
+msgstr "Bastón del saber"
 
 msgctxt "111"
 msgid "戻る"
@@ -518,10 +516,9 @@ msgctxt "117"
 msgid "氷の鈴"
 msgstr "Cascabel gélido"
 
-#, fuzzy
 msgctxt "118"
 msgid "ガラスの鈴"
-msgstr "Cascabel cristalino"
+msgstr "Cas. cristalino"
 
 msgctxt "119"
 msgid "鉛の鈴"
@@ -552,10 +549,9 @@ msgctxt "125"
 msgid "力の杖"
 msgstr "Bastón de poder"
 
-#, fuzzy
 msgctxt "126"
 msgid "知恵の杖"
-msgstr "Bastón de sabiduría"
+msgstr "Bastón del saber"
 
 msgctxt "127"
 msgid "戻る"
@@ -563,7 +559,7 @@ msgstr "Volver"
 
 msgctxt "128"
 msgid "メイドさん「そちらの方に似合いそうな物といえば・・・"
-msgstr ""
+msgstr "Sirvienta: Veamos, a ella le sentaría bien..."
 
 msgctxt "129"
 msgid "鉄かぶと"
@@ -1071,7 +1067,7 @@ msgstr ""
 
 msgctxt "237"
 msgid "メイドさん「お買い上げですね？」"
-msgstr ""
+msgstr "Sirvienta: ¿Es eso lo que quieres?"
 
 msgctxt "238"
 msgid "買わない"
@@ -1083,31 +1079,31 @@ msgstr "Comprar"
 
 msgctxt "240"
 msgid "メイドさん「お買い上げ、本当にありがとうございます。"
-msgstr ""
+msgstr "Sirvienta: Muchas gracias por tu compra."
 
 msgctxt "241"
 msgid "      他にも何かなさいますか？」"
-msgstr ""
+msgstr "          ¿Necesitas algo más?"
 
 msgctxt "242"
 msgid "メイドさん「・・・失礼ですがお客様。当店は現金一括払い"
-msgstr ""
+msgstr "Sirvienta: Lo siento mucho, pero solo aceptamos"
 
 msgctxt "243"
 msgid "      しか扱っておりませんので・・・。」"
-msgstr ""
+msgstr "          pagos al contado."
 
 msgctxt "244"
 msgid "メイドさん「おやめになるんですか・・・？ はい・・・"
-msgstr ""
+msgstr "Sirvienta: ¿Has cambiado de opinión? De acuerdo..."
 
 msgctxt "245"
 msgid "      それでは、他の商品はいかがでしょう？」"
-msgstr ""
+msgstr "          ¿Te interesa algún otro artículo?"
 
 msgctxt "246"
 msgid "メイドさん「またおこし下さい。ありがとうございました！」"
-msgstr ""
+msgstr "Sirvienta: Muchas gracias por tu visita. ¡Vuelve pronto!"
 
 msgctxt "247"
 msgid "＝ 所持金 ："
