@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
 "PO-Revision-Date: 2023-06-08 17:35+0000\n"
-"Last-Translator: wu <wu.oudeis@gmail.com>\n"
+"Last-Translator: darkc0m <alex011298@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0019adv/es/>\n"
 "Language: es\n"
@@ -170,13 +170,13 @@ msgstr ""
 
 msgctxt "33"
 msgid "      金"
-msgstr "      Dinero."
+msgstr "          Serán "
 
 msgctxt "34"
 msgid "や。一瞬で地上に帰れるで。」"
 msgstr ""
-"          Te permitirá regresar a la superficie\n"
-"          en un santiamén."
+" monedas de oro. Te permitirá\n"
+"          regresar a la superficie en un santiamén."
 
 msgctxt "35"
 msgid "バラタック「・・・値段が前とちゃうて？"
@@ -258,7 +258,7 @@ msgstr "           ¿Qué necesitas?"
 
 msgctxt "53"
 msgid "メイドさん「どなたの装備をお揃えしましょうか？」"
-msgstr "Sirviente: ¿Quieres que revisemos el equipo de alguien?"
+msgstr "Sirvienta: ¿Para quién vas a comprar equipo?"
 
 msgctxt "54"
 msgid "あかね"
@@ -430,7 +430,7 @@ msgstr "Sirvienta: Lo siento mucho, no disponemos de artículos"
 
 msgctxt "96"
 msgid "      扱えそうな物は、当店には・・・」"
-msgstr "          aptas para ella..."
+msgstr "          aptos para ella..."
 
 msgctxt "97"
 msgid "メイドさん「そちらの方が扱えそうな物といえば・・・"
@@ -524,10 +524,9 @@ msgctxt "119"
 msgid "鉛の鈴"
 msgstr "Cascabel de plomo"
 
-#, fuzzy
 msgctxt "120"
 msgid "白金の鈴"
-msgstr "Cascabel de platino"
+msgstr "Cas. de platino"
 
 msgctxt "121"
 msgid "日本刀 丙"
@@ -565,10 +564,9 @@ msgctxt "129"
 msgid "鉄かぶと"
 msgstr "Yelmo de hierro"
 
-#, fuzzy
 msgctxt "130"
 msgid "武者の鎧"
-msgstr "Armadura de guerrero"
+msgstr "Arm. de guerrero"
 
 msgctxt "131"
 msgid "２２年式鎧"
@@ -586,15 +584,13 @@ msgctxt "134"
 msgid "面"
 msgstr "Máscara"
 
-#, fuzzy
 msgctxt "135"
 msgid "山菜ハット"
-msgstr "Sombrero de hierbas"
+msgstr "Sombrero vegetal"
 
-#, fuzzy
 msgctxt "136"
 msgid "カチカチ洋服"
-msgstr "Ropa occidental rígida"
+msgstr "Ropa occidental"
 
 msgctxt "137"
 msgid "すねあて"
@@ -612,10 +608,9 @@ msgctxt "140"
 msgid "面"
 msgstr "Máscara"
 
-#, fuzzy
 msgctxt "141"
 msgid "カチカチ洋服"
-msgstr "Ropa occidental rígida"
+msgstr "Ropa occidental"
 
 msgctxt "142"
 msgid "毛皮のくつ"
@@ -629,10 +624,9 @@ msgctxt "144"
 msgid "面"
 msgstr "Máscara"
 
-#, fuzzy
 msgctxt "145"
 msgid "カチカチ洋服"
-msgstr "Ropa occidental rígida"
+msgstr "Ropa occidental"
 
 msgctxt "146"
 msgid "忍者服"
@@ -654,10 +648,9 @@ msgctxt "150"
 msgid "面"
 msgstr "Máscara"
 
-#, fuzzy
 msgctxt "151"
 msgid "カチカチ洋服"
-msgstr "Ropa occidental rígida"
+msgstr "Ropa occidental"
 
 msgctxt "152"
 msgid "毛皮のくつ"
@@ -675,10 +668,9 @@ msgctxt "155"
 msgid "面"
 msgstr "Máscara"
 
-#, fuzzy
 msgctxt "156"
 msgid "カチカチ洋服"
-msgstr "Ropa occidental rígida"
+msgstr "Ropa occidental"
 
 msgctxt "157"
 msgid "毛皮のくつ"
@@ -704,10 +696,9 @@ msgctxt "162"
 msgid "すねあて"
 msgstr "Espinilleras"
 
-#, fuzzy
 msgctxt "163"
 msgid "寅一"
-msgstr "Sandalias atigradas"
+msgstr "Sandalias felinas"
 
 msgctxt "164"
 msgid "小手"
@@ -733,38 +724,33 @@ msgctxt "169"
 msgid "小手"
 msgstr "Guanteletes"
 
-#, fuzzy
 msgctxt "170"
 msgid "山菜ハット"
-msgstr "Sombrero de hierbas"
+msgstr "Sombrero vegetal"
 
-#, fuzzy
 msgctxt "171"
 msgid "カチカチ洋服"
-msgstr "Ropa occidental rígida"
+msgstr "Ropa occidental"
 
-#, fuzzy
 msgctxt "172"
 msgid "高級柔道着"
-msgstr "Judogi de alta calidad"
+msgstr "Judogi valioso"
 
 msgctxt "173"
 msgid "すねあて"
 msgstr "Espinilleras"
 
-#, fuzzy
 msgctxt "174"
 msgid "パールの腕輪"
-msgstr "Brazalete de perlas"
+msgstr "Pulsera de perlas"
 
 msgctxt "175"
 msgid "リボン"
 msgstr "Lazo"
 
-#, fuzzy
 msgctxt "176"
 msgid "カチカチ洋服"
-msgstr "Ropa occidental rígida"
+msgstr "Ropa occidental"
 
 msgctxt "177"
 msgid "毛皮のくつ"
@@ -774,10 +760,9 @@ msgctxt "178"
 msgid "かんじき"
 msgstr "Raquetas de nieve"
 
-#, fuzzy
 msgctxt "179"
 msgid "パールの腕輪"
-msgstr "Brazalete de perlas"
+msgstr "Pulsera de perlas"
 
 msgctxt "180"
 msgid "金のかんざし"
@@ -795,19 +780,17 @@ msgctxt "183"
 msgid "すねあて"
 msgstr "Espinilleras"
 
-#, fuzzy
 msgctxt "184"
 msgid "パールの腕輪"
-msgstr "Brazalete de perlas"
+msgstr "Pulsera de perlas"
 
 msgctxt "185"
 msgid "ベレー帽"
 msgstr "Boina"
 
-#, fuzzy
 msgctxt "186"
 msgid "カチカチ洋服"
-msgstr "Ropa occidental rígida"
+msgstr "Ropa occidental"
 
 msgctxt "187"
 msgid "毛皮のくつ"
@@ -817,20 +800,17 @@ msgctxt "188"
 msgid "一本ゲタ"
 msgstr "Zancos"
 
-#, fuzzy
 msgctxt "189"
 msgid "パールの腕輪"
-msgstr "Brazalete de perlas"
+msgstr "Pulsera de perlas"
 
-#, fuzzy
 msgctxt "190"
 msgid "山菜ハット"
-msgstr "Sombrero de hierbas"
+msgstr "Sombrero vegetal"
 
-#, fuzzy
 msgctxt "191"
 msgid "カチカチ洋服"
-msgstr "Ropa occidental rígida"
+msgstr "Ropa occidental"
 
 msgctxt "192"
 msgid "スーパースター"
@@ -840,10 +820,9 @@ msgctxt "193"
 msgid "毛皮のくつ"
 msgstr "Zapatos de cuero"
 
-#, fuzzy
 msgctxt "194"
 msgid "パールの腕輪"
-msgstr "Brazalete de perlas"
+msgstr "Pulsera de perlas"
 
 msgctxt "195"
 msgid "戻る"
