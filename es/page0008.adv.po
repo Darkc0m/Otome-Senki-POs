@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Otome Senki\n"
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
-"PO-Revision-Date: 2023-06-01 10:15+0000\n"
+"PO-Revision-Date: 2023-06-08 17:35+0000\n"
 "Last-Translator: darkc0m <alex011298@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0008adv/es/>\n"
@@ -308,7 +308,7 @@ msgstr "Yelmo de hierro"
 
 msgctxt "73"
 msgid "山菜ハット"
-msgstr "Sombrero de hierbas"
+msgstr "Sombrero vegetal"
 
 msgctxt "74"
 msgid "金のかんざし"
@@ -352,7 +352,7 @@ msgstr "Vestido"
 
 msgctxt "84"
 msgid "カチカチ洋服"
-msgstr "Ropa occidental rígida"
+msgstr "Ropa occidental"
 
 msgctxt "85"
 msgid "スーパースター"
@@ -388,7 +388,7 @@ msgstr "Judogi"
 
 msgctxt "93"
 msgid "高級柔道着"
-msgstr "Judogi de alta calidad"
+msgstr "Judogi valioso"
 
 msgctxt "94"
 msgid "タイガー柔道着"
@@ -472,7 +472,7 @@ msgstr "Zancos"
 
 msgctxt "114"
 msgid "寅一"
-msgstr "Sandalias atigradas"
+msgstr "Sandalias felinas"
 
 msgctxt "115"
 msgid "ウェスタンブーツ"
@@ -516,7 +516,7 @@ msgstr "Brazalete de plata"
 
 msgctxt "125"
 msgid "パールの腕輪"
-msgstr "Brazalete de perlas"
+msgstr "Pulsera de perlas"
 
 msgctxt "126"
 msgid "手袋"
