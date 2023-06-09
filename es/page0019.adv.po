@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Otome Senki\n"
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
-"PO-Revision-Date: 2023-06-09 17:26+0000\n"
+"PO-Revision-Date: 2023-06-10 18:26+0000\n"
 "Last-Translator: darkc0m <alex011298@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0019adv/es/>\n"
@@ -234,11 +234,11 @@ msgstr "Sirvienta: ¡Bienvenida! ¿No estás interesada en comprar"
 
 msgctxt "48"
 msgid "      防具はいかかですか？ 御一緒に武器も"
-msgstr "         equipo defensivo? ¿Y qué hay de una arma?"
+msgstr "           equipo defensivo? ¿Y qué hay de una arma?"
 
 msgctxt "49"
 msgid "      どうですか？」"
-msgstr "         ¿No te interesa?"
+msgstr "           ¿No te interesa?"
 
 msgctxt "50"
 msgid "メイドさん「武器を買うなら元祖メイド屋！"
@@ -430,7 +430,7 @@ msgstr "Sirvienta: Lo siento mucho, no disponemos de artículos"
 
 msgctxt "96"
 msgid "      扱えそうな物は、当店には・・・」"
-msgstr "          aptos para ella..."
+msgstr "           aptos para ella..."
 
 msgctxt "97"
 msgid "メイドさん「そちらの方が扱えそうな物といえば・・・"
@@ -1062,7 +1062,7 @@ msgstr "Sirvienta: Muchas gracias por tu compra."
 
 msgctxt "241"
 msgid "      他にも何かなさいますか？」"
-msgstr "          ¿Necesitas algo más?"
+msgstr "           ¿Necesitas algo más?"
 
 msgctxt "242"
 msgid "メイドさん「・・・失礼ですがお客様。当店は現金一括払い"
@@ -1070,7 +1070,7 @@ msgstr "Sirvienta: Lo siento mucho, pero solo aceptamos"
 
 msgctxt "243"
 msgid "      しか扱っておりませんので・・・。」"
-msgstr "          pagos al contado."
+msgstr "           pagos al contado."
 
 msgctxt "244"
 msgid "メイドさん「おやめになるんですか・・・？ はい・・・"
@@ -1078,7 +1078,7 @@ msgstr "Sirvienta: ¿Has cambiado de opinión? De acuerdo..."
 
 msgctxt "245"
 msgid "      それでは、他の商品はいかがでしょう？」"
-msgstr "          ¿Te interesa algún otro artículo?"
+msgstr "           ¿Te interesa algún otro artículo?"
 
 msgctxt "246"
 msgid "メイドさん「またおこし下さい。ありがとうございました！」"
