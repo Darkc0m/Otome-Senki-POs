@@ -164,11 +164,11 @@ msgstr ""
 
 msgctxt "37"
 msgid "凶悪ハニー「・・・ワ、ワシに近寄るなぁあぁぁ！」"
-msgstr "Hanny despiadado: Sniiif... ¡No te me acerques!"
+msgstr "Hani despiadado: Sniiif... ¡No te me acerques!"
 
 msgctxt "38"
 msgid "凶悪ハニーはうつろな目をして、狂ったようにドスを"
-msgstr "¡Hanny despiadado se ha colocado y empieza a soltar"
+msgstr "¡Hani despiadado se ha colocado y empieza a soltar"
 
 msgctxt "39"
 msgid "振り回した！ どうやらバッドトリップだったらしい！"
