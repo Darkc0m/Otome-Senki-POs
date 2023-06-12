@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Otome Senki\n"
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
-"PO-Revision-Date: 2023-06-11 15:31+0000\n"
+"PO-Revision-Date: 2023-06-13 15:23+0000\n"
 "Last-Translator: darkc0m <alex011298@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0003adv/es/>\n"
@@ -40,7 +40,7 @@ msgstr ""
 
 msgctxt "6"
 msgid "パーティーは全滅しました"
-msgstr ""
+msgstr "El grupo ha sido aniquilado."
 
 msgctxt "7"
 msgid "は、"
@@ -68,19 +68,19 @@ msgstr "!"
 
 msgctxt "13"
 msgid "を狙ってきた！"
-msgstr ""
+msgstr " es su objetivo!"
 
 msgctxt "14"
 msgid "を狙ってきた！"
-msgstr ""
+msgstr " es su objetivo!"
 
 msgctxt "15"
 msgid "を狙ってきた！"
-msgstr ""
+msgstr " es su objetivo!"
 
 msgctxt "16"
 msgid "を狙ってきた！"
-msgstr ""
+msgstr " es su objetivo!"
 
 msgctxt "17"
 msgid "きゃんきゃん「おかし買ってください、おかしが欲しいの。」"
@@ -260,7 +260,7 @@ msgstr ""
 
 msgctxt "61"
 msgid "いった。"
-msgstr ""
+msgstr " "
 
 msgctxt "62"
 msgid "・・・そのまま逃げていってしまった！"
@@ -324,11 +324,11 @@ msgstr "Es el turno de "
 
 msgctxt "77"
 msgid "攻撃する"
-msgstr ""
+msgstr "Atacar"
 
 msgctxt "78"
 msgid "防御"
-msgstr ""
+msgstr "Defenderse"
 
 msgctxt "79"
 msgid "槍術"
@@ -352,19 +352,19 @@ msgstr ""
 
 msgctxt "84"
 msgid "鈴"
-msgstr ""
+msgstr "Conjurar hechizo"
 
 msgctxt "85"
 msgid "巻き物"
-msgstr ""
+msgstr "Leer pergamino"
 
 msgctxt "86"
 msgid "お祈り"
-msgstr ""
+msgstr "Recitar oración"
 
 msgctxt "87"
 msgid "回復アイテム"
-msgstr ""
+msgstr "Consumibles"
 
 msgctxt "88"
 msgid "逃げる"
@@ -376,7 +376,7 @@ msgstr "Ver estado"
 
 msgctxt "90"
 msgid "その技を使うにはＭＰが６必要です。"
-msgstr ""
+msgstr "Necesitas al menos 6 PM para poder usar esta habilidad."
 
 msgctxt "91"
 msgid "３回、普通に攻撃"
@@ -384,7 +384,7 @@ msgstr ""
 
 msgctxt "92"
 msgid "その技を使うにはＭＰが６必要です。"
-msgstr ""
+msgstr "Necesitas al menos 6 PM para poder usar esta habilidad."
 
 msgctxt "93"
 msgid "現状の最大ダメージ、防御無視で命中率１００％で攻撃"
@@ -392,7 +392,7 @@ msgstr ""
 
 msgctxt "94"
 msgid "その技を使うにはＭＰが６必要です。"
-msgstr ""
+msgstr "Necesitas al menos 6 PM para poder usar esta habilidad."
 
 msgctxt "95"
 msgid "次のターンが回ってくるまでが早くなる攻撃"
@@ -400,7 +400,7 @@ msgstr ""
 
 msgctxt "96"
 msgid "術をかけるレベルは？"
-msgstr ""
+msgstr "¿De qué nivel quieres que sea el hechizo?"
 
 msgctxt "97"
 msgid "ＬＶ１"
@@ -420,23 +420,23 @@ msgstr "Volver"
 
 msgctxt "101"
 msgid "その術を唱えるにはＭＰが８必要です。"
-msgstr ""
+msgstr "Necesitas al menos 8 PM para poder usar este hechizo."
 
 msgctxt "102"
 msgid "ＬＶ１の術を唱えます。属性は？"
-msgstr ""
+msgstr "Vas a conjurar un hechizo de nivel 1. ¿De qué elemento?"
 
 msgctxt "103"
 msgid "その術を唱えるにはＭＰが２５必要です。"
-msgstr ""
+msgstr "Necesitas al menos 25 PM para poder usar este hechizo."
 
 msgctxt "104"
 msgid "ＬＶ２の術を唱えます。属性は？"
-msgstr ""
+msgstr "Vas a conjurar un hechizo de nivel 2. ¿De qué elemento?"
 
 msgctxt "105"
 msgid "鈴を装備していないと、術はつかえません。"
-msgstr ""
+msgstr "Necesitas un cascabel para poder conjurar hechizos."
 
 msgctxt "106"
 msgid "火"
@@ -464,23 +464,23 @@ msgstr "Volver"
 
 msgctxt "112"
 msgid "その術を唱えるにはＭＰが８必要です。"
-msgstr ""
+msgstr "Necesitas al menos 8 PM para poder usar este hechizo."
 
 msgctxt "113"
 msgid "その術を唱えるにはＭＰが２５必要です。"
-msgstr ""
+msgstr "Necesitas al menos 25 PM para poder usar este hechizo."
 
 msgctxt "114"
 msgid "その術を唱えるにはＭＰが４５必要です。"
-msgstr ""
+msgstr "Necesitas al menos 45 PM para poder usar este hechizo."
 
 msgctxt "115"
 msgid "美鈴は鈴を鳴らした・・・"
-msgstr ""
+msgstr "Misuzu hace resonar su cascabel..."
 
 msgctxt "116"
 msgid "この巻き物を使うにはＭＰが８必要です。"
-msgstr ""
+msgstr "Necesitas al menos 8 PM para poder usar este pergamino."
 
 msgctxt "117"
 msgid "火の巻に念をこめる・・・"
@@ -492,7 +492,7 @@ msgstr ""
 
 msgctxt "119"
 msgid "この巻き物を使うにはＭＰが８必要です。"
-msgstr ""
+msgstr "Necesitas al menos 8 PM para poder usar este pergamino."
 
 msgctxt "120"
 msgid "水の巻に念をこめる・・・"
@@ -504,7 +504,7 @@ msgstr ""
 
 msgctxt "122"
 msgid "この巻き物を使うにはＭＰが８必要です。"
-msgstr ""
+msgstr "Necesitas al menos 8 PM para poder usar este pergamino."
 
 msgctxt "123"
 msgid "土の巻に念をこめる・・・"
@@ -516,7 +516,7 @@ msgstr ""
 
 msgctxt "125"
 msgid "この巻き物を使うにはＭＰが８必要です。"
-msgstr ""
+msgstr "Necesitas al menos 8 PM para poder usar este pergamino."
 
 msgctxt "126"
 msgid "雷の巻に念をこめる・・・"
@@ -556,7 +556,7 @@ msgstr ""
 
 msgctxt "135"
 msgid "巻き物をもってない。"
-msgstr ""
+msgstr "No tienes ningún pergamino equipado."
 
 msgctxt "136"
 msgid "ふにゃふにゃ"
@@ -820,11 +820,11 @@ msgstr "99"
 
 msgctxt "201"
 msgid "世色癌２  ："
-msgstr ""
+msgstr "Frenatol cplx.:"
 
 msgctxt "202"
 msgid "ＸＸ"
-msgstr ""
+msgstr "99"
 
 msgctxt "203"
 msgid "世色癌３  ："
@@ -844,11 +844,11 @@ msgstr "99"
 
 msgctxt "207"
 msgid "竜角惨   ："
-msgstr ""
+msgstr "Cuerno dragón :"
 
 msgctxt "208"
 msgid "ＸＸ"
-msgstr ""
+msgstr "99"
 
 msgctxt "209"
 msgid "ＨＰ回復 ３０"
