@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
 "PO-Revision-Date: 2023-06-13 15:23+0000\n"
-"Last-Translator: darkc0m <alex011298@gmail.com>\n"
+"Last-Translator: wu <wu.oudeis@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0003adv/es/>\n"
 "Language: es\n"
@@ -168,31 +168,31 @@ msgstr "Hani despiadado: Sniiif... ¡No te me acerques!"
 
 msgctxt "38"
 msgid "凶悪ハニーはうつろな目をして、狂ったようにドスを"
-msgstr "¡Hani despiadado se ha colocado y empieza a soltar"
+msgstr "¡Hani despiadado se ha colocado y lanza cuchilladas"
 
 msgctxt "39"
 msgid "振り回した！ どうやらバッドトリップだったらしい！"
-msgstr ""
+msgstr "a diestro y siniestro! ¡Parece que tiene un mal viaje!"
 
 msgctxt "40"
 msgid "暴れ狂う凶悪ハニー！"
-msgstr ""
+msgstr "¡Hani despiadado está descontrolado!"
 
 msgctxt "41"
 msgid "凶悪ハニー「うへへ・・・ちょうちょが飛んどるで・・・」"
-msgstr ""
+msgstr "Hani depiadado: Jue, jue... Qué mariposa más bonita..."
 
 msgctxt "42"
 msgid "凶悪ハニーはうつろな目をして、ふらふらと歩いてきた。"
-msgstr ""
+msgstr "Hani despiadado se ha colocado y camina sin rumbo."
 
 msgctxt "43"
 msgid "どうやらグッドトリップのようだ！"
-msgstr ""
+msgstr "¡Parece que está disfrutando de lo lindo!"
 
 msgctxt "44"
 msgid "凶悪ハニーが襲いかかる！"
-msgstr ""
+msgstr "¡Hani despiadado te ataca!"
 
 msgctxt "45"
 msgid "ポイント回復・・・"
@@ -208,15 +208,15 @@ msgstr "Buenos días: Buenos días, buenos bueeenos dííías."
 
 msgctxt "48"
 msgid "歌は・・・なんと「ドラ◎もん」！"
-msgstr ""
+msgstr "¡Están cantando la canción de Dora■mon!"
 
 msgctxt "49"
 msgid "歌は・・・なんと「海ゆかば」！"
-msgstr ""
+msgstr "¡Están cantando Franco tiene el culo blanco!"
 
 msgctxt "50"
 msgid "歌は・・・な、なんと「君が代」っ？！"
-msgstr ""
+msgstr "¡Están tarareando el himno nacional!"
 
 msgctxt "51"
 msgid "「メッサーシュミット！」"
@@ -228,35 +228,35 @@ msgstr ": ¡Messerschmitt Zwei!"
 
 msgctxt "53"
 msgid "うし使い「・・・がんばろうね、うし。」"
-msgstr ""
+msgstr "Pastora bovina: Ánimo, bovino..."
 
 msgctxt "54"
 msgid "うし「みゃ・・・みゃあああ・・・みゃあ・・・みゃあ」"
-msgstr ""
+msgstr "Bovino: Miauuu miau miau miauuu..."
 
 msgctxt "55"
 msgid "悲しげな、うしの声があたりに響く・・・"
-msgstr ""
+msgstr "La voz melancólica del bovino resuena por la zona..."
 
 msgctxt "56"
 msgid "攻撃する気が、わずかに萎えてしまった。"
-msgstr ""
+msgstr "Las ganas de atacar disminuyen."
 
 msgctxt "57"
 msgid "そして、何もない所で転んだ！"
-msgstr ""
+msgstr "¡Se tropieza y se cae!"
 
 msgctxt "58"
 msgid "なんと、幸せそうに寝ている！"
-msgstr ""
+msgstr "¡Está durmiendo placenteramente!"
 
 msgctxt "59"
 msgid "勇者「しまったぎゃ！ こんな所に出ちゃいかんにゃーっ！」"
-msgstr ""
+msgstr "Héroe: ¡Porras! ¡No debería usarlo aquí!"
 
 msgctxt "60"
 msgid "勇者が何やらレバーを操作すると、その体が徐々に薄れて"
-msgstr ""
+msgstr "El héroe acciona una palanca y empieza a desvanecerse."
 
 msgctxt "61"
 msgid "いった。"
@@ -264,15 +264,15 @@ msgstr " "
 
 msgctxt "62"
 msgid "・・・そのまま逃げていってしまった！"
-msgstr ""
+msgstr "¡Kyūnichōki ha escapado!"
 
 msgctxt "63"
 msgid "『ぷっぷくぷー』"
-msgstr ""
+msgstr "¡Boooaaahooo!"
 
 msgctxt "64"
 msgid "角笛の音が、高らかに響きわたる！"
-msgstr ""
+msgstr "¡El cuerno bocinero resuena bien alto!"
 
 msgctxt "65"
 msgid "・・・攻撃は外れた。"
@@ -304,19 +304,19 @@ msgstr ""
 
 msgctxt "72"
 msgid "篭目はいかりやちょうけしで遊んでいる・・・"
-msgstr ""
+msgstr "Kagome está jugando con una figurita de goma..."
 
 msgctxt "73"
 msgid "篭目は死んだ小鳥の死体で遊んでいる・・・"
-msgstr ""
+msgstr "Kagome está jugando con un cadáver de pájaro..."
 
 msgctxt "74"
 msgid "篭目はらっきょで遊んでいる・・・"
-msgstr ""
+msgstr "Kagome está jugando con un puerro..."
 
 msgctxt "75"
 msgid "篭目はぼんやりとしている・・・"
-msgstr ""
+msgstr "Kagome está mirando las musarañas..."
 
 msgctxt "76"
 msgid "の行動"
@@ -332,23 +332,23 @@ msgstr "Defenderse"
 
 msgctxt "79"
 msgid "槍術"
-msgstr ""
+msgstr "Arremetida triple"
 
 msgctxt "80"
 msgid "剣技"
-msgstr ""
+msgstr "Tajo certero"
 
 msgctxt "81"
 msgid "剣技"
-msgstr ""
+msgstr "Estocada ligera"
 
 msgctxt "82"
 msgid "剣技"
-msgstr ""
+msgstr "Tajo certero"
 
 msgctxt "83"
 msgid "剣技"
-msgstr ""
+msgstr "Estocada ligera"
 
 msgctxt "84"
 msgid "鈴"
@@ -380,7 +380,7 @@ msgstr "Necesitas al menos 6 PM para poder usar esta habilidad."
 
 msgctxt "91"
 msgid "３回、普通に攻撃"
-msgstr ""
+msgstr "Akane golpea tres veces con su lanza."
 
 msgctxt "92"
 msgid "その技を使うにはＭＰが６必要です。"
@@ -388,7 +388,7 @@ msgstr "Necesitas al menos 6 PM para poder usar esta habilidad."
 
 msgctxt "93"
 msgid "現状の最大ダメージ、防御無視で命中率１００％で攻撃"
-msgstr ""
+msgstr "Masoho lanza un tajo que ignora la defensa del enemigo."
 
 msgctxt "94"
 msgid "その技を使うにはＭＰが６必要です。"
@@ -396,7 +396,7 @@ msgstr "Necesitas al menos 6 PM para poder usar esta habilidad."
 
 msgctxt "95"
 msgid "次のターンが回ってくるまでが早くなる攻撃"
-msgstr ""
+msgstr "Nanao aumenta su velocidad hasta el próximo turno."
 
 msgctxt "96"
 msgid "術をかけるレベルは？"
