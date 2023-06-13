@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Otome Senki\n"
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
-"PO-Revision-Date: 2023-05-26 18:27+0000\n"
+"PO-Revision-Date: 2023-06-14 16:26+0000\n"
 "Last-Translator: darkc0m <alex011298@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0004adv/es/>\n"
@@ -68,19 +68,19 @@ msgstr ""
 
 msgctxt "13"
 msgid "イベントアイテム"
-msgstr ""
+msgstr "Objetos clave"
 
 msgctxt "14"
 msgid "回復アイテム"
-msgstr ""
+msgstr "Consumibles"
 
 msgctxt "15"
 msgid "帰り木  残："
-msgstr ""
+msgstr "Bonsái de ret.:"
 
 msgctxt "16"
 msgid "ＸＸ"
-msgstr ""
+msgstr "99"
 
 msgctxt "17"
 msgid "＝ 鍵 ＝"
@@ -160,75 +160,75 @@ msgstr ""
 
 msgctxt "36"
 msgid "使うアイテムを選んで下さい"
-msgstr ""
+msgstr "Elige el objeto que quieras usar."
 
 msgctxt "37"
 msgid "世色癌１  ："
-msgstr ""
+msgstr "Frenatol jr.  :"
 
 msgctxt "38"
 msgid "ＸＸ"
-msgstr ""
+msgstr "99"
 
 msgctxt "39"
 msgid "世色癌２  ："
-msgstr ""
+msgstr "Frenatol cplx.:"
 
 msgctxt "40"
 msgid "ＸＸ"
-msgstr ""
+msgstr "99"
 
 msgctxt "41"
 msgid "世色癌３  ："
-msgstr ""
+msgstr "Frenatol forte:"
 
 msgctxt "42"
 msgid "ＸＸ"
-msgstr ""
+msgstr "99"
 
 msgctxt "43"
 msgid "まんが肉  ："
-msgstr ""
+msgstr "Carne de manga:"
 
 msgctxt "44"
 msgid "ＸＸ"
-msgstr ""
+msgstr "99"
 
 msgctxt "45"
 msgid "竜角惨   ："
-msgstr ""
+msgstr "Cuerno dragón :"
 
 msgctxt "46"
 msgid "ＸＸ"
-msgstr ""
+msgstr "99"
 
 msgctxt "47"
 msgid "復活の小判 ："
-msgstr ""
+msgstr "Moneda lázara :"
 
 msgctxt "48"
 msgid "ＸＸ"
-msgstr ""
+msgstr "99"
 
 msgctxt "49"
 msgid "ＨＰ回復 ３０"
-msgstr ""
+msgstr "Recupera 30 PS."
 
 msgctxt "50"
 msgid "ＨＰ回復 １００"
-msgstr ""
+msgstr "Recupera 100 PS."
 
 msgctxt "51"
 msgid "ＨＰ回復 ３００"
-msgstr ""
+msgstr "Recupera 300 PS."
 
 msgctxt "52"
 msgid "ＨＰ回復 ＭＡＸまで"
-msgstr ""
+msgstr "Recupera todos los PS."
 
 msgctxt "53"
 msgid "ＭＰ回復 ５０"
-msgstr ""
+msgstr "Recupera 50 PM."
 
 msgctxt "54"
 msgid "死んだ者を復活させます"
@@ -380,7 +380,7 @@ msgstr "Kagome"
 
 msgctxt "91"
 msgid "やめる"
-msgstr ""
+msgstr "Volver"
 
 msgctxt "92"
 msgid "  このキャラは死んでいます。"
@@ -388,11 +388,11 @@ msgstr ""
 
 msgctxt "93"
 msgid "  このキャラのＨＰは減っていません。"
-msgstr ""
+msgstr "        Este personaje no puede recuperar más PS."
 
 msgctxt "94"
 msgid "  このキャラのＭＰは減っていません。"
-msgstr ""
+msgstr "        Este personaje no puede recuperar más PM."
 
 msgctxt "95"
 msgid "  このキャラは死んでいません。"
@@ -400,23 +400,23 @@ msgstr ""
 
 msgctxt "96"
 msgid "  ＨＰを３０、回復します。いいですか？"
-msgstr ""
+msgstr "    Este personaje recuperará 30 PS. ¿Te parece bien?"
 
 msgctxt "97"
 msgid "  ＨＰを１００、回復します。いいですか？"
-msgstr ""
+msgstr "    Este personaje recuperará 100 PS. ¿Te parece bien?"
 
 msgctxt "98"
 msgid "  ＨＰを３００、回復します。いいですか？"
-msgstr ""
+msgstr "    Este personaje recuperará 300 PS. ¿Te parece bien?"
 
 msgctxt "99"
 msgid "  ＨＰをＭＡＸまで回復します。いいですか？"
-msgstr ""
+msgstr " Este personaje recuperará todos sus PS. ¿Te parece bien?"
 
 msgctxt "100"
 msgid "  ＭＰを５０、回復します。いいですか？"
-msgstr ""
+msgstr "    Este personaje recuperará 50 PM. ¿Te parece bien?"
 
 msgctxt "101"
 msgid "  このキャラを復活させます。いいですか？"
@@ -1044,11 +1044,11 @@ msgstr ""
 
 msgctxt "257"
 msgid "この祈りを天へ送るにはＭＰが"
-msgstr ""
+msgstr "Necesitas al menos "
 
 msgctxt "258"
 msgid "必要です。"
-msgstr ""
+msgstr " PM para poder recitar esta oración."
 
 msgctxt "259"
 msgid "誰に？"
@@ -1208,7 +1208,7 @@ msgstr ""
 
 msgctxt "298"
 msgid "  このキャラのＨＰは減っていません。"
-msgstr ""
+msgstr "        Este personaje no puede recuperar más PS."
 
 msgctxt "299"
 msgid "  ＨＰをＭＡＸの１／２回復します。いいですか？"
@@ -1636,7 +1636,7 @@ msgstr ""
 
 msgctxt "405"
 msgid "  ＭＰ："
-msgstr ""
+msgstr "  PM: "
 
 msgctxt "406"
 msgid "／"
