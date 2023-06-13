@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Otome Senki\n"
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
-"PO-Revision-Date: 2023-06-13 15:23+0000\n"
-"Last-Translator: wu <wu.oudeis@gmail.com>\n"
+"PO-Revision-Date: 2023-06-14 16:26+0000\n"
+"Last-Translator: darkc0m <alex011298@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0003adv/es/>\n"
 "Language: es\n"
@@ -304,15 +304,15 @@ msgstr ""
 
 msgctxt "72"
 msgid "篭目はいかりやちょうけしで遊んでいる・・・"
-msgstr "Kagome está jugando con una figurita de goma..."
+msgstr "Kagome está jugando con su figurita de goma..."
 
 msgctxt "73"
 msgid "篭目は死んだ小鳥の死体で遊んでいる・・・"
-msgstr "Kagome está jugando con un cadáver de pájaro..."
+msgstr "Kagome está jugando con su cadáver de pájaro..."
 
 msgctxt "74"
 msgid "篭目はらっきょで遊んでいる・・・"
-msgstr "Kagome está jugando con un puerro..."
+msgstr "Kagome está jugando con su puerro..."
 
 msgctxt "75"
 msgid "篭目はぼんやりとしている・・・"
@@ -536,11 +536,11 @@ msgstr ""
 
 msgctxt "130"
 msgid "この巻き物を使うにはＭＰが"
-msgstr ""
+msgstr "Necesitas al menos "
 
 msgctxt "131"
 msgid "必要です。"
-msgstr ""
+msgstr " PM para poder usar este pergamino."
 
 msgctxt "132"
 msgid "・・・敵の持つ闇の気が強すぎて、集中できない！"
@@ -580,7 +580,7 @@ msgstr ""
 
 msgctxt "141"
 msgid "この祈りを天に送るにはＭＰが５必要です。"
-msgstr ""
+msgstr "Necesitas al menos 5 PM para poder recitar esta oración."
 
 msgctxt "142"
 msgid "ふにゃふにゃの祈りが天に届く・・・"
@@ -592,11 +592,11 @@ msgstr ""
 
 msgctxt "144"
 msgid "この祈りを天へ送るにはＭＰが"
-msgstr ""
+msgstr "Necesitas al menos "
 
 msgctxt "145"
 msgid "必要です。"
-msgstr ""
+msgstr " PM para poder recitar esta oración."
 
 msgctxt "146"
 msgid "誰に？"
@@ -752,7 +752,7 @@ msgstr ""
 
 msgctxt "184"
 msgid "  そのキャラのＨＰは減っていません。"
-msgstr ""
+msgstr "        Este personaje no puede recuperar más PS."
 
 msgctxt "185"
 msgid "ＨＰを回復します。いいですか？"
@@ -772,7 +772,7 @@ msgstr ""
 
 msgctxt "189"
 msgid "この祈りを天に送るにはＭＰが１０必要です。"
-msgstr ""
+msgstr "Necesitas al menos 10 PM para poder recitar esta oración."
 
 msgctxt "190"
 msgid "おろおろの祈りが天に届く・・・"
@@ -784,7 +784,7 @@ msgstr ""
 
 msgctxt "192"
 msgid "この祈りを天に送るにはＭＰが１５必要です。"
-msgstr ""
+msgstr "Necesitas al menos 15 PM para poder recitar esta oración."
 
 msgctxt "193"
 msgid "かちかちの祈りが天に届く・・・"
@@ -796,7 +796,7 @@ msgstr ""
 
 msgctxt "195"
 msgid "この祈りを天に送るにはＭＰが２０必要です。"
-msgstr ""
+msgstr "Necesitas al menos 20 PM para poder recitar esta oración."
 
 msgctxt "196"
 msgid "もたもたの祈りが天に届く・・・"
@@ -1020,31 +1020,31 @@ msgstr ""
 
 msgctxt "251"
 msgid "  そのキャラのＨＰは減っていません。"
-msgstr ""
+msgstr "        Este personaje no puede recuperar más PS."
 
 msgctxt "252"
 msgid "  そのキャラのＭＰは減っていません。"
-msgstr ""
+msgstr "        Este personaje no puede recuperar más PM."
 
 msgctxt "253"
 msgid "  ＨＰを３０、回復します。いいですか？"
-msgstr ""
+msgstr "    Este personaje recuperará 30 PS. ¿Te parece bien?"
 
 msgctxt "254"
 msgid "  ＨＰを１００、回復します。いいですか？"
-msgstr ""
+msgstr "    Este personaje recuperará 100 PS. ¿Te parece bien?"
 
 msgctxt "255"
 msgid "  ＨＰを３００、回復します。いいですか？"
-msgstr ""
+msgstr "    Este personaje recuperará 300 PS. ¿Te parece bien?"
 
 msgctxt "256"
 msgid "  ＨＰをＭＡＸまで回復します。いいですか？"
-msgstr ""
+msgstr " Este personaje recuperará todos sus PS. ¿Te parece bien?"
 
 msgctxt "257"
 msgid "  ＭＰを５０、回復します。いいですか？"
-msgstr ""
+msgstr "    Este personaje recuperará 50 PM. ¿Te parece bien?"
 
 msgctxt "258"
 msgid "ＹＥＳ"
@@ -1064,7 +1064,7 @@ msgstr "/"
 
 msgctxt "262"
 msgid "  ＭＰ："
-msgstr "  ＭＰ："
+msgstr "  PM: "
 
 msgctxt "263"
 msgid "／"
