@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
 "PO-Revision-Date: 2023-06-14 16:26+0000\n"
-"Last-Translator: darkc0m <alex011298@gmail.com>\n"
+"Last-Translator: wu <wu.oudeis@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0003adv/es/>\n"
 "Language: es\n"
@@ -484,11 +484,11 @@ msgstr "Necesitas al menos 8 PM para poder usar este pergamino."
 
 msgctxt "117"
 msgid "火の巻に念をこめる・・・"
-msgstr ""
+msgstr "Imbuyes de energía el pergamino de fuego..."
 
 msgctxt "118"
 msgid "武器に火炎をまとわせた！"
-msgstr ""
+msgstr "¡Las llamas envuelven tu arma!"
 
 msgctxt "119"
 msgid "この巻き物を使うにはＭＰが８必要です。"
@@ -496,11 +496,11 @@ msgstr "Necesitas al menos 8 PM para poder usar este pergamino."
 
 msgctxt "120"
 msgid "水の巻に念をこめる・・・"
-msgstr ""
+msgstr "Imbuyes de energía el pergamino de hielo..."
 
 msgctxt "121"
 msgid "霧が辺りに立ちこめ、全体の命中率が下がった！"
-msgstr ""
+msgstr "¡Una niebla densa reduce la precisión de los enemigos!"
 
 msgctxt "122"
 msgid "この巻き物を使うにはＭＰが８必要です。"
@@ -508,11 +508,11 @@ msgstr "Necesitas al menos 8 PM para poder usar este pergamino."
 
 msgctxt "123"
 msgid "土の巻に念をこめる・・・"
-msgstr ""
+msgstr "Imbuyes de energía el pergamino de tierra..."
 
 msgctxt "124"
 msgid "土で鎧が強化された！"
-msgstr ""
+msgstr "¡Tu armadura aumenta su defensa!"
 
 msgctxt "125"
 msgid "この巻き物を使うにはＭＰが８必要です。"
@@ -520,19 +520,19 @@ msgstr "Necesitas al menos 8 PM para poder usar este pergamino."
 
 msgctxt "126"
 msgid "雷の巻に念をこめる・・・"
-msgstr ""
+msgstr "Imbuyes de energía el pergamino de rayo..."
 
 msgctxt "127"
 msgid "行動後の立て直しが素早くなった！"
-msgstr ""
+msgstr "¡Te reorganizarás más rápido al acabar tu turno!"
 
 msgctxt "128"
 msgid "光の巻に念をこめる・・・"
-msgstr ""
+msgstr "Imbuyes de energía el pergamino de luz..."
 
 msgctxt "129"
 msgid "残りＭＰを全てＨＰにかえた！"
-msgstr ""
+msgstr "¡Tus PM se han convertido en PS!"
 
 msgctxt "130"
 msgid "この巻き物を使うにはＭＰが"
@@ -544,15 +544,15 @@ msgstr " PM para poder usar este pergamino."
 
 msgctxt "132"
 msgid "・・・敵の持つ闇の気が強すぎて、集中できない！"
-msgstr ""
+msgstr "¡El aura maligna del enemigo no te deja concentrarte!"
 
 msgctxt "133"
 msgid "闇の巻に念をこめる・・・"
-msgstr ""
+msgstr "Imbuyes de energía el pergamino de oscuridad..."
 
 msgctxt "134"
 msgid "敵と自分が闇に包まれた！"
-msgstr ""
+msgstr "¡Las tinieblas te rodean a ti y a tu enemigo!"
 
 msgctxt "135"
 msgid "巻き物をもってない。"
