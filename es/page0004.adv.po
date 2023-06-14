@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Otome Senki\n"
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
-"PO-Revision-Date: 2023-06-14 16:26+0000\n"
+"PO-Revision-Date: 2023-06-15 15:28+0000\n"
 "Last-Translator: darkc0m <alex011298@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0004adv/es/>\n"
@@ -384,7 +384,7 @@ msgstr "Volver"
 
 msgctxt "92"
 msgid "  このキャラは死んでいます。"
-msgstr ""
+msgstr "    No puedes usar este objeto en un personaje muerto."
 
 msgctxt "93"
 msgid "  このキャラのＨＰは減っていません。"
@@ -396,7 +396,7 @@ msgstr "        Este personaje no puede recuperar más PM."
 
 msgctxt "95"
 msgid "  このキャラは死んでいません。"
-msgstr ""
+msgstr "              Este personaje no está muerto."
 
 msgctxt "96"
 msgid "  ＨＰを３０、回復します。いいですか？"
@@ -420,7 +420,7 @@ msgstr "    Este personaje recuperará 50 PM. ¿Te parece bien?"
 
 msgctxt "101"
 msgid "  このキャラを復活させます。いいですか？"
-msgstr ""
+msgstr "       Este personaje resucitará. ¿Te parece bien?"
 
 msgctxt "102"
 msgid "ＹＥＳ"
@@ -1200,11 +1200,11 @@ msgstr "Kagome"
 
 msgctxt "296"
 msgid "やめる"
-msgstr ""
+msgstr "Volver"
 
 msgctxt "297"
 msgid "  このキャラは死んでいます。"
-msgstr ""
+msgstr " Este personaje no puede recuperar PS porque está muerto."
 
 msgctxt "298"
 msgid "  このキャラのＨＰは減っていません。"
@@ -1212,7 +1212,7 @@ msgstr "        Este personaje no puede recuperar más PS."
 
 msgctxt "299"
 msgid "  ＨＰをＭＡＸの１／２回復します。いいですか？"
-msgstr ""
+msgstr "    Este personaje recuperará X PS. ¿Te parece bien?"
 
 msgctxt "300"
 msgid "ＹＥＳ"
