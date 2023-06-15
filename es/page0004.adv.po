@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Otome Senki\n"
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
-"PO-Revision-Date: 2023-06-15 15:28+0000\n"
+"PO-Revision-Date: 2023-06-16 17:26+0000\n"
 "Last-Translator: darkc0m <alex011298@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0004adv/es/>\n"
@@ -84,7 +84,7 @@ msgstr "99"
 
 msgctxt "17"
 msgid "＝ 鍵 ＝"
-msgstr ""
+msgstr "∼∼ Llaves ∼∼"
 
 msgctxt "18"
 msgid "ムサシボウの鍵 ：地下２階の鍵です"
@@ -100,7 +100,7 @@ msgstr ""
 
 msgctxt "21"
 msgid "＝その他＝"
-msgstr ""
+msgstr "∼∼ Otros ∼∼"
 
 msgctxt "22"
 msgid "幻破の鏡    ：地下３階で拾いました"
@@ -232,7 +232,7 @@ msgstr "Recupera 50 PM."
 
 msgctxt "54"
 msgid "死んだ者を復活させます"
-msgstr ""
+msgstr "Resucita a un personaje."
 
 msgctxt "55"
 msgid "あかね"
@@ -432,7 +432,7 @@ msgstr "No"
 
 msgctxt "104"
 msgid "誰の装備をかえますか？"
-msgstr ""
+msgstr "¿De quién quieres cambiar el equipo?"
 
 msgctxt "105"
 msgid "あかね"
@@ -580,7 +580,7 @@ msgstr "Kagome"
 
 msgctxt "141"
 msgid "やめる"
-msgstr ""
+msgstr "Volver"
 
 msgctxt "142"
 msgid "あかね"
@@ -728,7 +728,7 @@ msgstr "Kagome"
 
 msgctxt "178"
 msgid "やめる"
-msgstr ""
+msgstr "Volver"
 
 msgctxt "179"
 msgid "名前   現ＨＰ／最大値 現ＭＰ／最大値 疲労 経験値"
@@ -960,7 +960,7 @@ msgstr "Akane"
 
 msgctxt "236"
 msgid "足軽"
-msgstr ""
+msgstr "Soldado raso"
 
 msgctxt "237"
 msgid "桧垣　真朱"
@@ -1052,7 +1052,7 @@ msgstr " PM para poder recitar esta oración."
 
 msgctxt "259"
 msgid "誰に？"
-msgstr ""
+msgstr "¿Recitar sobre quién?"
 
 msgctxt "260"
 msgid "あかね"
@@ -1268,7 +1268,7 @@ msgstr ""
 
 msgctxt "313"
 msgid "パーティ"
-msgstr ""
+msgstr "Grupo"
 
 msgctxt "314"
 msgid "あかね  ＨＰ："
