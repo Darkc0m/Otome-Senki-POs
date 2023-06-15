@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
 "PO-Revision-Date: 2023-06-15 15:28+0000\n"
-"Last-Translator: darkc0m <alex011298@gmail.com>\n"
+"Last-Translator: wu <wu.oudeis@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0003adv/es/>\n"
 "Language: es\n"
@@ -32,11 +32,11 @@ msgstr " se acerca!"
 
 msgctxt "4"
 msgid "はまだ、身構えていない！"
-msgstr ""
+msgstr " está con la guardia baja!"
 
 msgctxt "5"
 msgid "に、不意をつかれた！"
-msgstr ""
+msgstr " se sorprende de tu llegada!"
 
 msgctxt "6"
 msgid "パーティーは全滅しました"
@@ -560,23 +560,23 @@ msgstr "No tienes ningún pergamino equipado."
 
 msgctxt "136"
 msgid "ふにゃふにゃ"
-msgstr ""
+msgstr "Lasitud"
 
 msgctxt "137"
 msgid "もりもり"
-msgstr ""
+msgstr "Afán"
 
 msgctxt "138"
 msgid "おろおろ"
-msgstr ""
+msgstr "Delirio"
 
 msgctxt "139"
 msgid "かちかち"
-msgstr ""
+msgstr "Reciedumbre"
 
 msgctxt "140"
 msgid "もたもた"
-msgstr ""
+msgstr "Sosiego"
 
 msgctxt "141"
 msgid "この祈りを天に送るにはＭＰが５必要です。"
@@ -584,11 +584,11 @@ msgstr "Necesitas al menos 5 PM para poder recitar esta oración."
 
 msgctxt "142"
 msgid "ふにゃふにゃの祈りが天に届く・・・"
-msgstr ""
+msgstr "La oración de lasitud llega a los cielos..."
 
 msgctxt "143"
 msgid "敵の防御が少し弱くなった。"
-msgstr ""
+msgstr "La defensa del enemigo se reduce."
 
 msgctxt "144"
 msgid "この祈りを天へ送るにはＭＰが"
@@ -768,7 +768,7 @@ msgstr "No"
 
 msgctxt "188"
 msgid "もりもりの祈りが天に届く・・・"
-msgstr ""
+msgstr "La oración de afán llega a los cielos..."
 
 msgctxt "189"
 msgid "この祈りを天に送るにはＭＰが１０必要です。"
@@ -776,11 +776,11 @@ msgstr "Necesitas al menos 10 PM para poder recitar esta oración."
 
 msgctxt "190"
 msgid "おろおろの祈りが天に届く・・・"
-msgstr ""
+msgstr "La oración de delirio llega a los cielos..."
 
 msgctxt "191"
 msgid "敵はこちらの攻撃に集中できなくなったようだ。"
-msgstr ""
+msgstr "El enemigo pierde la concentración."
 
 msgctxt "192"
 msgid "この祈りを天に送るにはＭＰが１５必要です。"
@@ -788,11 +788,11 @@ msgstr "Necesitas al menos 15 PM para poder recitar esta oración."
 
 msgctxt "193"
 msgid "かちかちの祈りが天に届く・・・"
-msgstr ""
+msgstr "La oración de reciedumbre llega a los cielos..."
 
 msgctxt "194"
 msgid "全員が、見えない力に包まれたような気がした。"
-msgstr ""
+msgstr "Un poder misterioso envuelve al grupo."
 
 msgctxt "195"
 msgid "この祈りを天に送るにはＭＰが２０必要です。"
@@ -800,11 +800,11 @@ msgstr "Necesitas al menos 20 PM para poder recitar esta oración."
 
 msgctxt "196"
 msgid "もたもたの祈りが天に届く・・・"
-msgstr ""
+msgstr "La oración de sosiego llega a los cielos..."
 
 msgctxt "197"
 msgid "敵の動きが少し遅くなった。"
-msgstr ""
+msgstr "La velocidad de los enemigos se reduce."
 
 msgctxt "198"
 msgid "使うアイテムを選んで下さい"
@@ -1140,7 +1140,7 @@ msgstr "Inflige X puntos de daño."
 
 msgctxt "281"
 msgid "はらたまが、きらめいた！"
-msgstr ""
+msgstr "¡El gohei centellea!"
 
 msgctxt "282"
 msgid "のダメージを与えた。"
@@ -1156,7 +1156,7 @@ msgstr "El grupo recibe puntos de experiencia."
 
 msgctxt "285"
 msgid "きよたまが、優しい光を放った。"
-msgstr ""
+msgstr "La shimenawa emite una luz cálida."
 
 msgctxt "286"
 msgid "    あかねの現経験値 ："
