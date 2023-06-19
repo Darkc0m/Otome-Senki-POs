@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Otome Senki\n"
 "Report-Msgid-Bugs-To: Darkc0m\n"
 "POT-Creation-Date: 16/05/23\n"
-"PO-Revision-Date: 2023-06-10 18:26+0000\n"
+"PO-Revision-Date: 2023-06-20 09:26+0000\n"
 "Last-Translator: darkc0m <alex011298@gmail.com>\n"
 "Language-Team: Spanish <http://cocoserver.ddns.net/projects/otome-senki/"
 "page0005adv/es/>\n"
@@ -228,7 +228,7 @@ msgstr "Repostera"
 
 msgctxt "53"
 msgid "お菓子を投げた"
-msgstr "Lanzamiento de caramelo"
+msgstr "Caramelazo"
 
 msgctxt "54"
 msgid "お菓子を食べた"
@@ -296,7 +296,7 @@ msgstr "Golpe colmillo"
 
 msgctxt "70"
 msgid "増殖した"
-msgstr "Reproducción"
+msgstr "Mitosis"
 
 msgctxt "71"
 msgid "噛付いてきた"
@@ -536,7 +536,7 @@ msgstr "Toque de guitarra"
 
 msgctxt "130"
 msgid "帽子を投げた"
-msgstr "Lanzamiento de sombrero"
+msgstr "Sombrerazo"
 
 msgctxt "131"
 msgid "説教をたれた"
@@ -1360,7 +1360,7 @@ msgstr "Golpe crítico"
 
 msgctxt "336"
 msgid "真・源氏"
-msgstr "Guerrero Minamoto real"
+msgstr "Guerrero Minamoto Ψ"
 
 msgctxt "337"
 msgid "斬りかかってきた"
@@ -1548,7 +1548,7 @@ msgstr "Barrido de naginata"
 
 msgctxt "383"
 msgid "千の武器を振るった"
-msgstr "Golpe de las mil armas"
+msgstr "Miríada de golpes"
 
 msgctxt "384"
 msgid "テング"
